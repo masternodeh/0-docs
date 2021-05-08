@@ -33,7 +33,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Stuff',
+          title: 'Guides',
           items: [
             {
               label: 'Ethereum (ETH) Guides',
@@ -55,30 +55,31 @@ module.exports = {
               label: 'Mobile Guides',
               to: 'docs/mobile/',
             },
-			{
-              label: 'Grow Playing Guides',
-              to: 'docs/grow/',
-            },
-			{
+          ],
+        },
+		{
+          title: 'Explainers',
+          items: [
+            {
               label: 'Impermanent Loss Explainer',
               to: 'docs/il/',
             },
-			{
-              label: 'NFT Guides',
-              to: 'docs/nft/',
-            },
-			{
+            {
               label: 'Rugpull Explainer',
               to: 'docs/nft/',
             },
 			{
-              label: 'DEFIAT Guides',
-              to: 'docs/defiat/',
+              label: 'NFT Explainer',
+              to: 'docs/nft/',
+            },
+			{
+              label: 'Grow Playing Guides',
+              to: 'docs/grow/',
             },
           ],
         },
         {
-          title: 'Things',
+          title: 'News',
           items: [
             {
               label: 'Blog',
