@@ -8,32 +8,36 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: <>Ethereum (ETH,ERC20) </>,
+    imageUrl: 'img/ethereum-logo.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+	Ethereum (ETH) - Gas fees from hell, front running, and juicy liquidity make up this 
+	section which will take you through what true Chad's already know. Once you're ready 
+	you'll be able to take a shot at the big leagues and conquer DeFI on the 
+	Ethereum (ETH) blockchain.
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: <>Avalanche (AVAX,ARC20) </>,
+    imageUrl: 'img/avax-logo.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+	Avalanche (AVAX) - The chain we all thought we loved but couldn't figure out. X-chain, 
+	C-Chain, P-Chain, AVAX has them all and it can be confusing if you don't know which is 
+	which. Dive into the blockchain ZERO was the first DEX to launch on.
       </>
     ),
   },
   {
-    title: <>Powered by React</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: <>Smart Chain (BNB,BEP2,BEP20) </>,
+    imageUrl: 'img/binance-logo.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+	Binance Smart Chain (BSC) - The new kid on the block. Binance Smart Chain has been taking 
+	the DeFI space by storm. If you want to find out all the ins and outs, you need to know 
+	about Smart Chain - then your true Degenerate will shine through.
       </>
     ),
   },
@@ -59,8 +63,8 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title}`}
+      description="Degen Reference Guide">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
@@ -71,8 +75,24 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/doc1')}>
-              Get Started
+              to={useBaseUrl('docs/eth')}>
+              ETH 
+            </Link>
+            <Link
+              className={classnames(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to={useBaseUrl('docs/avax')}>
+              AVAX 
+            </Link>
+            <Link
+              className={classnames(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to={useBaseUrl('docs/bsc')}>
+              BSC 
             </Link>
           </div>
         </div>
