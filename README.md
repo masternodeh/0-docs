@@ -1,4 +1,4 @@
 # Hello world
 
-This is a reference guide for the Zero Exchange
+This is a reference guide for the 0.Exchange
 
