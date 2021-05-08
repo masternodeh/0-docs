@@ -1,28 +1,29 @@
+/** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Layer Zero',
+  tagline: 'Gains without pains!',
+  url: 'https://zero.masternode.io/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'masternodeh', // Usually your GitHub org/user name.
+  projectName: 'zero-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Degen Reference Guide',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Degen Reference Guide Logo',
+        src: 'img/logo.png',
       },
-      links: [
+      items: [
         {
-          to: 'docs/doc1',
+          to: 'docs/',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/masternodeh/zero-docs/',
           label: 'GitHub',
           position: 'right',
         },
@@ -32,37 +33,52 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Stuff',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/doc1',
+              label: 'Ethereum (ETH) Guides',
+              to: 'docs/eth/',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2',
+              label: 'Avalanche (AVAX) Guides',
+              to: 'docs/avax/',
+            },
+            {
+              label: 'Smart-Chain (BNB) Guides',
+              to: 'docs/bsc/',
+            },
+			{
+              label: 'Solana (SOL) Guides',
+              to: 'docs/sol/',
+            },
+            {
+              label: 'Mobile Guides',
+              to: 'docs/mobile/',
+            },
+			{
+              label: 'Grow Playing Guides',
+              to: 'docs/grow/',
+            },
+			{
+              label: 'Impermanent Loss Explainer',
+              to: 'docs/il/',
+            },
+			{
+              label: 'NFT Guides',
+              to: 'docs/nft/',
+            },
+			{
+              label: 'Rugpull Explainer',
+              to: 'docs/nft/',
+            },
+			{
+              label: 'DEFIAT Guides',
+              to: 'docs/defiat/',
             },
           ],
         },
         {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
+          title: 'Things',
           items: [
             {
               label: 'Blog',
@@ -70,12 +86,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/masternodeh/zero-docs',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()}@masternodeh Built with Love!`,
     },
   },
   presets: [
@@ -86,13 +102,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/masternodeh/zero-docs/edit/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/masternodeh/zero-docs/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
