@@ -21,15 +21,21 @@ Only proceed if you are a space nut
 
 # Flight Preparation
 
+
 # First Flight
 Mastcam-Z View
-
-<iframe src='https://mars.nasa.gov/embed/25838/' width='100%' height='100%'  scrolling='no' frameborder='0'></iframe>
 
 
 Navcam View
 
-<iframe src='https://mars.nasa.gov/embed/25817/' width='100%' height='100%'  scrolling='no' frameborder='0'></iframe>
 
 # Second Flight
-<iframe src='https://mars.nasa.gov/embed/25840/' width='100%' height='100%'  scrolling='no' frameborder='0'></iframe>
+
+
+# Third Flight
+
+
+# Fourth Flight
+
+
+# Fifth Flight
