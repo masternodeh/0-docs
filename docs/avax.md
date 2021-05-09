@@ -66,6 +66,8 @@ Scammers are out there minting tokens that have the same names and same supply b
 | zBTC		| `0xc4f4Ff34A2e2cF5e4c892476BB2D056871125452`	|	 ** 8  **	| 
 | zDAI		| `0x12f108E6138d4A9c58511e042399cF8f90D5673f`	|	 ** 18  **	| 
 | WAVAX		| `0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7`	|	 ** 18  **	| 
+| GDL		| `0xd606199557c8ab6f4cc70bd03facc96ca576f142`	|	 ** 18  **	| 
+
 
 ## Screen Shots
 Before you start
