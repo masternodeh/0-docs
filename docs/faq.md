@@ -21,9 +21,9 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 [Which wallet to use?] (faq001.md)
 
-[Which browser to use?] (faq002.md)
+[Which browser to use?] (/docs/faq002.md)
 
-[What are the Zero contract addresses?] (/faq003/)
+[What are the Zero contract addresses?] (https://0.masternode.io/docs/faq003/)
 
 [Can I buy Zero on Pancakeswap?] (/faq004/)
 
