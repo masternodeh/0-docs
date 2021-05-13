@@ -84,7 +84,7 @@ module.exports = {
 			{
 			  label: 'Faq',
 			  to: 'docs/wiki/',
-			}
+			},
             {
               label: 'Blog',
               to: 'blog',
