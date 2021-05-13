@@ -19,8 +19,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 # Frequently Asked Questions
 
 
-* [Which wallet to use?] (/faq001/)
-* [Which brower to use?] (/faq002/)
+* [Which wallet to use?] (faq001/)
+* [Which brower to use?] (faq002/)
 * [What are the Zero contract addresses?] (/faq003/)
 * [Can I buy Zero on Pancakeswap?] (/faq004/)
 * [Why are some of the tokens on BSC and Avax named "z-XXX"?] (/faq005/)
