@@ -21,11 +21,18 @@ Welcome to a wiki of information compiled by our community members. Hope you enj
 
 # Table of Contents
 
-* [What is the Zero Exchange?] (wiki/whatiszeroexchange.md)
-* [Roadmap] (wiki/roadmap.md)
-* [How and where to buy the ZERO token?] (wiki/howtobuyzero.md)
-* [Fructify your ZERO investment] (wiki/fructifyzero.md)
-* [Zero Gravity launchpad] (wiki/zerogravity.md)
-* [Partnerships] (wiki/partnerships.md)
-* [Communities and social media] (wiki/communities.md)
-* [FAQ's] (faq/toc.md)
+[What is the Zero Exchange?] (wiki/whatiszeroexchange.md)
+
+[Roadmap] (wiki/roadmap.md)
+
+[How and where to buy the ZERO token?] (wiki/howtobuyzero.md)
+
+[Fructify your ZERO investment] (wiki/fructifyzero.md)
+
+[Zero Gravity launchpad] (wiki/zerogravity.md)
+
+[Partnerships] (wiki/partnerships.md)
+
+[Communities and social media] (wiki/communities.md)
+
+[FAQ's] (faq/toc.md)
