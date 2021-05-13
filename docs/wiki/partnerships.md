@@ -22,7 +22,7 @@ The Zero exchange is an open platform, meaning that they won't always develop ev
 
 1. [Moonbeam](https://medium.com/@OfficialZeroDex/0-exchange-brings-an-omnidex-to-the-dot-ecosystem-by-deploying-to-moonbeam-4d0dc395f7dd)
 
-1. [ChartEx1] (https://medium.com/@OfficialZeroDex/chartex-brings-omnichain-charting-to-0-exchange-9ca040298029)
+1. [ChartEx1](https://medium.com/@OfficialZeroDex/chartex-brings-omnichain-charting-to-0-exchange-9ca040298029)
 
 1. [ChartEx2](https://chartexpro.medium.com/new-economic-model-subscription-updates-1a9c34b731be)
 
@@ -32,6 +32,6 @@ The Zero exchange is an open platform, meaning that they won't always develop ev
 
 1. [Kairon Labs](https://medium.com/@OfficialZeroDex/0-exchange-finds-its-preferred-market-maker-fac7b6a9d1be)
 
-1. [Gondola Finance:](https://medium.com/@OfficialZeroDex/gondola-finance-new-asset-listing-26aa3a30a2ba)
+1. [Gondola Finance](https://medium.com/@OfficialZeroDex/gondola-finance-new-asset-listing-26aa3a30a2ba)
 
 1. [Bithumb Global](https://medium.com/@OfficialZeroDex/zero-exchange-x-bithumb-global-f1319c511ac9)

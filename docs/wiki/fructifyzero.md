@@ -63,7 +63,9 @@ What to do with the rewards:
 
 
 **Risks:** Please learn about Impermanent Loss
-* [https://zero.masternode.io/docs/il](https://zero.masternode.io/docs/il)
+
+* [https://0.masternode.io/docs/il](https://0.masternode.io/docs/il)
+
 * [https://academy.binance.com/en/articles/impermanent-loss-explained](https://academy.binance.com/en/articles/impermanent-loss-explained)
 
 
@@ -80,9 +82,13 @@ Price of Zero on the Avalanche chain: 33c
 
 High level steps:
 * On BSC chain: Swap ZERO to USDT
+
 * Cross chain USDT to the Avalanche chain
+
 * On Avanlanche chain: Swap USDT to ZERO
+
 => Now you have more Zero for the same capital 🙂
+
 => And then continue these operations back and forth between the different chains
 
 To make it worth: You have to do it with rather big volumes to offset the bridge costs

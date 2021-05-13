@@ -29,24 +29,28 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 
   <TabItem value="general">
-      # How and where to buy the ZERO token?
-
-      ## On the Zero Exchange
+      How and where to buy the ZERO token?
 
       On the Zero Exchange itself on different chains:
       * On Ethereum
+	  
       * On Binance Smart Chain (= "BSC" in short)
+	  
       * On Avalanche
+	  
       * With a credit card (note: not all countries are yet allowed to buy via a credit card)
+	  
 
-      ## On centralised exchange(s):
+      On Centralised exchanges (CEX):
       * On [Bithumb Global](https://www.bithumb.pro/en-us)
-        Note: The ZERO bought there is on the Ethereum chain.  The tokens can be sent to your wallet on the ERC20 network
+	  
+      :::note
+	  The ZERO bought there is on the Ethereum chain.  The tokens can be sent to your wallet on the ERC20 network
+	  :::
 
+      Which are the cheapest options to buy ZERO on the Exchange?
 
-      ## Which are the cheapest options to buy ZERO on the Exchange?
-
-      ### Assumptions
+      Assumptions
 
       * Most of the options described are based on using the wallet MetaMask
           Some of the options may work with other wallets as well, like Trust Wallet
@@ -54,7 +58,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
       * You know how to add a new token in the token lists of your wallet
 
 
-      ### From the cheapest to the more expensive option
+      From the cheapest to the more expensive option
 
         1. Buy on the BSC chain
         2. Buy on the Avalanche chain
@@ -66,11 +70,17 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
       Youtube tutorial: https://www.youtube.com/watch?v=FNGqS-X4ruM
 
       * Buy AVAX on a centralised exchange, like Binance or OKex
+	  
       * Send AVAX to the Web Avalanche Wallet
-        AVAX must be withdrawn from Binance on the X-chain address from the Web Avalanche Wallet: This process can be slow, from several minutes to several hours before the AVAX tokens are received in the Avalanche Web Wallet
+	  
+      AVAX must be withdrawn from Binance on the X-chain address from the Web Avalanche Wallet: This process can be slow, from several minutes to several hours before the AVAX tokens are received in the Avalanche Web Wallet
+		
       * Inside the Web Avalanche Wallet, cross chain the received AVAX from the X-chain to the C-chain
+	  
       * Send the AVAX from the Web Avalanche Wallet to MetaMask
+	  
       * On the Zero Exchange, have your wallet connected and switch to the Avalanche chain
+	  
       * On the swap page, trade AVAX for ZERO
 
   </TabItem>
@@ -80,13 +90,18 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
       Youtube tutorial: https://www.youtube.com/watch?v=77B7vfFtxq4
 
       * Buy BNB on Binance
+	  
       * From Binance, withdraw/send it to the MetaMask wallet on the BEP20 network
+	  
       * On the Zero Exchange, have your wallet connected and switch to the Smart Chain
+	  
       * On the swap page, trade BNB for Zero
 
-      Note:
-      *  **Don't use Pancakeswap** to buy ZERO on the BSC chain
-      * Don't confuse the BSC network with the Binance website which is the trading centralized platform running on its own and is not connected to the BSC network.   Binance created the BSC network as a decentralized network, but they are still in full control of it
+      :::note
+      Don't use **Pancakeswap** to buy ZERO on the BSC chain
+	  :::
+	  
+	  Don't confuse the BSC network with the Binance website which is the trading centralized platform running on its own and is not connected to the BSC network.   Binance created the BSC network as a decentralized network, but they are still in full control of it
   </TabItem>
 
 
