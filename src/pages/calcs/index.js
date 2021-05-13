@@ -14,8 +14,8 @@ import {
 } from "evergreen-ui";
 
 const NEBULA = 5000;
-const RED_GIANT = 500_000;
-const SUPERNOVA = 1_000_000;
+const RED_GIANT = 500000;
+const SUPERNOVA = 1000000;
 
 function getTierInfo(value: number, multiplier: number) {
   let finalValue = value * multiplier;
