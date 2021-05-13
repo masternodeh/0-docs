@@ -1,5 +1,5 @@
 ---
-id: partnerships
+id: wiki/partnerships
 title: Partnerships
 sidebar_label: Partnerships
 hide_title: true

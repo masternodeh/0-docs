@@ -1,5 +1,5 @@
 ---
-id: descZeroExchange
+id: wiki/whatiszeroexchange
 title: What is Zero Exchange
 sidebar_label: What is Zero Exchange
 hide_title: true

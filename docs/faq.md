@@ -16,14 +16,16 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-# Frequently Asked Questions
+# Intro
+Below is a list of links we have compiled into a FAQ covering things that constantly get asked in Telegram and on our socials. Please enjoy!
 
+# Links
 
-[Which wallet to use?] (faq001.md)
+[Which wallet to use?] (/faq/faq001.md)
 
-[Which browser to use?] (/docs/faq002.md)
+[Which browser to use?] (/faq/faq002.md)
 
-[What are the Zero contract addresses?] (https://0.masternode.io/docs/faq003/)
+[What are the Zero contract addresses?] (https://0.masternode.io/faq/faq003/)
 
 [Can I buy Zero on Pancakeswap?] (/faq004/)
 

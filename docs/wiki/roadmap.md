@@ -1,5 +1,5 @@
 ---
-id: roadmap
+id: wiki/roadmap
 title: Roadmap
 sidebar_label: Roadmap
 hide_title: true
