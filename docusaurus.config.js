@@ -2,11 +2,11 @@
 module.exports = {
   title: 'Layer Zero',
   tagline: 'Gains without pains!',
-  url: 'https://zero.masternode.io/',
+  url: 'https://0.masternode.io/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'masternodeh', // Usually your GitHub org/user name.
-  projectName: 'zero-docs', // Usually your repo name.
+  organizationName: 'masternodeh', 
+  projectName: 'zero-docs',
   themeConfig: {
     navbar: {
       title: 'Degen Reference Guide',
@@ -23,7 +23,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/masternodeh/zero-docs/',
+          href: 'https://github.com/masternodeh/0-docs/',
           label: 'GitHub',
           position: 'right',
         },
@@ -79,20 +79,24 @@ module.exports = {
           ],
         },
         {
-          title: 'News',
+          title: 'Wiki',
           items: [
+			{
+			  label: 'Faq',
+			  to: 'docs/wiki/',
+			}
             {
               label: 'Blog',
               to: 'blog',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/masternodeh/zero-docs',
+              href: 'https://github.com/masternodeh/0-docs',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()}@masternodeh Built with Love!`,
+      copyright: `Copyright © ${new Date().getFullYear()}@masternodeh Built with love from the community!`,
     },
   },
   presets: [
@@ -101,15 +105,13 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/masternodeh/zero-docs/edit/master/',
+            'https://github.com/masternodeh/0-docs/edit/master/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/masternodeh/zero-docs/edit/master/',
+            'https://github.com/masternodeh/0-docs/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

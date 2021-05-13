@@ -1,10 +1,10 @@
 ---
-id: home
-title: Home
-sidebar_label: Home
+id: wiki
+title: Wiki
+sidebar_label: Wiki
 hide_title: true
 hide_table_of_contents: true
-description: Home
+description: Community Built Wiki for 0.exchange
 keywords:
  - "ZERO Exchange"
  - "$ZERO"
