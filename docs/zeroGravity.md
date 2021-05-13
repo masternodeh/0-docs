@@ -27,14 +27,16 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 
   <TabItem value="general">
-      ## Zero Gravity launchpad
+      Zero Gravity launchpad
 
-      The zero Exchange has its own launchpad, [Zero Gravity](https://www.notion.so/IDO-Zero-Gravity-launchpad-cc3c4e7bd1c54a7195b1e9df2f16116b#975685f51f464b198d8130300fa7f423):
-      * Allows great flexibility for the projects to choose the chain they want to launch their token on
-      * Sometimes, an IDO way require a KYC ("Know Your Customer") to make it to the whitelist to be able to participate in an IDO (typically, US or Canadian citizens are barred from entering such IDOs).  The Zero exchange has found a way for citizens from barred countries to still benefit these IDOs. An automated market maker sells the allocation of the winners, who in turn will receive their share of the benefits without ever having received the IDO tokens.
+      The zero Exchange has its own launchpad, [Zero Gravity](https://www.notion.so/IDO-Zero-Gravity-launchpad-cc3c4e7bd1c54a7195b1e9df2f16116b#975685f51f464b198d8130300fa7f423)
+	  
+      1. Allows great flexibility for the projects to choose the chain they want to launch their token on
+      1. Sometimes, an IDO way require a KYC ("Know Your Customer") to make it to the whitelist to be able to participate in an IDO (typically, US or Canadian citizens are barred from entering such IDOs).  
+	  1. The Zero exchange has found a way for citizens from barred countries to still benefit these IDOs. An automated market maker sells the allocation of the winners, who in turn will receive their share of the benefits without ever having received the IDO tokens.
 
 
-      ## Planned IDOs on Zero Zero Gravity
+      # Planned IDOs on Zero Zero Gravity
 
       * Date TBC, 2021: SENT (not started)
       * May 19th, 2021: GROW (snapshots started)

@@ -1,10 +1,10 @@
 ---
 id: communities
 title: Communities and social media
-sidebar_label: Communities and social media
+sidebar_label: Community and Socials
 hide_title: true
 hide_table_of_contents: true
-description: Communities and social media
+description: Communities and social media links for 0.exchange
 keywords:
  - "ZERO Exchange"
  - "$ZERO"
