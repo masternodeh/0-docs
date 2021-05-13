@@ -1,5 +1,5 @@
 ---
-id: wiki/zerogravity
+id: zerogravity
 title: Zero Gravity launchpad
 sidebar_label: ZeroGravity Launchpad
 hide_title: true

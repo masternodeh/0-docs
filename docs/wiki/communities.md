@@ -1,5 +1,5 @@
 ---
-id: wiki/communities
+id: communities
 title: Communities and social media
 sidebar_label: Community and Socials
 hide_title: true

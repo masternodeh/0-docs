@@ -1,5 +1,5 @@
 ---
-id: wiki/howtobuyzero
+id: howtobuyzero
 title: How to buy ZERO
 sidebar_label: How to buy ZERO
 hide_title: true

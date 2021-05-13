@@ -1,5 +1,5 @@
 ---
-id: wiki/fructifyZero
+id: fructifyZero
 title: How to fructify your ZERO investment
 sidebar_label: Fructify your ZERO investment
 hide_title: true
