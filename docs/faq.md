@@ -1,7 +1,7 @@
 ---
 id: faq
 title: FAQ
-sidebar_label: FAQ
+sidebar_label: Table of Contents
 hide_title: true
 hide_table_of_contents: true
 description: FAQ
@@ -18,11 +18,12 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 # Frequently Asked Questions
 
-[Which wallet to use?] ({useBaseUrl('/docs/faq001/')})
 
-[Which browser to use?] ({useBaseUrl('/docs/faq002/')})
+[Which wallet to use?] (faq001.md)
 
-[What are the Zero contract addresses?] (../faq003/)
+[Which browser to use?] (faq002.md)
+
+[What are the Zero contract addresses?] (/faq003/)
 
 [Can I buy Zero on Pancakeswap?] (/faq004/)
 
