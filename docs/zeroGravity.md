@@ -1,7 +1,7 @@
 ---
 id: zeroGravity
 title: Zero Gravity launchpad
-sidebar_label: Zero Gravity launchpad
+sidebar_label: ZeroGravity Launchpad
 hide_title: true
 hide_table_of_contents: true
 description: Zero Gravity launchpad

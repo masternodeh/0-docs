@@ -20,8 +20,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## Content
 
-* [What is the Zero Exchange?] (/descZeroEchange/)
-* [Roadmap] (/roadmap/)
+* [What is the Zero Exchange?] (descZeroEchange/)
+* [Roadmap] (roadmap/)
 * [How and where to buy the ZERO token?] (/howToBuyZero/)
 * [Fructify your ZERO investment] (/fructifyZero/)
 * [Zero Gravity launchpad] (/zeroGravity/)

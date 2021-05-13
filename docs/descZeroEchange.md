@@ -1,6 +1,6 @@
 ---
 id: descZeroExchange
-title: Wat is Zero Exchange
+title: What is Zero Exchange
 sidebar_label: What is Zero Exchange
 hide_title: true
 hide_table_of_contents: true
