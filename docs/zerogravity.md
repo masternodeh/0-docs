@@ -68,7 +68,7 @@ You have to input manually the number of Zero you hold, there is not a calculati
 Tier levels:
       
 1. "Nebula"
-	1.Holding minimum 5000 ZERO
+	1. ** Holding minimum 5000 ZERO **
       
 1. "Red Giant": Guaranteed allocation
   
