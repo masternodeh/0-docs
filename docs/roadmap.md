@@ -33,9 +33,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 * Limit orders
 
-* Using ZERO as gas fee for the bridge operations
-
-** The team will also look into decoupling the bridge fees in function of the chains involved in the operation
+* Using ZERO as gas fee for the bridge operations  
+The team will also look into decoupling the bridge fees in function of the chains involved in the operation
 
 * Using ZERO as collateral for lending
 
