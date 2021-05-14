@@ -61,20 +61,24 @@ module.exports = {
           title: 'Explainers',
           items: [
             {
-              label: 'Impermanent Loss Explainer',
+              label: 'What is Impermanent Loss',
               to: 'docs/il/',
             },
-            {
-              label: 'Rugpull Explainer',
-              to: 'docs/nft/',
+				{
+              label: 'How to Buy Zero',
+              to: 'docs/howtobuyzero/',
             },
 			{
-              label: 'NFT Explainer',
-              to: 'docs/nft/',
+              label: 'About the Zero Exchange',
+              to: 'docs/whatiszeroexchange/',
             },
 			{
               label: 'Grow Playing Guides',
               to: 'docs/grow/',
+            },
+			{
+              label: 'Rugpull Explainer',
+              to: 'docs/rugpull/',
             },
           ],
         },
