@@ -79,15 +79,23 @@ module.exports = {
           ],
         },
         {
-          title: 'Wiki',
+          title: 'Faq',
           items: [
 			{
-			  label: 'Faq',
-			  to: 'docs/wiki/',
+			  label: 'Which wallet to use?',
+			  to: 'docs/faq/faq001',
 			},
 			{
-			  label: 'Faq',
-			  to: 'docs/faq/',
+			  label: 'Which brower to use?',
+			  to: 'docs/faq/faq002',
+			},
+			{
+			  label: 'Zero contract addresses?',
+			  to: 'docs/faq/faq003',
+			},
+			{
+			  label: 'IDO Allocation Questions',
+			  to: 'docs/faq/faq007',
 			},
             {
               label: 'Blog',
