@@ -22,7 +22,7 @@ Usual disclaimers: We are not financial advisors, the methods explained on this 
 
 ## Introduction
 
-With the Zero platform, there are several ways to earn more without investing more than your initial investment, and you don't need to be a whale with bazillion zero tokens to generate more gains.
+With the Zero platform, there are several ways to earn more without investing more than your initial investment.
 
 Three possible strategies with your current ZERO asset without investing more capital:
 * Hold your bag of ZERO, wait for it to rise and sell for a profit  
@@ -56,16 +56,13 @@ You can enter a liquidity pool to farm ZERO tokens for the Exchange, and you are
 
 
 What to do with the rewards:
-
 * Harvest them and accumulate in your wallet
 * Compound in the same pool: Harvest them, swap half of them to the other paired token, and add more liquidity (> to raise your share of the pool to earn more rewards in the same time frame)
 * Sell your rewards to another token/stable coin like USDT for profits
 
 
 **Risks:** Please learn about Impermanent Loss
-
 * [https://0.masternode.io/docs/il](https://0.masternode.io/docs/il)
-
 * [https://academy.binance.com/en/articles/impermanent-loss-explained](https://academy.binance.com/en/articles/impermanent-loss-explained)
 
 
@@ -82,13 +79,10 @@ Price of Zero on the Avalanche chain: 33c
 
 High level steps:
 * On BSC chain: Swap ZERO to USDT
-
 * Cross chain USDT to the Avalanche chain
+* On Avanlanche chain: Swap USDT to ZERO  
 
-* On Avanlanche chain: Swap USDT to ZERO
-
-=> Now you have more Zero for the same capital 🙂
-
+=> Now you have more Zero for the same capital 🙂  
 => And then continue these operations back and forth between the different chains
 
 To make it worth: You have to do it with rather big volumes to offset the bridge costs

@@ -111,5 +111,5 @@ Team is anonymous for the following reasons they have stated:
 * With that said, the team being anonymous is not an issue and that statement can be very strongly backed by the community.  Since the launch of the project, team has proven to be very agile and delivered more than anticipated, important partnerships have already been concluded with known players in the crypto space (who wouldn't touch an anon team project if they had estimated they were not legit).
 * Nobody has ever lost funds when some bridge transactions were occasionally stuck (dev team has to manually push the transactions), a lot of volume has already been reached and funds have never disappeared.
 * The team has 100% the trust of the community, we invite you to join the Telegram groups if you have any doubts, we can guarantee that the positive reactions will overwhelm you.
-* Code/contracts have been audited by Zokyo and the report is available at.
+* Code/contracts have been audited by Zokyo and the report is available at [here] (/../static/pdf/Zokyo_Zero Exchange_SecurityAudit_1.0.pdf/)
  
