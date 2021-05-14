@@ -81,7 +81,7 @@ Tier levels:
 ## Basic principles for the number of tickets calculation
       
 1. Each 5k zero gives one ticket for the lottery
-1. Each 25k zero: Extra bonus ticket
+1. Each 25k zero gives one xtra bonus ticket
 1. Number of tickets calculated capped to 500k zero
 
 ## Participation in liquidity pools for ticket calculation
@@ -89,5 +89,5 @@ Tier levels:
 1. Some liquidity pools benefits from a 2x multiplier
 
 :::note      
-Please check the Medium article for the eligible liquidity pools and LP token values for the calculation
+Please check the [Medium article](https://medium.com/@OfficialZeroDex/introducing-the-zerogravity-launchpad-61fd8f751918) for the eligible liquidity pools and LP token values for the calculation
 :::
