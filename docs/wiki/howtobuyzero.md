@@ -16,18 +16,22 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
+Buying Zero has never been so easy! Just pick your chain and we can help you out.
+
+:::caution
+These docs are provided by the community please use at your own risk
+:::
 
 <Tabs
+  className="unique-tabs"
   defaultValue="general"
   values={[
     {label: 'General', value: 'general'},
-    {label: 'Avalanche chain', value: 'avax'},
-    {label: 'BSC chain', value: 'bsc'},
-    {label: 'Ethereum chain', value: 'eth'},
+    {label: 'Avalanche', value: 'avax'},
+    {label: 'BSC', value: 'bsc'},
+    {label: 'Ethereum', value: 'eth'},
     {label: 'Credit card', value: 'cc'},
   ]}>  
-
-
   <TabItem value="general">
       How and where to buy the ZERO token?
 
