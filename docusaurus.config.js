@@ -2,11 +2,11 @@
 module.exports = {
   title: 'Layer Zero',
   tagline: 'Gains without pains!',
-  url: 'https://zero.masternode.io/',
+  url: 'https://0.masternode.io/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'masternodeh', // Usually your GitHub org/user name.
-  projectName: 'zero-docs', // Usually your repo name.
+  organizationName: 'masternodeh', 
+  projectName: 'zero-docs',
   themeConfig: {
     navbar: {
       title: 'Degen Reference Guide',
@@ -23,7 +23,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/masternodeh/zero-docs/',
+          href: 'https://github.com/masternodeh/0-docs/',
           label: 'GitHub',
           position: 'right',
         },
@@ -61,38 +61,54 @@ module.exports = {
           title: 'Explainers',
           items: [
             {
-              label: 'Impermanent Loss Explainer',
+              label: 'What is Impermanent Loss',
               to: 'docs/il/',
             },
-            {
-              label: 'Rugpull Explainer',
-              to: 'docs/nft/',
+				{
+              label: 'How to Buy Zero',
+              to: 'docs/howtobuyzero/',
             },
 			{
-              label: 'NFT Explainer',
-              to: 'docs/nft/',
+              label: 'About the Zero Exchange',
+              to: 'docs/whatiszeroexchange/',
             },
 			{
               label: 'Grow Playing Guides',
               to: 'docs/grow/',
             },
+			{
+              label: 'Rugpull Explainer',
+              to: 'docs/rugpull/',
+            },
           ],
         },
         {
-          title: 'News',
+          title: 'Faq',
           items: [
+			{
+			  label: 'Which wallet to use?',
+			  to: 'docs/faq/faq001',
+			},
+			{
+			  label: 'Which brower to use?',
+			  to: 'docs/faq/faq002',
+			},
+			{
+			  label: 'Zero contract addresses?',
+			  to: 'docs/faq/faq003',
+			},
+			{
+			  label: 'IDO Allocation Questions',
+			  to: 'docs/faq/faq007',
+			},
             {
               label: 'Blog',
               to: 'blog',
             },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/masternodeh/zero-docs',
-            },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()}@masternodeh Built with Love!`,
+      copyright: `Copyright © ${new Date().getFullYear()}@masternodeh Built with love from the community!`,
     },
   },
   presets: [
@@ -101,15 +117,13 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/masternodeh/zero-docs/edit/master/',
+            'https://github.com/masternodeh/0-docs/edit/master/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/masternodeh/zero-docs/edit/master/',
+            'https://github.com/masternodeh/0-docs/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
