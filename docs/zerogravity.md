@@ -57,7 +57,7 @@ Depending on the IDO:
 
 Official description of the tier system in this [Medium article](https://medium.com/@OfficialZeroDex/introducing-the-zerogravity-launchpad-61fd8f751918)
 
-To check your tier level and number of tickets you will earn for the lottery at this [online calculator](https://codesandbox.io/s/cu4qr?file=/src/App.tsx)
+To check your tier level and number of tickets you will earn for the lottery at this [online calculator](http://csb-z8u0x.netlify.app)
 
 :::note
 You have to input manually the number of Zero you hold, there is not a calculation yet based on the LP tokens.
