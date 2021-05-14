@@ -25,41 +25,36 @@ These docs are provided by the community please use at your own risk
 ## How and where to buy the ZERO token?
 
 1. On the Zero Exchange itself on different chains:
-      
-	1. On Ethereum
-	1. On Binance Smart Chain (= "BSC" in short)
-	1. On Avalanche
+	* On Ethereum
+	* On Binance Smart Chain (= "BSC" in short)
+	* On Avalanche
 	  
-1. With a credit card (note: not all countries are yet allowed to buy via a credit card)
-
+2. With a credit card (note: not all countries are yet allowed to buy via a credit card)
 	  
-1. On Centralised exchanges (CEX):
-      
-	  1. On [Bithumb Global](https://www.bithumb.pro/en-us)
+3. On Centralised exchanges (CEX):
+	* On [Bithumb Global](https://www.bithumb.pro/en-us)
 	  
 :::note
-**The ZERO bought there is on the Ethereum chain** and the ERC20 tokens can be sent to your wallet on the ethereum network
+**The ZERO bought on Bithumb is on the Ethereum chain** and the ERC20 tokens can be sent to your wallet on the Ethereum network
 :::
 
       
-## Cheapest options to buy ZERO on an Exchange?
+## How to buy ZERO on the Zero Exchange?
 
-Assumptions
+Assumptions:
+* Most of the options described are based on using the wallet MetaMask
+* Some of the options may work with other wallets as well, like Trust Wallet
+* You know how to send tokens from a centralised exchange to MetaMask or use the Web Avalanche Wallet.
+* You know how to add a new token in the token lists of your wallet
 
-1. Most of the options described are based on using the wallet MetaMask
-1. Some of the options may work with other wallets as well, like Trust Wallet
-1. You know how to send tokens from a centralised exchange to MetaMask or use the Web Avalanche Wallet.
-1. You know how to add a new token in the token lists of your wallet
 
-
-From the cheapest to the more expensive option
-
+From the cheapest to the more expensive option:
 1. Buy on the BSC chain
-1. Buy on the Avalanche chain
-1. Buy on the Ethereum chain
-1. Buy with a credit card
+2. Buy on the Avalanche chain
+3. Buy on the Ethereum chain
+4. Buy with a credit card
 
-## Buy on Avax
+### Buy on the Avalanche chain
 
 Youtube tutorial: https://www.youtube.com/watch?v=FNGqS-X4ruM
 
@@ -70,7 +65,7 @@ Youtube tutorial: https://www.youtube.com/watch?v=FNGqS-X4ruM
 1. On the Zero Exchange, have your wallet connected and switch to the Avalanche chain
 1. On the swap page, trade AVAX for ZERO
 
-## Buy on BSC
+### Buy on the BSC chain
 
 Youtube tutorial: https://www.youtube.com/watch?v=77B7vfFtxq4
 
@@ -85,19 +80,18 @@ Youtube tutorial: https://www.youtube.com/watch?v=77B7vfFtxq4
 	  
 * Don't confuse the BSC network with the Binance website which is the trading centralized platform running on its own and is not connected to the BSC network.   Binance created the BSC network as a decentralized network, but they are still in full control of it
 	  
-## Buy on Ethereum
+### Buy on the Ethereum chain
 	  
 1. Buy ETH on a centralised exchange
 1. Send ETH to MetaMask on the ERC20 network
 1. In MetaMask, switch manually to the Ethereum network.  On the Zero Exchange, we can't switch automatically to Ethereum network in Metamask like for the other chains
 1. On the swap page, trade ETH for ZERO
 	  
-## Buy with Credit Card
+### Buy with a Credit Card
 
 Youtube tutorial: https://www.youtube.com/watch?v=iRbc36Q_rRk&list=PLUrP9cz-3kCehfLJRhulrizJQ_4cOcpy4&index=2  
 
-1. Go to [website](https://buy.0.exchange/) and follow instructions!
-
+Go to the [Zero Exchange website](https://buy.0.exchange/) and follow instructions!
 
 :::note
 Not all countries are yet allowed to buy via a credit card
