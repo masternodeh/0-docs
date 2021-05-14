@@ -42,7 +42,7 @@ These docs are provided by the community please use at your own risk
 :::
 
       
-## What are the cheapest options to buy ZERO on an Exchange?
+## Cheapest options to buy ZERO on an Exchange?
 
 Assumptions
 
