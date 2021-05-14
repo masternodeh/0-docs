@@ -1,7 +1,7 @@
 ---
 id: avax
 title: AVAX Reference Guide
-sidebar_label: AVAX
+sidebar_label: Avalanche
 hide_title: false
 hide_table_of_contents: false
 description: AVAX DeFi instructions for Degens
@@ -45,7 +45,7 @@ Often when you end up on a new chain you are missing the addresses for the addit
 your wallet. This can lead to confusion and thinking that you are missing coins. After you do your RPC 
 additions to get the chain interacting with your meta mask you also need to add your asset by its address on the new chain. 
 The reason for this is DeFI is so new that MetaMask has yet to release a version that contains chains other then Ethereum.
-You can add any of the addresses below as custom tokens inside your MetaMask on the Avalance Network. Since Ethereum was 
+You can add any of the addresses below as custom tokens inside your MetaMask on the Avalanche Network. Since Ethereum was 
 the original DeFI chain it is already built into MetaMask and doesn't require an addition to work. One thing you might be 
 missing though inside your MM is the ZERO token so why don't we try and add it. Go to assests -> Add token -> Custom Token
 and input the Zero address listed below. It should find the Symbol after you paste it in there and compare it against the 
@@ -160,7 +160,7 @@ After you finish
 
 ## Links 
 
-[MetaMask RPC Settings for Avalance](https://docs.avax.network/build/tutorials/smart-contracts/deploy-a-smart-contract-on-avalanche-using-remix-and-metamask)
+[MetaMask RPC Settings for Avalanche](https://docs.avax.network/build/tutorials/smart-contracts/deploy-a-smart-contract-on-avalanche-using-remix-and-metamask)
 
 [MetaMask RPC Settings Zero Documentation](https://zero-exchange.gitbook.io/zero-exchange-docs/guides/avalanche-guides/part-a-how-to-add-avalanche-mainnet-to-metamask)
 

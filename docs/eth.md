@@ -1,7 +1,7 @@
 ---
 id: eth 
 title: ETH Reference Guide
-sidebar_label: ETH
+sidebar_label: Ethereum 
 hide_title: false
 hide_table_of_contents: false
 description: ETH DeFi instructions for Degens

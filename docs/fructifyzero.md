@@ -1,7 +1,7 @@
 ---
 id: fructifyzero
 title: How to fructify your ZERO investment
-sidebar_label: Fructify your ZERO investment
+sidebar_label: Fructify your ZERO
 hide_title: true
 hide_table_of_contents: true
 description: How to fructify your ZERO investment

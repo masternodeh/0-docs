@@ -1,7 +1,7 @@
 ---
 id: bsc
 title: Smart Chain Reference Guide
-sidebar_label: BSC
+sidebar_label: Binance Smart-Chain
 hide_title: false
 hide_table_of_contents: false
 description: BSC DeFi instructions for Degens

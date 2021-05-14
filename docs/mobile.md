@@ -1,7 +1,7 @@
 ---
 id: mobile
 title: MOBILE Reference Guide
-sidebar_label: MOBILE
+sidebar_label: Mobile
 hide_title: false
 hide_table_of_contents: false
 description: MOBILE DeFi instructions for Degens
