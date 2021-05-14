@@ -94,5 +94,5 @@ Youtube tutorial: https://www.youtube.com/watch?v=iRbc36Q_rRk&list=PLUrP9cz-3kCe
 Go to the [Zero Exchange website](https://buy.0.exchange/) and follow instructions!
 
 :::note
-Not all countries are yet allowed to buy via a credit card
+Not all countries are yet allowed to buy via a credit card.
 :::
