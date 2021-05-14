@@ -19,10 +19,11 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 # Communities and social media
 
 ## Telegram
-* Announcement channel](https://t.me/ZeroExchangeAnn)
+* [Announcement channel](https://t.me/ZeroExchangeAnn)
 * [Main channel](https://t.me/ZeroExchangeCommunity)
 * [Trading channel](https://t.me/zeroexchangetrading)
 * [Zero Army](https://t.me/ZeroExchangeArmy)
+* [Zero Documentation](https://t.me/ZeroHodlersCommunity)
 
 
 ## Twitter
