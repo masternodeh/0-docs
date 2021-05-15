@@ -33,3 +33,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 **Tier and snapshots:** [https://medium.com/@OfficialZeroDex/zerogravity-wasder-tiers-f4357d11005b](https://medium.com/@OfficialZeroDex/zerogravity-wasder-tiers-f4357d11005b)
    * Update: [https://medium.com/@OfficialZeroDex/wasder-ido-update-380eeb93449d](https://medium.com/@OfficialZeroDex/wasder-ido-update-380eeb93449d)
+
+**Token**: $WAS
+**Token contract address:**
+* Ethereum: 0x0c572544a4Ee47904d54aaA6A970AF96B6f00E1b
