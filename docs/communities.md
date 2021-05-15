@@ -22,8 +22,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 * [Announcement channel](https://t.me/ZeroExchangeAnn)
 * [Main channel](https://t.me/ZeroExchangeCommunity)
 * [Trading channel](https://t.me/zeroexchangetrading)
-* [Zero Army](https://t.me/ZeroExchangeArmy)
-* [Zero Documentation](https://t.me/ZeroHodlersCommunity)
+* [Zeronauts](https://t.me/ZeroExchangeArmy)
+* [Zero community managed content](https://t.me/ZeroHodlersCommunity)
 
 
 ## Twitter
