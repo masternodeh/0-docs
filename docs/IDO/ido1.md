@@ -26,7 +26,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 **Wasder Telegram:** [https://t.me/WasderOfficial](https://t.me/WasderOfficial)
 
-**Date:** May 7th
+**Date:** May 7th, 2021
 
 **KYC required?** Yes
 
