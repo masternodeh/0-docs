@@ -29,7 +29,11 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 
 ## Others
+* ZERO single staking
+
 * Multi and cross chain NFT marketplace/farming
+
+* Build bridges to more chains, like Solana
 
 * Limit orders
 
