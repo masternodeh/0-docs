@@ -18,7 +18,7 @@ import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 
-## WISB -)  May 10th, 2021
+## WISB - May 10th, 2021
 
 **Status**: Done
 
@@ -38,4 +38,4 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 **Token**: $WISB
 
 **Token contract address:**
-* BSC: 
+* BSC: 0x4f491d389A5bF7C56bd1e4d8aF2280fD217C8543
