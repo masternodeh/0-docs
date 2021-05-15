@@ -31,9 +31,9 @@ The Zero Exchange has its own launchpad [ZeroGravity](https://medium.com/@Offici
 ## IDOs on ZeroGravity
 
 1. Date TBC, 2021: SENT (not started)
-1. May 19th, 2021: GROW (snapshots started)
-1. May 10th, 2021: WISB (finished)
-1. May 07th, 2021: Wasder (finished)
+1. May 19th, 2021: GROW (ongoing)
+1. May 10th, 2021: WISB (done)
+1. May 07th, 2021: Wasder (done)
 
 
 ## IDO participation and allocations
@@ -67,10 +67,10 @@ Depending on the IDO:
 1. "Nebula"  
 	** Holding minimum 5000 ZERO **
       
-2. "Red Giant": Guaranteed allocation  
+1. "Red Giant": Guaranteed allocation  
 	** Holding mininum 500.000 ZERO or equivalent in liquidity pools **
       
-3. "Super Nova": Several guaranteed allocations  
+1. "Super Nova": Several guaranteed allocations  
 	** Holding 1 million ZERO or equivalent in liquidity pools **
 
 #### Basic principles for the number of tickets calculation
