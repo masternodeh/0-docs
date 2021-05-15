@@ -58,6 +58,7 @@ Depending on the IDO:
 	* You get a guaranteed allocation or not
 	* You enter a lottery with a number of tickets calculated by the system (check the information further down)
 		* Lottery tickets is combined with the guaranteed allocation: You can still make a chance to win more allocations than the guaranteed one(s).
+		* A fair and unbiased chance of winning an allocation thanks to the integration of a decentralized service available through the Chainlink Network, [Chainlink Verifiable Randomness Function (VRF)](https://medium.com/@OfficialZeroDex/integrating-chainlink-vrf-to-secure-fair-distribution-of-zerogravity-ido-allocations-b839e6a0c594)
 
 ### Overview tier levels and lottery tickets system
       
