@@ -18,7 +18,7 @@ import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 
-## May 10th - WISB
+## WISB -)  May 10th, 2021
 
 **Status**: Done
 
@@ -26,7 +26,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 **Wise Telegram:** [https://t.me/WiseToken](https://t.me/WiseToken)
 
-**Date:** May 10th
+**Date:** May 10th, 2021
 
 **KYC required?** No
 
