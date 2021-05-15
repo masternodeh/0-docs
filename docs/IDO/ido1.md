@@ -9,6 +9,7 @@ keywords:
  - "ZERO Exchange"
  - "$ZERO"
  - "@OfficialZeroDEX"
+ - WASDER
 image:  /static/avax-logo.svg
 ---
 
