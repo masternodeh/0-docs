@@ -30,10 +30,10 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 **KYC required?** To be confirmed
 
-**Allocation winners:** - 
+**Allocation winners:** Not yet known 
 
-**Tier and snapshots:** [https://medium.com/@OfficialZeroDex/zerogravity-introduces-grow-88b33411f213](https://medium.com/@OfficialZeroDex/zerogravity-introduces-grow-88b33411f213)  
-    * Update: [https://grow-official.medium.com/grow-ido-on-zerogravity-by-0-exchange-3f9d85ddc88](https://grow-official.medium.com/grow-ido-on-zerogravity-by-0-exchange-3f9d85ddc88)
+**Tier and snapshots:** [https://medium.com/@OfficialZeroDex/zerogravity-introduces-grow-88b33411f213](https://medium.com/@OfficialZeroDex/zerogravity-introduces-grow-88b33411f213)
+  * Update: [https://grow-official.medium.com/grow-ido-on-zerogravity-by-0-exchange-3f9d85ddc88](https://grow-official.medium.com/grow-ido-on-zerogravity-by-0-exchange-3f9d85ddc88)
 
 **Token**: $GROW
 
