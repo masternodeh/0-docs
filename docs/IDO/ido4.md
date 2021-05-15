@@ -1,15 +1,15 @@
 ---
 id: ido1
-title: WISB
-sidebar_label: WISB (done)
+title: SENT
+sidebar_label: SENT (Not started)
 hide_title: true
 hide_table_of_contents: true
-description: WISB
+description: SENT
 keywords:
  - "ZERO Exchange"
  - "$ZERO"
  - "@OfficialZeroDEX"
- - WISB
+ - SENT
 image:  /static/avax-logo.svg
 ---
 
@@ -18,25 +18,24 @@ import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 
-## WISB - May 10th, 2021
+## SENT - Date to be confirmed
 
-**Status**: Done
+**Status**: Not started
 
-**What is WISB?** [https://wisetoken.net](https://wisetoken.net)
+**What is SENT?** -
 
-**Wise Telegram:** [https://t.me/WiseToken](https://t.me/WiseToken)
+**SENT Telegram:** -
 
-**Date:** May 10th, 2021
+**Date:** To be confirmed
 
-**KYC required?** No
+**KYC required?** To be confirmed
 
-**Allocation winners:** Every holder of ZERO is eligible to participate
+**Allocation winners:** Not known yet
 
-**Tier and snapshots:** [https://medium.com/@OfficialZeroDex/zerogravity-welcomes-wisb-ff96be1b21e5](https://medium.com/@OfficialZeroDex/zerogravity-welcomes-wisb-ff96be1b21e5)
-  * No allocations: 1st come 1st serve principle
+**Tier and snapshots:** To be confirmed
 
-**Token**: $WISB
+**Token**: $SENT
 
 **Token contract address:**
-* BSC: 0x4f491d389A5bF7C56bd1e4d8aF2280fD217C8543
+* -
 
