@@ -1,7 +1,7 @@
 ---
 id: communities
-title: Communities and social media
-sidebar_label: Community and Socials
+title: ZERO Communities and social media
+sidebar_label: ZERO communities and socials
 hide_title: true
 hide_table_of_contents: true
 description: Communities and social media links for 0.exchange
