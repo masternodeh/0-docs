@@ -1,10 +1,10 @@
 ---
 id: whatiszeroexchange
-title: What is Zero Exchange
-sidebar_label: What is Zero Exchange
+title: What is the Zero Exchange
+sidebar_label: What is the Zero Exchange
 hide_title: true
 hide_table_of_contents: true
-description: What is Zero Exchange
+description: What is the Zero Exchange
 keywords:
  - "ZERO Exchange"
  - "$ZERO"
@@ -107,9 +107,12 @@ Team is anonymous for the following reasons they have stated:
 
 * Their team members are working for top crypto projects and have NDA's in place (so could risk losing benefits if they are identified as working for a competing project).
 * As for a lot of crypto projects, this one is also very open to the community.  The team lead for example is on Telegram almost every day discussing with the community in various channels: Revealing their identities could jeopardise their private life.
-* It's not uncommon in crypto for legit projects that the team are anonymous.
-* With that said, the team being anonymous is not an issue and that statement can be very strongly backed by the community.  Since the launch of the project, team has proven to be very agile and delivered more than anticipated, important partnerships have already been concluded with known players in the crypto space (who wouldn't touch an anon team project if they had estimated they were not legit).
+
+
+General considerations:
+* It's not uncommon in crypto for legit projects to have an anonymous team. With that said, the team being anonymous is not an issue and that statement can be very strongly backed by the community.  Since the launch of the project, team has proven to be very agile and delivered more than anticipated, important partnerships have already been concluded with known players in the crypto space (who wouldn't touch an anon team project if they had estimated they were not legit).
 * Nobody has ever lost funds when some bridge transactions were occasionally stuck (dev team has to manually push the transactions), a lot of volume has already been reached and funds have never disappeared.
 * The team has 100% the trust of the community, we invite you to join the Telegram groups if you have any doubts, we can guarantee that the positive reactions will overwhelm you.
-* Code/contracts have been audited by Zokyo and the report is available at [here] (/../static/pdf/Zokyo_Zero Exchange_SecurityAudit_1.0.pdf/)
+
+Code/contracts have been audited by Zokyo and the report is available at [here] (/../static/pdf/Zokyo_Zero Exchange_SecurityAudit_1.0.pdf/)
  
