@@ -26,6 +26,8 @@ The Zero exchange is an open platform, meaning that they won't always develop ev
 
 1. [ChartEx2](https://chartexpro.medium.com/new-economic-model-subscription-updates-1a9c34b731be)
 
+1. [Chainlink](https://medium.com/@OfficialZeroDex/integrating-chainlink-vrf-to-secure-fair-distribution-of-zerogravity-ido-allocations-b839e6a0c594)
+
 1. [Web3API](https://medium.com/@OfficialZeroDex/0-exchange-partners-with-web3api-to-enable-omni-language-swaps-78f3ecebc85a)
 
 1. [Bridge Mutual](https://twitter.com/OfficialZeroDEX/status/1372895909873340421)
