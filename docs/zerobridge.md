@@ -18,4 +18,12 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 # ZeroBridge
 
-
+The brigde enables to cross tokens from one chain to the other, bridge is connected to these chains:
+* Currently:  
+* Ethereum
+* Avalanche
+* BSC
+* Done, waiting for the parachains to go live:  
+* Kusama/DOT
+* May 19th:
+* Matic
