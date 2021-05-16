@@ -49,40 +49,35 @@ It doesn't matter on which chain you are holding Zero or being in liquidity pool
 
 ### How to win an IDO allocation
       
-Depending on the IDO:
-
-* The tier system is not taking into account and just holding a minimum of Zero as required by that particular IDO is enough to be able to participate
-* The tier system is applied to win an allocation. Depending on the IDO, one or more allocations can be won per wallet.
-	* The tier requirements may vary per IDO (although there is a general guide line so far)
-* In function of your tier level:  
-	* You get a guaranteed allocation or not
-	* You enter a lottery with a number of tickets calculated by the system (check the information further down)
-		* Lottery tickets is combined with the guaranteed allocation: You can still make a chance to win more allocations than the guaranteed one(s).
-		* A fair and unbiased chance of winning an allocation thanks to the integration of a decentralized service available through the Chainlink Network, [Chainlink Verifiable Randomness Function (VRF)](https://medium.com/@OfficialZeroDex/integrating-chainlink-vrf-to-secure-fair-distribution-of-zerogravity-ido-allocations-b839e6a0c594)
+Based on your tier level (but please check for each IDO what are tier requirements):  
+* You may receive at least a guaranteed allocation if you have reached the Red Giant or Supernova levels  
+* You enter a lottery with a number of tickets calculated by the system (check the information further down)  
+	* Entering the lottery is combined with the guaranteed allocation: You can still make a chance to win more allocations if you already secured guaranteed one(s).  
+	* ZERO implements a fair and unbiased chance of winning an allocation thanks to the integration of a decentralized service available through the Chainlink Network, [Chainlink Verifiable Randomness Function (VRF)](https://medium.com/@OfficialZeroDex/integrating-chainlink-vrf-to-secure-fair-distribution-of-zerogravity-ido-allocations-b839e6a0c594)
 
 ### Overview tier levels and lottery tickets system
       
 #### Tier levels:
       
 1. "Nebula"  
-	** Holding minimum 5000 ZERO **
+	** Holding minimum 5000 ZERO **  
+      * Each 5k zero gives one ticket for the lottery  
+      * Each 25k zero gives one xtra bonus ticket  
+      * Number of tickets calculated capped to 500k zero  	
       
 1. "Red Giant": Guaranteed allocation  
 	** Holding mininum 500.000 ZERO or equivalent in liquidity pools **
-      
+
 1. "Super Nova": Several guaranteed allocations  
 	** Holding 1 million ZERO or equivalent in liquidity pools **
 
-#### Basic principles for the number of tickets calculation
+#### Online calculator for number of tickets
       
-* Each 5k zero gives one ticket for the lottery
-* Each 25k zero gives one xtra bonus ticket
-* Number of tickets calculated capped to 500k zero
-
-To check your tier level and number of tickets you will earn for the lottery at this [online calculator](http://csb-z8u0x.netlify.app)
+To check your tier level and number of tickets you will earn for the lottery, there is an [online calculator](http://csb-z8u0x.netlify.app) developped by a community member.  
+You have to input manually the number of Zero you hold, there is not a calculation yet based on the LP tokens. 
 
 :::note
-You have to input manually the number of Zero you hold, there is not a calculation yet based on the LP tokens.
+The online calcuator doesn't yet allow a calculation based on the LP tokens, you will have to estimate yourself the equivalent of holding ZERO.
 :::
 
 #### Participation in liquidity pools for ticket calculation
