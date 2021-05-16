@@ -82,7 +82,7 @@ Compared to the Ethereum chain, the trading fees are almost zero on BSC and Aval
 ### Cross chain/bridging fees
 
 Fixed fee of around 2.99 AVAX regardless of the chains being bridged.  
-The fee is paid in the native token (ETH, AVAX, BNB) of the chain where the tokens are bridged from.
+The fee is paid in the native token (ETH, AVAX, BNB) of the chain where the tokens are bridged from.  
 Example: If doing a BSC to Avalanche cross chain operation, the transactions fees will be paid in BNB.
 
 _Why that much even when crossing from BSC to Avalanche for example where fees are cheap?  
