@@ -48,7 +48,7 @@ Assumptions:
 * You know how to add a new token in the token lists of your wallet
 
 
-Buy options from the cheapest to the more expensive:
+Buy options from the cheapest to the more expensive chain/method:
 1. Buy on the BSC chain
 2. Buy on the Avalanche chain
 3. Buy on the Ethereum chain
