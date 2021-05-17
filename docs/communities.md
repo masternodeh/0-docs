@@ -1,7 +1,7 @@
 ---
 id: communities
-title: Communities and social media
-sidebar_label: Community and Socials
+title: ZERO Communities and social media
+sidebar_label: ZERO communities and socials
 hide_title: true
 hide_table_of_contents: true
 description: Communities and social media links for 0.exchange
@@ -22,8 +22,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 * [Announcement channel](https://t.me/ZeroExchangeAnn)
 * [Main channel](https://t.me/ZeroExchangeCommunity)
 * [Trading channel](https://t.me/zeroexchangetrading)
-* [Zero Army](https://t.me/ZeroExchangeArmy)
-* [Zero Documentation](https://t.me/ZeroHodlersCommunity)
+* [Zeronauts](https://t.me/ZeroExchangeArmy)
+* [Zero community managed content](https://t.me/ZeroHodlersCommunity)
 
 
 ## Twitter

@@ -1,10 +1,10 @@
 ---
 id: partnerships
-title: Partnerships
-sidebar_label: Partnerships
+title: ZERO partnerships
+sidebar_label: ZERO partnerships
 hide_title: true
 hide_table_of_contents: true
-description: Partnerships
+description: ZERO partnerships
 keywords:
  - "ZERO Exchange"
  - "$ZERO"
@@ -25,6 +25,8 @@ The Zero exchange is an open platform, meaning that they won't always develop ev
 1. [ChartEx1](https://medium.com/@OfficialZeroDex/chartex-brings-omnichain-charting-to-0-exchange-9ca040298029)
 
 1. [ChartEx2](https://chartexpro.medium.com/new-economic-model-subscription-updates-1a9c34b731be)
+
+1. [Chainlink](https://medium.com/@OfficialZeroDex/integrating-chainlink-vrf-to-secure-fair-distribution-of-zerogravity-ido-allocations-b839e6a0c594)
 
 1. [Web3API](https://medium.com/@OfficialZeroDex/0-exchange-partners-with-web3api-to-enable-omni-language-swaps-78f3ecebc85a)
 

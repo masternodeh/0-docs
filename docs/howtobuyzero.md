@@ -42,13 +42,13 @@ These docs are provided by the community please use at your own risk
 ## How to buy ZERO on the Zero Exchange?
 
 Assumptions:
-* Most of the options described are based on using the wallet MetaMask
+* Most of the options described are based on using the MetaMask wallet
 * Some of the options may work with other wallets as well, like Trust Wallet
-* You know how to send tokens from a centralised exchange to MetaMask or use the Web Avalanche Wallet.
+* You know how to send tokens from a centralised exchange to MetaMask or use the Web Avalanche Wallet (some tutorials are available, please check the FAQs)
 * You know how to add a new token in the token lists of your wallet
 
 
-From the cheapest to the more expensive option:
+Buy options from the cheapest to the more expensive:
 1. Buy on the BSC chain
 2. Buy on the Avalanche chain
 3. Buy on the Ethereum chain
@@ -59,10 +59,10 @@ From the cheapest to the more expensive option:
 Youtube tutorial: https://www.youtube.com/watch?v=FNGqS-X4ruM
 
 1. Buy AVAX on a centralised exchange, like Binance or OKex
-1. Send AVAX to the Web Avalanche Wallet. AVAX must be withdrawn from Binance on the X-chain address from the Web Avalanche Wallet: This process can be slow, from several minutes to several hours before the AVAX tokens are received in the Avalanche Web Wallet
+1. Send AVAX to the Web Avalanche Wallet. AVAX must be withdrawn from Binance to the X-chain address of the Web Avalanche Wallet: This process can be slow, from several minutes to several hours before the AVAX tokens are received in the Avalanche Web Wallet
 1. Inside the Web Avalanche Wallet, cross chain the received AVAX from the X-chain to the C-chain
 1. Send the AVAX from the Web Avalanche Wallet to MetaMask
-1. On the Zero Exchange, have your wallet connected and switch to the Avalanche chain
+1. On the Zero Exchange, connect your wallet and switch to the Avalanche chain
 1. On the swap page, trade AVAX for ZERO
 
 ### Buy on the BSC chain
@@ -78,7 +78,8 @@ Youtube tutorial: https://www.youtube.com/watch?v=77B7vfFtxq4
 **Don't use Pancakeswap** to buy ZERO on the BSC chain
 :::
 	  
-* Don't confuse the BSC network with the Binance website which is the trading centralized platform running on its own and is not connected to the BSC network.   Binance created the BSC network as a decentralized network, but they are still in full control of it
+Note: Don't confuse the BSC network with the Binance website which is the trading centralized platform running on its own and is not connected to the BSC network.  
+Binance created the BSC network as a separate decentralized network, although they are still in full control of it.
 	  
 ### Buy on the Ethereum chain
 	  

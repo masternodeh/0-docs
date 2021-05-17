@@ -1,10 +1,10 @@
 ---
 id: roadmap
-title: Roadmap
-sidebar_label: Roadmap
+title: ZERO roadmap
+sidebar_label: ZERO roadmap
 hide_title: true
 hide_table_of_contents: true
-description: Roadmap
+description: ZERO roadmap
 keywords:
  - "ZERO Exchange"
  - "$ZERO"
@@ -29,7 +29,11 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 
 ## Others
+* ZERO single staking
+
 * Multi and cross chain NFT marketplace/farming
+
+* Build bridges to more chains, like Solana
 
 * Limit orders
 

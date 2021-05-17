@@ -1,10 +1,10 @@
 ---
 id: whatiszeroexchange
-title: What is Zero Exchange
-sidebar_label: What is Zero Exchange
+title: What is the Zero Exchange
+sidebar_label: What is the Zero Exchange
 hide_title: true
 hide_table_of_contents: true
-description: What is Zero Exchange
+description: What is the Zero Exchange
 keywords:
  - "ZERO Exchange"
  - "$ZERO"
@@ -81,10 +81,14 @@ Compared to the Ethereum chain, the trading fees are almost zero on BSC and Aval
 
 ### Cross chain/bridging fees
 
-Fixed fee of around 2.99 AVAX regardless of the chains being bridged.
+Fixed fee of around 2.99 AVAX regardless of the chains being bridged.  
+The fee is paid in the native token (ETH, AVAX, BNB) of the chain where the tokens are bridged from.  
+Example: If doing a BSC to Avalanche cross chain operation, the transactions fees will be paid in BNB.
 
 _Why that much even when crossing from BSC to Avalanche for example where fees are cheap?  
 For equality reason between bridge users, the bridge costs are spread evenly amongst all bridged chains: Once more chains are integrated, fees will go lower because the costs can be spread between more chains._
+
+_Team is looking to change the bridge fee structure from a global fixed fee to fees depending on the chains involved in the cross chain operation. The Ethereum has a huge impact for instance, it will be decoupled price wise from the rest. [See medium article](https://medium.com/@OfficialZeroDex/the-zerobridge-f5cb06846fb5)._
 
 ### Gas tokens for the trading fees
 
@@ -107,9 +111,12 @@ Team is anonymous for the following reasons they have stated:
 
 * Their team members are working for top crypto projects and have NDA's in place (so could risk losing benefits if they are identified as working for a competing project).
 * As for a lot of crypto projects, this one is also very open to the community.  The team lead for example is on Telegram almost every day discussing with the community in various channels: Revealing their identities could jeopardise their private life.
-* It's not uncommon in crypto for legit projects that the team are anonymous.
-* With that said, the team being anonymous is not an issue and that statement can be very strongly backed by the community.  Since the launch of the project, team has proven to be very agile and delivered more than anticipated, important partnerships have already been concluded with known players in the crypto space (who wouldn't touch an anon team project if they had estimated they were not legit).
+
+
+General considerations:
+* It's not uncommon in crypto for legit projects to have an anonymous team. With that said, the team being anonymous is not an issue and that statement can be very strongly backed by the community.  Since the launch of the project, team has proven to be very agile and delivered more than anticipated, important partnerships have already been concluded with known players in the crypto space (who wouldn't touch an anon team project if they had estimated they were not legit).
 * Nobody has ever lost funds when some bridge transactions were occasionally stuck (dev team has to manually push the transactions), a lot of volume has already been reached and funds have never disappeared.
 * The team has 100% the trust of the community, we invite you to join the Telegram groups if you have any doubts, we can guarantee that the positive reactions will overwhelm you.
-* Code/contracts have been audited by Zokyo and the report is available at [here] (/../static/pdf/Zokyo_Zero Exchange_SecurityAudit_1.0.pdf/)
+
+Code/contracts have been audited by Zokyo and the [report is available here](/pdf/Zokyo_Zero Exchange_SecurityAudit_1.0.pdf)
  
