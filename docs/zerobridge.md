@@ -48,3 +48,6 @@ _Why that much even when crossing from BSC to Avalanche for example where fees a
 For equality reason between bridge users, the bridge costs are spread evenly amongst all bridged chains: Once more chains are integrated, fees will go lower because the costs can be spread between more chains._
 
 _Team is looking to change the bridge fee structure from a global fixed fee to fees depending on the chains involved in the cross chain operation. The Ethereum has a huge impact for instance, it will be decoupled price wise from the rest. [See medium article](https://medium.com/@OfficialZeroDex/the-zerobridge-f5cb06846fb5)._
+
+### MetaMask gas settings
+When cross chaining, it's important to set the correct gas settings (usually when crossing from the Ethereum chain): Check the settings in this [gas settings guide](https://0-exchange.gitbook.io/0-exchange-docs/pinned/transaction-fails) 

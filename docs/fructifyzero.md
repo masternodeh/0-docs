@@ -76,18 +76,18 @@ Since the exchange is connecting several chains and trading is done on the diffe
 
 Arbing between chains involves the traditional trading, but you add the cross chain functionality as well.
 
-_An example of arbing with the Zero token:_
+_An example of arbing with the Zero token:_  
 Price of Zero on the BSC chain: 35c  
 Price of Zero on the Avalanche chain: 33c
 
 High level steps:
 * On BSC chain: Swap ZERO to USDT
 * Cross chain USDT to the Avalanche chain
-* On Avanlanche chain: Swap USDT to ZERO  
+* On the Avalanche chain: Swap USDT to ZERO  
 
 => Now you have more Zero for the same capital 🙂  
 => And then continue these operations back and forth between the different chains
-=> The arbing is not necessarily limited to the ZERO token, but to all tokens available on different chains
+=> The arbing is not necessarily limited to the ZERO token, but to all tokens available on the different chains
 
 To make it worth: You have to do it with rather big volumes to offset the bridge costs
 
