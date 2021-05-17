@@ -31,7 +31,7 @@ The Zero Exchange has its own launchpad [ZeroGravity](https://medium.com/@Offici
 ## IDOs on ZeroGravity
 
 1. Date TBC, 2021: SENT (not started)
-1. May 19th, 2021: GROW (ongoing)
+1. May 21st, 2021: GROW (ongoing)
 1. May 10th, 2021: WISB (done)
 1. May 07th, 2021: Wasder (done)
 
