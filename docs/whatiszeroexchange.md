@@ -39,6 +39,20 @@ The Zero Exchange is at its core a multi and cross chain decentralized exchange.
 > 
 > The ZERO Exchange Protocol realigns incentives for network participants by introducing revenue sharing and community driven network effects to the popular AMM model.
 
+## Chains currently connected
+
+* Ethereum
+* Avalanche
+* BSC
+* Done, waiting for the parachains to go live:  
+	* Kusama/DOT
+* Expected May 21st
+	* Matic
+
+:::note Uniswap can be replaced entirely by the Zero Exchange on Ethereum: The exact same tokens can be traded on both exchanges.
+:::
+
+
 ## References
 
 1. Website: https://www.0.exchange/
@@ -55,6 +69,8 @@ The Zero Exchange is at its core a multi and cross chain decentralized exchange.
 * Initial Farming Offerings (= "farming" other tokens than ZERO)
 * Initial DEX Offerings: Winning allocations in IDO's on the Zero Gravity launchpad
 * Soon: Access to multi chain charting (partnership with ChartEx)
+
+
 
 ## When did the exchange go live
 
