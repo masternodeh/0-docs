@@ -39,7 +39,7 @@ The Zero Exchange is at its core a multi and cross chain decentralized exchange.
 > 
 > The ZERO Exchange Protocol realigns incentives for network participants by introducing revenue sharing and community driven network effects to the popular AMM model.
 
-## Chains currently connected:
+## Chains currently connected
 
 * Ethereum
 * Avalanche
@@ -49,6 +49,8 @@ The Zero Exchange is at its core a multi and cross chain decentralized exchange.
 * Expected May 21st
 	* Matic
 
+:::note Uniswap can be replaced entirely by the Zero Exchange on Ethereum: The exact same tokens can be traded on both exchanges.
+:::
 
 
 ## References
