@@ -76,6 +76,15 @@ The Zero Exchange is at its core a multi and cross chain decentralized exchange.
 
 At the end of January 2021.
 
+### Some archievements of the project so far
+Being the first project to:
+* Build a bridge between the Ethereum and Avalanche chains
+* Build a bridge between the Avalanche and BSC chains
+* Build a bridge incoming between the Matic and BSC chains
+* Build a bridge to Kusama/DOT parachains in partnership with Moonbeam
+	* The Zero Exchange will the first DEX to be ready and operational on these parachains
+* Integrate ChartEx
+
 
 ## Tokenomics
 
