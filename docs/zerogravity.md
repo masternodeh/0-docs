@@ -55,6 +55,12 @@ Based on your tier level (but please check for each IDO what are tier requiremen
 	* Entering the lottery is combined with the guaranteed allocation: You can still make a chance to win more allocations if you already secured guaranteed one(s).  
 	* ZERO implements a fair and unbiased chance of winning an allocation thanks to the integration of a decentralized service available through the Chainlink Network, [Chainlink Verifiable Randomness Function (VRF)](https://medium.com/@OfficialZeroDex/integrating-chainlink-vrf-to-secure-fair-distribution-of-zerogravity-ido-allocations-b839e6a0c594)
 
+
+#### Snapshots
+Prior to each IDO, an additional rule is that you must hold enough ZERO or provide enough liquidity during a certain amount of time: That time period is communicated for each IDO.  
+To ensure that each wallet respects that rule, random snapshots are taken during that time frame: Your final tier level and number of tickets calculation will be based on the lowest amount you had during that period.   
+For an upcoming IDO, if you had no ZERO tokens before the start of the snapshot or not enough ZERO to qualify for at least one ticket, and you bought ZERO during the snapshots period, then you are not qualified to participate in winning an allocation for that IDO. 
+
 ### Overview tier levels and lottery tickets system
       
 #### Tier levels:
