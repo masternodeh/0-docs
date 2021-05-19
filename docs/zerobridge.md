@@ -25,7 +25,7 @@ The brigde enables to cross tokens from one chain to the other, bridge is connec
   * BSC
 * Done, waiting for the parachains to go live:  
   * Kusama/DOT
-* Expected May 21st:
+* Expected May 24th:
   * Matic
 
 ## Which tokens can be cross chained?
