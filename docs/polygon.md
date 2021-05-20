@@ -42,6 +42,10 @@ Symbol: MATIC
 ```
 
 ## Get some Matic
+:::warning
+Please do not abuse this faucet it's provided to make everyone's life easier
+:::
+
 1. [Head over to the Matic Faucet to get some Matic](https://faucet.matic.network/)
 1. Put in your address from MetaMask and choose the Matic token and the Mumbai network and Submit.
 1. Confirm and you will get some matic into your wallet to get started.
