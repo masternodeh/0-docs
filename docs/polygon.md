@@ -41,6 +41,11 @@ Chain ID: 137
 Symbol: MATIC
 ```
 
+## Get some Matic
+1. [Head over to the Matic Faucet to get some Matic](https://faucet.matic.network/)
+1. Put in your address from MetaMask and choose the Matic token and the Mumbai network and Submit.
+1. Confirm and you will get some matic into your wallet to get started.
+
 ## Addresses
 
 Below is a list of important addresses for the Polygon chain
@@ -118,6 +123,8 @@ TBA
 ## Links
 [0 Dex](https://0.exchange)
 
+[Matic Faucet](https://faucet.matic.network/)
+
 [Guide to using Matic Bridge](https://medium.com/stakingbits/guide-to-using-the-matic-bridge-to-bridge-tokens-from-ethereum-to-polygon-c3e66cf3d334)
 
 [Matic Network Wallet](https://wallet.matic.network/)
@@ -126,6 +133,7 @@ TBA
 
 [Polygon Block-explorer - Option 2](https://explorer-mainnet.maticvigil.com/)
 
+[Buying Matic on a CEX](https://ascendex.com/en/basic/cashtrade-spottrading/usdt/matic)
 
 :::tip
 **If you appreciate what we are doing feel free to send some ETH AVAX or BSC to the address below**
