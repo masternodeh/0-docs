@@ -23,10 +23,10 @@ The brigde enables to cross tokens from one chain to the other, bridge is connec
   * Ethereum
   * Avalanche
   * BSC
+  * Matic
 * Done, waiting for the parachains to go live:  
   * Kusama/DOT
-* Expected May 24th:
-  * Matic
+
 
 ## Which tokens can be cross chained?
 
@@ -40,14 +40,12 @@ Digital Asset News did a specific video on the Zero Exchange and the team showed
 
 ## Cross chain/bridging fees
 
-Fixed fee of around 3.99 AVAX regardless of the chains being bridged.  
-The fee is paid in the native token (ETH, AVAX, BNB) of the chain where the tokens are bridged from.  
-Example: If doing a BSC to Avalanche cross chain operation, the transactions fees will be paid in BNB.
+Fees depends on which chain tokens are bridged from:
+* From Matic to another chain: 1$
+* From BSC to another chain: 5$
+* From Avax to another chain: 15$
+* From Ethereum to another chain: To be confirmed
 
-_Why that much even when crossing from BSC to Avalanche for example where fees are cheap?  
-For equality reason between bridge users, the bridge costs are spread evenly amongst all bridged chains: Once more chains are integrated, fees will go lower because the costs can be spread between more chains._
-
-_Team is looking to change the bridge fee structure from a global fixed fee to fees depending on the chains involved in the cross chain operation. The Ethereum has a huge impact for instance, it will be decoupled price wise from the rest. [See medium article](https://medium.com/@OfficialZeroDex/the-zerobridge-f5cb06846fb5)._
 
 ### MetaMask gas settings
 When cross chaining, it's important to set the correct gas settings (especially when crossing from the Ethereum chain): Check the settings in this [gas settings guide](https://0-exchange.gitbook.io/0-exchange-docs/pinned/transaction-fails) 
