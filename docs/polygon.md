@@ -21,12 +21,25 @@ These docs are provided by the community please use at your own risk
 
 # Getting started
 
-Welcome to polygon! 
+Welcome to polygon! Polygon is a new EVM compatible blockchain that has really taken off recently. To get your liquidity over to the Polygon blockchain you are going to need a few things.
 
+1. Matic for paying gas. You can grab that from your favorite cex (central exchange) but pay attention to what network you are getting it on.
+1. Zero to match with your Matic to enter the LP Pool.
+1. Add the tokens you want to hold so MetaMask is ready and you're able to see the coins' balance. 
 
-1. Polygon is a new EVM compatible blockchain that has really taken off recently.
-1. Add the tokens you want to hold so MetaMask is ready and you're able to see the coins' balances. 
+## MetaMask Settings
 
+```javascript
+polygon
+
+Network Name: Polygon
+
+Network URL: https://polygon-mainnet.infura.io/v3/2343217699c44b45851935789f1f89e6
+
+Chain ID: 137
+
+Symbol: MATIC
+```
 
 ## Addresses
 
@@ -78,7 +91,9 @@ TBA
 
 [Matic Network Wallet](https://wallet.matic.network/)
 
-[Polygon Block-explorer](https://polygon-explorer-mainnet.chainstacklabs.com/)
+[Polygon Block-explorer - Option 1](https://polygon-explorer-mainnet.chainstacklabs.com/)
+
+[Polygon Block-explorer - Option 2](https://explorer-mainnet.maticvigil.com/)
 
 
 :::tip
