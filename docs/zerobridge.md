@@ -40,7 +40,7 @@ Digital Asset News did a specific video on the Zero Exchange and the team showed
 
 ## Cross chain/bridging fees
 
-Fixed fee of around 2.99 AVAX regardless of the chains being bridged.  
+Fixed fee of around 3.99 AVAX regardless of the chains being bridged.  
 The fee is paid in the native token (ETH, AVAX, BNB) of the chain where the tokens are bridged from.  
 Example: If doing a BSC to Avalanche cross chain operation, the transactions fees will be paid in BNB.
 
