@@ -40,7 +40,7 @@ Digital Asset News did a specific video on the Zero Exchange and the team showed
 
 ## Cross chain/bridging fees
 
-Fixed fee of around 2.99 AVAX regardless of the chains being bridged.  
+Fixed fee of around 3.99 AVAX regardless of the chains being bridged.  
 The fee is paid in the native token (ETH, AVAX, BNB) of the chain where the tokens are bridged from.  
 Example: If doing a BSC to Avalanche cross chain operation, the transactions fees will be paid in BNB.
 
@@ -50,4 +50,6 @@ For equality reason between bridge users, the bridge costs are spread evenly amo
 _Team is looking to change the bridge fee structure from a global fixed fee to fees depending on the chains involved in the cross chain operation. The Ethereum has a huge impact for instance, it will be decoupled price wise from the rest. [See medium article](https://medium.com/@OfficialZeroDex/the-zerobridge-f5cb06846fb5)._
 
 ### MetaMask gas settings
-When cross chaining, it's important to set the correct gas settings (usually when crossing from the Ethereum chain): Check the settings in this [gas settings guide](https://0-exchange.gitbook.io/0-exchange-docs/pinned/transaction-fails) 
+When cross chaining, it's important to set the correct gas settings (especially when crossing from the Ethereum chain): Check the settings in this [gas settings guide](https://0-exchange.gitbook.io/0-exchange-docs/pinned/transaction-fails) 
+
+
