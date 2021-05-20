@@ -66,6 +66,8 @@ Scammers are out there minting tokens that have the same names and same supply b
 | zETH		| `0x7c815bbc21fed2b97ca163552991a5c30d6a2336`	|	 ** 18 **	|	
 | BSCPAD	| `0x5A3010d4d8D3B5fB49f8B6E57FB9E48063f16700`	|	 ** 18 **	|	
 | WISB		| `0x4f491d389A5bF7C56bd1e4d8aF2280fD217C8543`	|	 ** 18 **	|	
+| MATIC		| `0xcc42724c6683b7e57334c4e856f4c9965ed682bd`	|	 ** 18 **	|	
+
 
 
 ## Adding Liquidity

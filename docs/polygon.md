@@ -24,7 +24,7 @@ These docs are provided by the community please use at your own risk
 Welcome to polygon! Polygon is a new EVM compatible blockchain that has really taken off recently. To get your liquidity over to the Polygon blockchain you are going to need a few things.
 
 1. Matic for paying gas. You can grab that from your favorite cex (central exchange) but pay attention to what network you are getting it on.
-1. Zero to match with your Matic to enter the LP Pool.
+1. Zero to match with your Matic to enter the LP Pool. Send some over the [Zero Bridge](https://app.0.exchange/#/transfer)
 1. Add the tokens you want to hold so MetaMask is ready and you're able to see the coins' balance. 
 
 ## MetaMask Settings
@@ -54,6 +54,35 @@ Scammers are out there minting tokens that have the same names and same supply b
 |       Name    |       Address                                 |       Decimals        |
 | ------------- |       :-----------:                           |       -----:          |
 | Zero          | `0xb67176655e7919a27aA34C279157124619aDFd4B`  |        ** 18 **       |
+
+## Using Official Matic Bridge
+Browse to [https://wallet.matic.network](https://wallet.matic.network/) and connect your MetaMask on the ETH Chain
+
+<img alt="Matic Bridge Eth to Polygon" src={useBaseUrl('/img/crosschain-eth-polygon1.png')} />
+
+<img alt="Matic Bridge Eth to Polygon" src={useBaseUrl('/img/crosschain-eth-polygon2.png')} />
+
+<img alt="Matic Bridge Eth to Polygon" src={useBaseUrl('/img/crosschain-eth-polygon3.png')} />
+
+<img alt="Matic Bridge Eth to Polygon" src={useBaseUrl('/img/crosschain-eth-polygon4.png')} />
+
+<img alt="Matic Bridge Eth to Polygon" src={useBaseUrl('/img/crosschain-eth-polygon5.png')} />
+
+<img alt="Matic Bridge Eth to Polygon" src={useBaseUrl('/img/crosschain-eth-polygon6.png')} />
+
+<img alt="Matic Bridge Eth to Polygon" src={useBaseUrl('/img/crosschain-eth-polygon7.png')} />
+
+<img alt="Matic Bridge Eth to Polygon" src={useBaseUrl('/img/crosschain-eth-polygon8.png')} />
+
+<img alt="Matic Bridge Eth to Polygon" src={useBaseUrl('/img/crosschain-eth-polygon9.png')} />
+
+<img alt="Matic Bridge Eth to Polygon" src={useBaseUrl('/img/crosschain-eth-polygon10.png')} />
+
+<img alt="Matic Bridge Eth to Polygon" src={useBaseUrl('/img/crosschain-eth-polygon11.png')} />
+
+<img alt="Matic Bridge Eth to Polygon" src={useBaseUrl('/img/crosschain-eth-polygon12.png')} />
+
+
 
 ## Cross-chain Transfers
 <img alt="Cross-chain Bridge Avax to Polygon" src={useBaseUrl('/img/crosschain-avax-polygon1.png')} />
@@ -88,6 +117,8 @@ TBA
 
 ## Links
 [0 Dex](https://0.exchange)
+
+[Guide to using Matic Bridge](https://medium.com/stakingbits/guide-to-using-the-matic-bridge-to-bridge-tokens-from-ethereum-to-polygon-c3e66cf3d334)
 
 [Matic Network Wallet](https://wallet.matic.network/)
 
