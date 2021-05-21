@@ -109,7 +109,7 @@ Approximate fees (at the time of writing) depends on which chain tokens are brid
 * From Matic to another chain: 1$
 * From BSC to another chain: 5$
 * From Avax to another chain: 15$
-* From Ethereum to another chain: To be confirmed
+* From Ethereum to another chain: More than 100$
 
 
 ### Gas tokens for the trading fees
