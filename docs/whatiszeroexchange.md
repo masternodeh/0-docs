@@ -44,7 +44,7 @@ The Zero Exchange is at its core a multi and cross chain decentralized exchange.
 * Ethereum
 * Avalanche
 * BSC
-* Matic
+* Polygon (Matic)
 * Done, waiting for the parachains to go live:  
 	* Kusama/DOT
 
@@ -79,7 +79,7 @@ At the end of January 2021.
 Being the first project to:
 * Build a bridge between the Ethereum and Avalanche chains
 * Build a bridge between the Avalanche and BSC chains
-* Build a bridge between the Matic and BSC chains
+* Build a bridge between the Polygon and BSC chains
 * Build a bridge to Kusama/DOT parachains in partnership with Moonbeam
 	* The Zero Exchange will likely the first DEX to be ready and operational on these parachains
 * Integrate ChartEx
@@ -99,17 +99,17 @@ There are two kind of fees:
 
 
 ### Trading fees
-The fees depends on which chain the trade is done: Very low on BSC, a bit more expensive on Avalanche than on BSC, Ethereum is the most expensive (same fees as Uniswap).
-Compared to the Ethereum chain, the trading fees are almost zero on BSC and Avalanche.
+The fees depends on which chain the trade is done: Lowest on Polygon, very low on BSC, a bit more expensive on Avalanche than on BSC, Ethereum is the most expensive (same fees as Uniswap).
+Compared to the Ethereum chain, the trading fees are almost zero on Polygon, BSC and Avalanche.
 
 
 ### Cross chain/bridging fees
 
-Fees depends on which chain tokens are bridged from:
+Approximate fees (at the time of writing) depends on which chain tokens are bridged from:
 * From Matic to another chain: 1$
 * From BSC to another chain: 5$
 * From Avax to another chain: 15$
-* From Ethereum to another chain: To be confirmed
+* From Ethereum to another chain: More than 100$
 
 
 ### Gas tokens for the trading fees
@@ -119,6 +119,7 @@ Depending on which chain you are trading on, you need the native token of the ch
 1. On the Ethereum chain, you need ETH
 1. On the BSC chain, you need BNB
 1. On the Avalanche chain, you need AVAX
+1. On the Polygon chain, you need MATIC
 
 Our experience is that for people new in crypto, getting hold of AVAX in MetaMask starting from a centralised exchange like Binance, can be a bit daunting (there are tutorials available).  The Zero Exchange has foreseen a goodie for the bridge users: When you do a cross chain for the first time, you will receive a portion of BNB or AVAX (depending on which chain you cross to) for a few trades on the crossed chain.  To be safe, convert then a part of your crossed chain tokens to BNB or AVAX as to have a reserve to pay for more transaction fees.
 
