@@ -126,6 +126,13 @@ function Home() {
                   <Feature key={idx} {...props} />
                 ))}
               </div>
+			  <div className="row">
+				{firstRow &&
+					firstRow.length &&
+					firstRow.map((props, idx) => (
+					<FirstRow key={idx} {...props} />
+				))}{" "}
+			  </div>
             </div>
           </section>
         )}
