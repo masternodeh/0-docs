@@ -44,7 +44,7 @@ The Zero Exchange is at its core a multi and cross chain decentralized exchange.
 * Ethereum
 * Avalanche
 * BSC
-* Matic
+* Polygon (Matic)
 * Done, waiting for the parachains to go live:  
 	* Kusama/DOT
 
@@ -79,7 +79,7 @@ At the end of January 2021.
 Being the first project to:
 * Build a bridge between the Ethereum and Avalanche chains
 * Build a bridge between the Avalanche and BSC chains
-* Build a bridge between the Matic and BSC chains
+* Build a bridge between the Polygon and BSC chains
 * Build a bridge to Kusama/DOT parachains in partnership with Moonbeam
 	* The Zero Exchange will likely the first DEX to be ready and operational on these parachains
 * Integrate ChartEx
@@ -105,7 +105,7 @@ Compared to the Ethereum chain, the trading fees are almost zero on BSC and Aval
 
 ### Cross chain/bridging fees
 
-Fees depends on which chain tokens are bridged from:
+Approximate fees (at the time of writing) depends on which chain tokens are bridged from:
 * From Matic to another chain: 1$
 * From BSC to another chain: 5$
 * From Avax to another chain: 15$
