@@ -23,7 +23,7 @@ The brigde enables to cross tokens from one chain to the other, bridge is connec
   * Ethereum
   * Avalanche
   * BSC
-  * Matic
+  * Polygon (Matic)
 * Done, waiting for the parachains to go live:  
   * Kusama/DOT
 
