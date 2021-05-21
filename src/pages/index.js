@@ -115,6 +115,13 @@ function Home() {
               BSC 
             </Link>
           </div>
+		  <div className="row">
+            {firstRow &&
+              firstRow.length &&
+              firstRow.map((props, idx) => (
+                <FirstRow key={idx} {...props} />
+              ))}{" "}
+          </div>
         </div>
       </header>
       <main>
