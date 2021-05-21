@@ -42,17 +42,11 @@ Symbol: MATIC
 ```
 
 ## Get some Matic
-:::warning
-Please do not abuse this faucet it's provided to make everyone's life easier
-:::
-
-1. [Head over to the Matic Faucet to get some Matic](https://faucet.matic.network/)
-1. Grab a cup of tea sometimes the faucet can take 10-15 mins to send the tokens.
-1. Put in your address from MetaMask and choose the Matic token and the Mumbai network and Submit.
-1. Confirm and you will get some matic into your wallet to get started.
+1. Before you will be able to do anything with your matic on the polygon network you will need some matic to pay fees.
+1. You can buy it from a CEX (Central Exchange) like [Ascendex.com](https://ascendex.com/en/basic/cashtrade-spottrading/usdt/matic)
+1. Please pay attention to which blockchain your CEX is using though Ascendex mentioned above supports matic withdrawals on the polygon network but some others will sell you erc20 matic which will need to then be bridged over.
 
 ## Addresses
-
 Below is a list of important addresses for the Polygon chain
 
 :::important
