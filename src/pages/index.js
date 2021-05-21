@@ -5,6 +5,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
+import { firstRow } from "../data/features";
 
 const features = [
   {
@@ -55,6 +56,25 @@ function Feature({imageUrl, title, description}) {
       <h3>{title}</h3>
       <p>{description}</p>
     </div>
+  );
+}
+
+function FirstRow({ title, description, linkUrl, imageUrl }) {
+  // const imgUrl = useBaseUrl(imageUrl);
+  return (
+
+    <div className="col-md-4 p-8">
+      <Link to={useBaseUrl(linkUrl)} activeClassName="active">
+        <div className="show-card">
+          <div className="icon-wrapper">
+            <img src={useBaseUrl(imageUrl)} alt={title} className="icon" />
+          </div>
+          <div className="title">{title}</div>
+          <div className="descriptions">{description}</div>
+        </div>
+      </Link>
+    </div>
+
   );
 }
 
