@@ -99,8 +99,8 @@ There are two kind of fees:
 
 
 ### Trading fees
-The fees depends on which chain the trade is done: Very low on BSC, a bit more expensive on Avalanche than on BSC, Ethereum is the most expensive (same fees as Uniswap).
-Compared to the Ethereum chain, the trading fees are almost zero on BSC and Avalanche.
+The fees depends on which chain the trade is done: Lowest on Polygon, very low on BSC, a bit more expensive on Avalanche than on BSC, Ethereum is the most expensive (same fees as Uniswap).
+Compared to the Ethereum chain, the trading fees are almost zero on Polygon, BSC and Avalanche.
 
 
 ### Cross chain/bridging fees
@@ -119,6 +119,7 @@ Depending on which chain you are trading on, you need the native token of the ch
 1. On the Ethereum chain, you need ETH
 1. On the BSC chain, you need BNB
 1. On the Avalanche chain, you need AVAX
+1. On the Polygon chain, you need MATIC
 
 Our experience is that for people new in crypto, getting hold of AVAX in MetaMask starting from a centralised exchange like Binance, can be a bit daunting (there are tutorials available).  The Zero Exchange has foreseen a goodie for the bridge users: When you do a cross chain for the first time, you will receive a portion of BNB or AVAX (depending on which chain you cross to) for a few trades on the crossed chain.  To be safe, convert then a part of your crossed chain tokens to BNB or AVAX as to have a reserve to pay for more transaction fees.
 
