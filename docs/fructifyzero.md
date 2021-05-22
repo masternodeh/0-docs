@@ -38,7 +38,7 @@ Do the traditional "buy low, sell high" routine, with ZERO or other tokens avail
 :::
 * On BSC and Avalanche: Limited to tokens supported by the Zero Exchange
 
-Trading fees on the chains from lowest to highest: BSC > Avalanche > Ethereum
+Trading fees on the chains from lowest to highest: Polygon > BSC > Avalanche > Ethereum
 
 **Risks:**
 * Price fluctuations: You can't buy back lower than what you sold for.
