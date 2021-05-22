@@ -16,7 +16,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-# ZeroBridge
+## ZeroBridge
 
 The brigde enables to cross tokens from one chain to the other, bridge is connected to these chains:
 * Currently:  
@@ -28,17 +28,17 @@ The brigde enables to cross tokens from one chain to the other, bridge is connec
   * Kusama/DOT
 
 
-## Which tokens can be cross chained?
+### Which tokens can be cross chained?
 
 * ZERO, as it is native and connected to all chains
 * For the tokens, it will depends on their availabilities on both pair of chains selected to cross chain
 
-## How to cross chain?
+### How to cross chain?
 
 Digital Asset News did a specific video on the Zero Exchange and the team showed how to cross chain: [How to cross chain](https://youtu.be/lGVNDuotddM?t=1164)
 
 
-## Cross chain/bridging fees
+### Cross chain/bridging fees
 
 Fees depends on which chain tokens are bridged from:
 * From Polygon to another chain: 0.55 MATIC
@@ -48,7 +48,7 @@ Fees depends on which chain tokens are bridged from:
 
 Fees are paid in the token you bridge from.  If for example, you bridge tokens from the Avalanche to the Polygon chain, the transaction will be paid in AVAX.
 
-### MetaMask gas settings
+#### MetaMask gas settings
 When cross chaining, it's important to set the correct gas settings (especially when crossing from the Ethereum chain): Check the settings in this [gas settings guide](https://0-exchange.gitbook.io/0-exchange-docs/pinned/transaction-fails) 
 
 

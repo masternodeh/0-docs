@@ -1,10 +1,10 @@
 ---
 id: partnerships
-title: ZERO partnerships
-sidebar_label: ZERO partnerships
+title: Zero partnerships
+sidebar_label: Zero partnerships
 hide_title: true
 hide_table_of_contents: true
-description: ZERO partnerships
+description: Zero partnerships
 keywords:
  - "ZERO Exchange"
  - "$ZERO"

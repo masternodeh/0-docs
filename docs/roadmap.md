@@ -1,10 +1,10 @@
 ---
 id: roadmap
-title: ZERO roadmap
-sidebar_label: ZERO roadmap
+title: Zero roadmap
+sidebar_label: Zero roadmap
 hide_title: true
 hide_table_of_contents: true
-description: ZERO roadmap
+description: Zero roadmap
 keywords:
  - "ZERO Exchange"
  - "$ZERO"
@@ -16,19 +16,15 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-# Roadmap
+## Roadmap
 
-## New chain integration:
-* Before May 19th, 2021: MATIC
-
-
-## Multi chain charting
+### Multi chain charting
 * Imminent: Integration of ChartEx, see [Medium article](https://medium.com/@OfficialZeroDex/chartex-brings-omnichain-charting-to-0-exchange-9ca040298029)
 
 * [ChartEx Subscription model](https://chartexpro.medium.com/new-economic-model-subscription-updates-1a9c34b731be)
 
 
-## Others
+### Others
 * ZERO single staking
 
 * Multi and cross chain NFT marketplace/farming
