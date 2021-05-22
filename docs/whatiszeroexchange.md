@@ -30,7 +30,7 @@ The information and documentation are provided by the community, please use at y
 
 ## What is the Zero Exchange
 
-The Zero Exchange is at its core a multi and cross chain decentralized exchange.  Its ethos are to fully embrace the decentralized aspects of crypto and to grow a thriving and engaged community, backed by a dedicated project team identifying the opportunities (features, technical, partnerships, etc) to build as a 1st mover a model for the future of crypto trading on multiple chains in a one stop shop, except that the future is now.
+The Zero Exchange is at its core a multi and cross chain decentralized exchange.  Its ethos is to fully embrace the decentralized aspects of crypto and to grow a thriving and engaged community, backed by a dedicated project team identifying the opportunities (features, technical, partnerships, etc) to build as a 1st mover a model for the future of crypto trading on multiple chains in a one stop shop, except that the future is now.
 
 
 ## Official statement from the white paper
