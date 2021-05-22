@@ -16,25 +16,19 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-# Partnerships
+## Zero DeFi Academy
 
-The Zero exchange is an open platform, meaning that they won't always develop everything themselves, but conclude partnerships with other projects bringing additional utility to the platform.
+There is [Youtube channel](https://www.youtube.com/playlist?list=PLUrP9cz-3kCcVv7lYgtnNoNmKsFxfyCHb) with several tutorial showing how to use some features of the exchange.
 
-1. [Moonbeam](https://medium.com/@OfficialZeroDex/0-exchange-brings-an-omnidex-to-the-dot-ecosystem-by-deploying-to-moonbeam-4d0dc395f7dd)
+1. [How to configure the Metamask wallet for Zero Exchange](https://www.youtube.com/watch?v=UABV0xzYAEg&list=PLUrP9cz-3kCcVv7lYgtnNoNmKsFxfyCHb&index=1)
 
-1. [ChartEx1](https://medium.com/@OfficialZeroDex/chartex-brings-omnichain-charting-to-0-exchange-9ca040298029)
+1. [How to buy $ZERO on the Zero Exchange (DEX) by using a credit card](https://www.youtube.com/watch?v=iRbc36Q_rRk&list=PLUrP9cz-3kCcVv7lYgtnNoNmKsFxfyCHb&index=2)
 
-1. [ChartEx2](https://chartexpro.medium.com/new-economic-model-subscription-updates-1a9c34b731be)
+1. [How to buy $ZERO tokens on the Binance Smart Chain and Ethereum networks on Zero Exchange (DEX)](https://www.youtube.com/watch?v=77B7vfFtxq4&list=PLUrP9cz-3kCcVv7lYgtnNoNmKsFxfyCHb&index=3)
 
-1. [Chainlink](https://medium.com/@OfficialZeroDex/integrating-chainlink-vrf-to-secure-fair-distribution-of-zerogravity-ido-allocations-b839e6a0c594)
+1. [How to swap tokens on Zero Exchange (DEX) Including how to transfer between different chains]https://www.youtube.com/watch?v=FNGqS-X4ruM&list=PLUrP9cz-3kCcVv7lYgtnNoNmKsFxfyCHb&index=4)
 
-1. [Web3API](https://medium.com/@OfficialZeroDex/0-exchange-partners-with-web3api-to-enable-omni-language-swaps-78f3ecebc85a)
+1. [How to add and remove tokens in a Liquidity Pool "Liquidity Mining"](https://www.youtube.com/watch?v=ONvbpnP1lxc&list=PLUrP9cz-3kCcVv7lYgtnNoNmKsFxfyCHb&index=5&t=200s)
 
-1. [Bridge Mutual](https://twitter.com/OfficialZeroDEX/status/1372895909873340421)
 
-1. [Kairon Labs](https://medium.com/@OfficialZeroDex/0-exchange-finds-its-preferred-market-maker-fac7b6a9d1be)
-
-1. [Gondola Finance](https://medium.com/@OfficialZeroDex/gondola-finance-new-asset-listing-26aa3a30a2ba)
-
-1. [Bithumb Global](https://medium.com/@OfficialZeroDex/zero-exchange-x-bithumb-global-f1319c511ac9)
 
