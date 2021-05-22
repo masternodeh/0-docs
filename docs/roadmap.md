@@ -18,10 +18,6 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## Roadmap
 
-### New chain integration:
-* Before May 19th, 2021: MATIC
-
-
 ### Multi chain charting
 * Imminent: Integration of ChartEx, see [Medium article](https://medium.com/@OfficialZeroDex/chartex-brings-omnichain-charting-to-0-exchange-9ca040298029)
 
