@@ -57,7 +57,7 @@ The Zero Exchange is at its core a multi and cross chain decentralized exchange.
 1. Website: https://www.0.exchange/
 1. Ticker: $ZERO
 1. CoinGecko: https://www.coingecko.com/en/coins/0-exchange
-1. CoinMarketCap: https://coinmarketcap.com/currencies/zero-exchange/
+1. CoinMarketCap: https://coinmarketcap.com/currencies/zero-exchange/  
 	Please note that they have not yet updated their site with the new logo (there has been a rebranding in March). 
 1. Price on the Ethereum chain: https://chartex.pro/?symbol=UNISWAP%3AZERO.93A574&interval=60
 1. Price on Dextools: https://www.dextools.io/app/uniswap/pair-explorer/0x40f0e70a7d565985b967bcdb0ba5801994fc2e80
