@@ -38,7 +38,7 @@ Do the traditional "buy low, sell high" routine, with ZERO or other tokens avail
 :::
 * On BSC and Avalanche: Limited to tokens supported by the Zero Exchange
 
-Trading fees on the chains from lowest to highest: BSC > Avalanche > Ethereum
+Trading fees on the chains from lowest to highest: Polygon > BSC > Avalanche > Ethereum
 
 **Risks:**
 * Price fluctuations: You can't buy back lower than what you sold for.
@@ -89,6 +89,6 @@ High level steps:
 => And then continue these operations back and forth between the different chains
 => The arbing is not necessarily limited to the ZERO token, but to all tokens available on the different chains
 
-To make it worth: You have to do it with rather big volumes to offset the bridge costs
+To make it worth: You have to do it with rather big volumes to offset the bridge costs when some chains are involved like Ethereum (and in a much lesser way, Avalanche)
 
 **Risks:** That the cheaper price on the chain you targeted changes during the arbing action and is not low enough to make it a profitable trade anymore

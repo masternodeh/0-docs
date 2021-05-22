@@ -41,11 +41,12 @@ Digital Asset News did a specific video on the Zero Exchange and the team showed
 ## Cross chain/bridging fees
 
 Fees depends on which chain tokens are bridged from:
-* From Polygon to another chain: 1$
-* From BSC to another chain: 5$
-* From Avax to another chain: 15$
-* From Ethereum to another chain: More than 100$
+* From Polygon to another chain: 0.55 MATIC
+* From BSC to another chain: 0.014 BNB
+* From Avax to another chain: 0.67 AVAX
+* From Ethereum to another chain: 0.056 ETH
 
+Fees are paid in the token you bridge from.  If for example, you bridge tokens from the Avalanche to the Polygon chain, the transaction will be paid in AVAX.
 
 ### MetaMask gas settings
 When cross chaining, it's important to set the correct gas settings (especially when crossing from the Ethereum chain): Check the settings in this [gas settings guide](https://0-exchange.gitbook.io/0-exchange-docs/pinned/transaction-fails) 

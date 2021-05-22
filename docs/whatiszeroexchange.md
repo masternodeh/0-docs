@@ -30,7 +30,7 @@ The information and documentation are provided by the community, please use at y
 
 ## What is the Zero Exchange
 
-The Zero Exchange is at its core a multi and cross chain decentralized exchange.  Its ethos are to fully embrace the decentralized aspects of crypto and to grow a thriving and engaged community, backed by a dedicated project team identifying the opportunities (features, technical, partnerships, etc) to build as a 1st mover a model for the future of crypto trading on multiple chains in a one stop shop, except that the future is now.
+The Zero Exchange is at its core a multi and cross chain decentralized exchange.  Its ethos is to fully embrace the decentralized aspects of crypto and to grow a thriving and engaged community, backed by a dedicated project team identifying the opportunities (features, technical, partnerships, etc) to build as a 1st mover a model for the future of crypto trading on multiple chains in a one stop shop, except that the future is now.
 
 
 ## Official statement from the white paper
@@ -105,11 +105,7 @@ Compared to the Ethereum chain, the trading fees are almost zero on Polygon, BSC
 
 ### Cross chain/bridging fees
 
-Approximate fees (at the time of writing) depends on which chain tokens are bridged from:
-* From Matic to another chain: 1$
-* From BSC to another chain: 5$
-* From Avax to another chain: 15$
-* From Ethereum to another chain: More than 100$
+[Please check this page](zerobridge.md) for more information.
 
 
 ### Gas tokens for the trading fees
