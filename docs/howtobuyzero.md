@@ -28,6 +28,7 @@ These docs are provided by the community please use at your own risk
 	* On Ethereum
 	* On Binance Smart Chain (= "BSC" in short)
 	* On Avalanche
+	* On Polygon
 	  
 2. With a credit card (note: not all countries are yet allowed to buy via a credit card)
 	  
@@ -49,10 +50,11 @@ Assumptions:
 
 
 Buy options from the cheapest to the more expensive chain/method:
+1. Buy on the Polygon chain
 1. Buy on the BSC chain
-2. Buy on the Avalanche chain
-3. Buy on the Ethereum chain
-4. Buy with a credit card
+1. Buy on the Avalanche chain
+1. Buy on the Ethereum chain
+1. Buy with a credit card
 
 ### Buy on the Avalanche chain
 
