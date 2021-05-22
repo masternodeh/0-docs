@@ -139,5 +139,5 @@ General considerations:
 * Nobody has ever lost funds when some bridge transactions were occasionally stuck (dev team has to manually push the transactions), a lot of volume has already been reached and funds have never disappeared.
 * The team has 100% the trust of the community, we invite you to join the Telegram groups if you have any doubts, we can guarantee that the positive reactions will overwhelm you.
 
-Code/contracts have been audited by Zokyo and the [report is available here](../static/pdf/Zokyo_Zero Exchange_SecurityAudit_1.0.pdf)
+Code/contracts have been audited by Zokyo and the [report is available here](https://www.docdroid.net/uNdeEZ9/zokyo-zero-exchange-securityaudit-10-pdf#page=2)
  
