@@ -18,7 +18,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## Zero DeFi Academy
 
-There is [Youtube channel](https://www.youtube.com/playlist?list=PLUrP9cz-3kCcVv7lYgtnNoNmKsFxfyCHb) with several tutorial showing how to use some features of the exchange.
+There is a [Youtube channel](https://www.youtube.com/playlist?list=PLUrP9cz-3kCcVv7lYgtnNoNmKsFxfyCHb) with several tutorial showing how to use some features of the exchange.
 
 1. [How to configure the Metamask wallet for Zero Exchange](https://www.youtube.com/watch?v=UABV0xzYAEg&list=PLUrP9cz-3kCcVv7lYgtnNoNmKsFxfyCHb&index=1)
 
