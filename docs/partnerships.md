@@ -16,7 +16,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-# Partnerships
+## Partnerships
 
 The Zero exchange is an open platform, meaning that they won't always develop everything themselves, but conclude partnerships with other projects bringing additional utility to the platform.
 
