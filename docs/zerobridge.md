@@ -46,7 +46,7 @@ Fees depends on which chain tokens are bridged from:
 * From Avax to another chain: 0.67 AVAX
 * From Ethereum to another chain: 0.056 ETH
 
-Fees are paid in the token you bridge from.  If for example, you bridge tokens from the Avalanche to the Polygon chain, you will the transaction in AVAX.
+Fees are paid in the token you bridge from.  If for example, you bridge tokens from the Avalanche to the Polygon chain, the transaction will be paid in AVAX.
 
 ### MetaMask gas settings
 When cross chaining, it's important to set the correct gas settings (especially when crossing from the Ethereum chain): Check the settings in this [gas settings guide](https://0-exchange.gitbook.io/0-exchange-docs/pinned/transaction-fails) 
