@@ -92,6 +92,9 @@ Being the first project to:
 1. Token emission: [Initial white paper](https://0exchangestatic.blob.core.windows.net/whitepaper/0Whitepaper.pdf)
 1. Token burn: [The Zero team has burned 50 millions tokens](https://0exchangestatic.blob.core.windows.net/whitepaper/0Whitepaper.pdf)
 
+## Current circulation supply
+
+Calculated on [this link](https://zeromktcapcalc.azurewebsites.net/api/GetSupply)
 
 ## Fees and is it really zero fee?
 
@@ -103,22 +106,6 @@ Being the first project to:
 
 [Please check this page](zerobridge.md) for more information.
 
-
-### Gas tokens for the trading fees
-
-Depending on which chain you are trading on, you need the native token of the chain to pay for the transactions fees:
-
-1. On the Ethereum chain, you need ETH
-1. On the BSC chain, you need BNB
-1. On the Avalanche chain, you need AVAX
-1. On the Polygon chain, you need MATIC
-
-Our experience is that for people new in crypto, getting hold of AVAX in MetaMask starting from a centralised exchange like Binance, can be a bit daunting (there are tutorials available).  The Zero Exchange has foreseen a goodie for the bridge users: When you do a cross chain for the first time, you will receive a portion of BNB or AVAX (depending on which chain you cross to) for a few trades on the crossed chain.  To be safe, convert then a part of your crossed chain tokens to BNB or AVAX as to have a reserve to pay for more transaction fees.
-
-
-## Current circulation supply
-
-Calculated on [this link](https://zeromktcapcalc.azurewebsites.net/api/GetSupply)
 
 ## Who is the team?
       
