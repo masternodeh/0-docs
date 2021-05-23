@@ -74,7 +74,7 @@ What to do with the rewards:
 
 
 **Risks:** Please learn about Impermanent Loss
-* [https://0.masternode.io/docs/il](il.md)
+* [Impermanent Loss Explanation](il.md)
 * [https://academy.binance.com/en/articles/impermanent-loss-explained](https://academy.binance.com/en/articles/impermanent-loss-explained)
 
 
