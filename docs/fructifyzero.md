@@ -65,9 +65,16 @@ What to do with the rewards:
 * Compound back in the same pool: Claim them, swap half of them to the other paired token, and add more liquidity (> to raise your share of the pool to earn more rewards)
 * Sell your rewards to another token/stable coin like USDT for profits
 
+**Some FAQs**  
+* [How to manage Liquidity Pools](/faq/faq009)
+* [Entering a liquidity pool](/faq/faq019)
+* [Withdrawing LP tokens from a LP](/faq/faq020)
+* [Retrieve tokens from LP tokens](/faq/faq021)
+
+
 
 **Risks:** Please learn about Impermanent Loss
-* [https://0.masternode.io/docs/il](https://0.masternode.io/docs/il)
+* [https://0.masternode.io/docs/il](/docs/il)
 * [https://academy.binance.com/en/articles/impermanent-loss-explained](https://academy.binance.com/en/articles/impermanent-loss-explained)
 
 
