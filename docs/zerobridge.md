@@ -33,6 +33,10 @@ The brigde enables to cross tokens from one chain to the other, bridge is connec
 * ZERO, as it is native and connected to all chains
 * For the tokens, it will depends on their availabilities on both pair of chains selected to cross chain
 
+Some FAQs to consult:
+* [Tokens traded on the Zero Exchange can be traded on other exchanges as well?](faq/faq006.md), explains also how to cross chain tokens not supported by the Zero Exchange
+* [Why are some of the tokens named "zXXX"](faq/faq005.md)
+
 ### How to cross chain?
 
 Digital Asset News did a specific video on the Zero Exchange and the team showed how to cross chain: [How to cross chain](https://youtu.be/lGVNDuotddM?t=1164)

@@ -33,3 +33,6 @@ Send BNB from Binance to Metamask: https://0.masternode.io/docs/faq/faq014
 Pending/failed Transactions: https://0.masternode.io/docs/faq/faq015  
 Buy Zero with Credit Card: https://0.masternode.io/docs/faq/faq016  
 Entering a liquidity pool: https://0.masternode.io/docs/faq/faq019  
+Withdrawing LP tokens from a LP: https://0.masternode.io/docs/faq/faq020  
+Retrieve tokens from LP tokens: https://0.masternode.io/docs/faq/faq021  
+Claiming rewards from LP: https://0.masternode.io/docs/faq/faq022  

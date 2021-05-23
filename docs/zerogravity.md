@@ -57,16 +57,16 @@ Based on your tier level (but please check for each IDO what are tier requiremen
 
 
 #### Snapshots
-Prior to each IDO, an additional rule is that you must hold enough ZERO or provide enough liquidity during a certain amount of time: That time period is communicated for each IDO.  
-To ensure that each wallet respects that rule, random snapshots are taken during that time frame: Your final tier level and number of tickets calculation will be based on the lowest amount you had during that period.   
-For an upcoming IDO, if you had no ZERO tokens before the start of the snapshot or not enough ZERO to qualify for at least one ticket, and you bought ZERO during the snapshots period, then you are not qualified to participate in winning an allocation for that IDO. 
+Prior to each IDO, an additional rule is that you must hold enough ZERO or provide enough liquidity during a certain amount of time: That time period is communicated for each IDO. 
+
+Check this [FAQ for more explanations](faq/faq007.md).
 
 ### Overview tier levels and lottery tickets system
       
 #### Tier levels:
       
 1. "Nebula"  
-	** Holding minimum 5000 ZERO **  
+	** Holding minimum 5000 ZERO or equivalent in liquidity pools **  
       * Each 5k zero gives one ticket for the lottery  
       * Each 25k zero gives one xtra bonus ticket  
       * Number of tickets calculated capped to 500k zero  	
@@ -77,7 +77,7 @@ For an upcoming IDO, if you had no ZERO tokens before the start of the snapshot 
 1. "Super Nova": Several guaranteed allocations  
 	** Holding 1 million ZERO or equivalent in liquidity pools **
 
-:::note The ZERO tokens rewards from the liquidity pools that are not harvested, don't count towards the tier level/number of tickets calculation 
+:::note The ZERO tokens rewards from the liquidity pools that are not claimed, don't count towards the tier level/number of tickets calculation 
 :::
 
 #### Online calculator for number of tickets
@@ -94,7 +94,7 @@ The online calcuator doesn't yet allow a calculation based on the LP tokens, you
 Some liquidity pools benefit from a 2x multiplier
 
 :::note      
-Please check the [Medium article](https://medium.com/@OfficialZeroDex/introducing-the-zerogravity-launchpad-61fd8f751918) for the eligible liquidity pools and LP token values for the calculation
+Check this [Medium article](https://medium.com/@OfficialZeroDex/introducing-the-zerogravity-launchpad-61fd8f751918) for the eligible liquidity pools and LP token values for the calculation
 :::
 
 ### Reference 

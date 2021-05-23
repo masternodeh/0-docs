@@ -92,52 +92,22 @@ Being the first project to:
 1. Token emission: [Initial white paper](https://0exchangestatic.blob.core.windows.net/whitepaper/0Whitepaper.pdf)
 1. Token burn: [The Zero team has burned 50 millions tokens](https://0exchangestatic.blob.core.windows.net/whitepaper/0Whitepaper.pdf)
 
+## Current circulation supply
+
+Calculated on [this link](https://zeromktcapcalc.azurewebsites.net/api/GetSupply)
 
 ## Fees and is it really zero fee?
 
-There are two kind of fees:
-* Trading fees on a chain: Swapping a token to another token on a same chain, like Uniswap on the Ethereum chain or Pancakeswap on the BSC chain
-* Cross chain fees: When bridging a token from one chain to another chain
-
-
 ### Trading fees
-The fees depends on which chain the trade is done: Lowest on Polygon, very low on BSC, a bit more expensive on Avalanche than on BSC, Ethereum is the most expensive (same fees as Uniswap).
-Compared to the Ethereum chain, the trading fees are almost zero on Polygon, BSC and Avalanche.
 
+[Please check this FAQ](faq/faq008.md) for more information.
 
 ### Cross chain/bridging fees
 
 [Please check this page](zerobridge.md) for more information.
 
 
-### Gas tokens for the trading fees
-
-Depending on which chain you are trading on, you need the native token of the chain to pay for the transactions fees:
-
-1. On the Ethereum chain, you need ETH
-1. On the BSC chain, you need BNB
-1. On the Avalanche chain, you need AVAX
-1. On the Polygon chain, you need MATIC
-
-Our experience is that for people new in crypto, getting hold of AVAX in MetaMask starting from a centralised exchange like Binance, can be a bit daunting (there are tutorials available).  The Zero Exchange has foreseen a goodie for the bridge users: When you do a cross chain for the first time, you will receive a portion of BNB or AVAX (depending on which chain you cross to) for a few trades on the crossed chain.  To be safe, convert then a part of your crossed chain tokens to BNB or AVAX as to have a reserve to pay for more transaction fees.
-
-
-## Current circulation supply
-
-Calculated on [this link](https://zeromktcapcalc.azurewebsites.net/api/GetSupply)
-
 ## Who is the team?
       
-Team is anonymous for the following reasons they have stated:
-
-* Their team members are working for top crypto projects and have NDA's in place (so could risk losing benefits if they are identified as working for a competing project).
-* As for a lot of crypto projects, this one is also very open to the community.  The team lead for example is on Telegram almost every day discussing with the community in various channels: Revealing their identities could jeopardise their private life.
-
-
-General considerations:
-* It's not uncommon in crypto for legit projects to have an anonymous team. With that said, the team being anonymous is not an issue and that statement can be very strongly backed by the community.  Since the launch of the project, team has proven to be very agile and delivered more than anticipated, important partnerships have already been concluded with known players in the crypto space (who wouldn't touch an anon team project if they had estimated they were not legit).
-* Nobody has ever lost funds when some bridge transactions were occasionally stuck (dev team has to manually push the transactions), a lot of volume has already been reached and funds have never disappeared.
-* The team has 100% the trust of the community, we invite you to join the Telegram groups if you have any doubts, we can guarantee that the positive reactions will overwhelm you.
-
-Code/contracts have been audited by Zokyo and the [report is available here](../static/pdf/Zokyo_Zero Exchange_SecurityAudit_1.0.pdf)
+[Check this FAQ](faq/faq012.md)
  
