@@ -66,10 +66,10 @@ What to do with the rewards:
 * Sell your rewards to another token/stable coin like USDT for profits
 
 **Some FAQs**  
-* [How to manage Liquidity Pools](/faq/faq009)
-* [Entering a liquidity pool](/faq/faq019)
-* [Withdrawing LP tokens from a LP](/faq/faq020)
-* [Retrieve tokens from LP tokens](/faq/faq021)
+* [How to manage Liquidity Pools](/faq/faq009.md)
+* [Entering a liquidity pool](/faq/faq019.md)
+* [Withdrawing LP tokens from a LP](/faq/faq020.md)
+* [Retrieve tokens from LP tokens](/faq/faq021.md)
 
 
 
