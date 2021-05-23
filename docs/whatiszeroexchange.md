@@ -95,6 +95,8 @@ Being the first project to:
 
 ## Fees and is it really zero fee?
 
+### Trading fees
+
 [Please check this FAQ](faq/faq008.md) for more information.
 
 ### Cross chain/bridging fees
