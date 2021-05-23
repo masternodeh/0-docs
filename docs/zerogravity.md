@@ -77,7 +77,7 @@ For an upcoming IDO, if you had no ZERO tokens before the start of the snapshot 
 1. "Super Nova": Several guaranteed allocations  
 	** Holding 1 million ZERO or equivalent in liquidity pools **
 
-:::note The ZERO tokens rewards from the liquidity pools that are not harvested, don't count towards the tier level/number of tickets calculation 
+:::note The ZERO tokens rewards from the liquidity pools that are not claimed, don't count towards the tier level/number of tickets calculation 
 :::
 
 #### Online calculator for number of tickets
