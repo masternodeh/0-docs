@@ -66,7 +66,7 @@ For an upcoming IDO, if you had no ZERO tokens before the start of the snapshot 
 #### Tier levels:
       
 1. "Nebula"  
-	** Holding minimum 5000 ZERO **  
+	** Holding minimum 5000 ZERO or equivalent in liquidity pools **  
       * Each 5k zero gives one ticket for the lottery  
       * Each 25k zero gives one xtra bonus ticket  
       * Number of tickets calculated capped to 500k zero  	
