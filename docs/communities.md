@@ -38,7 +38,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 * [r/ZeroExchange](https://www.reddit.com/r/ZeroExchange/)
 
 ### Discord
-* [Discord Invite](https://discord.gg/2BZJyN5z)
+* [Discord Invite](https://discord.com/invite/XtZTNVTX5T)
 
 ### Youtube
 * [DeFI Academy channel](https://www.youtube.com/playlist?list=PLUrP9cz-3kCehfLJRhulrizJQ_4cOcpy4)
