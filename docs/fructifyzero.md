@@ -70,7 +70,7 @@ What to do with the rewards:
 * [Entering a liquidity pool](faq/faq019.md)
 * [Withdrawing LP tokens from a liquidity pool](faq/faq020.md)
 * [Retrieve tokens from LP tokens](faq/faq021.md)
-* [Claim rewards from a liquidity pool](faq022.md)
+* [Claim rewards from a liquidity pool](faq/faq022.md)
 
 
 **Risks:** Please learn about Impermanent Loss
