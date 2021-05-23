@@ -59,7 +59,7 @@ Based on your tier level (but please check for each IDO what are tier requiremen
 #### Snapshots
 Prior to each IDO, an additional rule is that you must hold enough ZERO or provide enough liquidity during a certain amount of time: That time period is communicated for each IDO. 
 
-Check this [FAQ for more explanations](faq007.md).
+Check this [FAQ for more explanations](faq/faq007.md).
 
 ### Overview tier levels and lottery tickets system
       
