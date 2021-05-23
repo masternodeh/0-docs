@@ -95,15 +95,7 @@ Being the first project to:
 
 ## Fees and is it really zero fee?
 
-There are two kind of fees:
-* Trading fees on a chain: Swapping a token to another token on a same chain, like Uniswap on the Ethereum chain or Pancakeswap on the BSC chain
-* Cross chain fees: When bridging a token from one chain to another chain
-
-
-### Trading fees
-The fees depends on which chain the trade is done: Lowest on Polygon, very low on BSC, a bit more expensive on Avalanche than on BSC, Ethereum is the most expensive (same fees as Uniswap).
-Compared to the Ethereum chain, the trading fees are almost zero on Polygon, BSC and Avalanche.
-
+[Please check this FAQ](faq/faq008.md) for more information.
 
 ### Cross chain/bridging fees
 
