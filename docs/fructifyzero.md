@@ -29,6 +29,8 @@ Three possible strategies with your current ZERO asset without investing more ca
 * Try to gain more Zero with scalping: Trade often by buying low and selling high
 * Farm ZERO by entering one or more liquidity pools
 
+Series of Youtube tutorials to learn about how to use the exchange: The [Zero DeFi Academy](defiacademy.md)  
+Links to some FAQs are registered in the explanations further down.
 
 ## Trading
 
