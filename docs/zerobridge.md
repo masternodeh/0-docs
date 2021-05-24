@@ -39,8 +39,8 @@ Some FAQs to consult:
 
 ### How to cross chain?
 
-Digital Asset News did a specific video on the Zero Exchange and the team showed how to cross chain: [How to cross chain](https://youtu.be/lGVNDuotddM?t=1164)
-
+Digital Asset News did a specific video on the Zero Exchange and the team showed how to cross chain: [How to cross chain](https://youtu.be/lGVNDuotddM?t=1164)  
+There is also [this FAQ](faq/faq023.md) describing how to do it.
 
 ### Cross chain/bridging fees
 
