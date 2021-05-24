@@ -1,7 +1,8 @@
 ##address  
-ARC20 Address: 0x008E26068B3EB40B443d3Ea88c1fF99B789c10F7  
-BEP20 Address: 0x1f534d2B1ee2933f1fdF8e4b63A44b2249d77EAf  
-ERC20 Address: 0xf0939011a9bb95c3b791f0cb546377ed2693a574  
+ARC20 Address:    0x008E26068B3EB40B443d3Ea88c1fF99B789c10F7  
+BEP20 Address:    0x1f534d2B1ee2933f1fdF8e4b63A44b2249d77EAf  
+ERC20 Address:    0xf0939011a9bb95c3b791f0cb546377ed2693a574  
+Polygon Address:  0xb67176655e7919a27aA34C279157124619aDFd4B
 
 ##guides  
 What is Zero Exchange:  https://0.masternode.io/docs/whatiszeroexchange  
@@ -37,3 +38,5 @@ Withdrawing LP tokens from a LP: https://0.masternode.io/docs/faq/faq020
 Retrieve tokens from LP tokens: https://0.masternode.io/docs/faq/faq021  
 Claiming rewards from LP: https://0.masternode.io/docs/faq/faq022  
 How to cross chain: https://0.masternode.io/docs/faq/faq023  
+Sending MATIC to MetaMask: https://0.masternode.io/docs/faq/faq024  
+Adding a new chain in MetaMask: https://0.masternode.io/docs/faq/faq025 

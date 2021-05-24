@@ -56,6 +56,14 @@ Buy options from the cheapest to the more expensive chain/method:
 1. Buy on the Ethereum chain
 1. Buy with a credit card
 
+### Buy on the Polygon chain
+
+1. Buy MATIC on a centralised exchange, like Binance or Ascendex
+1. Send MATIC to MetaMask
+1. On the Zero Exchange, connect your wallet and switch to the Polygon chain
+1. On the swap page, trade MATIC for ZERO
+
+
 ### Buy on the Avalanche chain
 
 Youtube tutorial: https://www.youtube.com/watch?v=FNGqS-X4ruM
