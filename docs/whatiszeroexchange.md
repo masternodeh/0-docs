@@ -66,10 +66,11 @@ The Zero Exchange is at its core a multi and cross chain decentralized exchange.
 ## Utility of the ZERO token
 
 * Liquidity Mining rewards (= "farming" ZERO tokens) 
-	+ Earning a percentage of the trading fees
+	+ And earning a percentage of the trading fees
 * Initial Farming Offerings (= "farming" other tokens than ZERO)
 * Initial DEX Offerings: Winning allocations in IDO's on the Zero Gravity launchpad
 * Soon: Access to multi chain charting (partnership with ChartEx)
+* Offers a possibility to transfer tokens from one chain to another even if the Zero Exchange wouldn't support these or there is no liquidity on the Zero Exchange: [Check this FAQ](faq/faq006.md)
 
 
 
