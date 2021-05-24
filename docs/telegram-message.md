@@ -20,8 +20,8 @@ Which wallet to use: https://0.masternode.io/docs/faq/faq001
 Which browser to use: https://0.masternode.io/docs/faq/faq002  
 ZERO contract addresses: https://0.masternode.io/docs/faq/faq003  
 Buying ZERO on Pancakeswap: https://0.masternode.io/docs/faq/faq004  
-What are wrapped tokens: https://0.masternode.io/docs/faq/faq005  
-zTokens Explained: https://0.masternode.io/docs/faq/faq006  
+What are wrapped "zXXX" tokens: https://0.masternode.io/docs/faq/faq005  
+Trading tokens with other DEXes: https://0.masternode.io/docs/faq/faq006  
 IDO Allocation Questions: https://0.masternode.io/docs/faq/faq007  
 How much are the fees: https://0.masternode.io/docs/faq/faq008  
 How to manage liquidity pools: https://0.masternode.io/docs/faq/faq009  
