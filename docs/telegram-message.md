@@ -37,3 +37,4 @@ Withdrawing LP tokens from a LP: https://0.masternode.io/docs/faq/faq020
 Retrieve tokens from LP tokens: https://0.masternode.io/docs/faq/faq021  
 Claiming rewards from LP: https://0.masternode.io/docs/faq/faq022  
 How to cross chain: https://0.masternode.io/docs/faq/faq023  
+Sending MATIC to MetaMask: https://0.masternode.io/docs/faq/faq024
