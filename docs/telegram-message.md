@@ -19,20 +19,21 @@ Mobile: https://0.masternode.io/docs/mobile
 Which wallet to use: https://0.masternode.io/docs/faq/faq001  
 Which browser to use: https://0.masternode.io/docs/faq/faq002  
 ZERO contract addresses: https://0.masternode.io/docs/faq/faq003  
-Can I buy ZERO on Pancakeswap: https://0.masternode.io/docs/faq/faq004  
+Buying ZERO on Pancakeswap: https://0.masternode.io/docs/faq/faq004  
 What are wrapped tokens: https://0.masternode.io/docs/faq/faq005  
 zTokens Explained: https://0.masternode.io/docs/faq/faq006  
 IDO Allocation Questions: https://0.masternode.io/docs/faq/faq007  
-How much are fees: https://0.masternode.io/docs/faq/faq008  
-How to manage Liquidity Pools: https://0.masternode.io/docs/faq/faq009  
+How much are the fees: https://0.masternode.io/docs/faq/faq008  
+How to manage liquidity pools: https://0.masternode.io/docs/faq/faq009  
 What is impermanent loss: https://0.masternode.io/docs/faq/faq010  
 What is the team anonymous: https://0.masternode.io/docs/faq/faq011  
-How can I buy AVAX: https://0.masternode.io/docs/faq/faq012  
-How can I buy BNB: https://0.masternode.io/docs/faq/faq013  
+How to buy AVAX: https://0.masternode.io/docs/faq/faq012  
+How to buy BNB: https://0.masternode.io/docs/faq/faq013  
 Send BNB from Binance to Metamask: https://0.masternode.io/docs/faq/faq014  
 Pending/failed Transactions: https://0.masternode.io/docs/faq/faq015  
-Buy Zero with Credit Card: https://0.masternode.io/docs/faq/faq016  
+Buy Zero with a Credit Card: https://0.masternode.io/docs/faq/faq016  
 Entering a liquidity pool: https://0.masternode.io/docs/faq/faq019  
 Withdrawing LP tokens from a LP: https://0.masternode.io/docs/faq/faq020  
 Retrieve tokens from LP tokens: https://0.masternode.io/docs/faq/faq021  
 Claiming rewards from LP: https://0.masternode.io/docs/faq/faq022  
+How to cross chain: https://0.masternode.io/docs/faq/faq023  
