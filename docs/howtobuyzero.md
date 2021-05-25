@@ -43,7 +43,7 @@ These docs are provided by the community please use at your own risk
 ## How to buy ZERO on the Zero Exchange?
 
 Assumptions:
-* Most of the options described are based on using the MetaMask wallet: Check this [Youtube tutorial](https://youtu.be/UABV0xzYAEg)
+* Most of the options described are based on using the MetaMask wallet: Check this [Zero DeFi Academy youtube tutorial](https://youtu.be/UABV0xzYAEg)
 * Some of the options may work with other wallets as well, like Trust Wallet
 * You know how to send tokens from a centralised exchange to MetaMask or use the Web Avalanche Wallet (some tutorials are available, please check the FAQs)
 * You know how to add a new token in the token lists of your wallet
@@ -66,18 +66,16 @@ Buy options from the cheapest to the more expensive chain/method:
 
 ### Buy on the Avalanche chain
 
-Youtube tutorial: https://www.youtube.com/watch?v=FNGqS-X4ruM
+Check this [Zero DeFi Academy youtube tutorial](https://www.youtube.com/watch?v=FNGqS-X4ruM)
 
 1. Buy AVAX on a centralised exchange, like Binance or OKex
-1. Send AVAX to the Web Avalanche Wallet. AVAX must be withdrawn from Binance to the X-chain address of the Web Avalanche Wallet: This process can be slow, from several minutes to several hours before the AVAX tokens are received in the Avalanche Web Wallet
-1. Inside the Web Avalanche Wallet, cross chain the received AVAX from the X-chain to the C-chain
-1. Send the AVAX from the Web Avalanche Wallet to MetaMask
-1. On the Zero Exchange, connect your wallet and switch to the Avalanche chain
-1. On the swap page, trade AVAX for ZERO
+1. Send AVAX to the Web Avalanche Wallet and then to MetaMask: [Check this FAQ](faq/faq016.md)
+3. On the Zero Exchange, connect your wallet and switch to the Avalanche chain
+4. On the swap page, trade AVAX for ZERO
 
 ### Buy on the BSC chain
 
-Youtube tutorial: https://www.youtube.com/watch?v=77B7vfFtxq4
+Check this [Zero DeFi Academy youtube tutorial](https://www.youtube.com/watch?v=77B7vfFtxq4)
 
 1. Buy BNB on Binance
 1. From Binance, withdraw/send it to the MetaMask wallet on the BEP20 network
@@ -100,9 +98,9 @@ Binance created the BSC network as a separate decentralized network, although th
 	  
 ### Buy with a Credit Card
 
-Youtube tutorial: https://www.youtube.com/watch?v=iRbc36Q_rRk&list=PLUrP9cz-3kCehfLJRhulrizJQ_4cOcpy4&index=2  
+Check this [Zero DeFi Academy youtube tutorial](https://www.youtube.com/watch?v=iRbc36Q_rRk&list=PLUrP9cz-3kCehfLJRhulrizJQ_4cOcpy4&index=2)  
 
-Go to the [Zero Exchange website](https://buy.0.exchange/) and follow instructions!
+Go to the [Zero Exchange website](https://buy.0.exchange/) and follow the instructions!
 
 :::note
 Not all countries are yet allowed to buy via a credit card.
