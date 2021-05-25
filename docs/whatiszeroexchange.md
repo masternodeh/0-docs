@@ -33,13 +33,13 @@ The information and documentation are provided by the community, please use at y
 The Zero Exchange is at its core a multi and cross chain decentralized exchange.  Its ethos is to fully embrace the decentralized aspects of crypto and to grow a thriving and engaged community, backed by a dedicated project team identifying the opportunities (features, technical, partnerships, etc) to build as a 1st mover a model for the future of crypto trading on multiple chains in a one stop shop, except that the future is now.
 
 
-## Official statement from the white paper
+### Official statement from the white paper
 
 > ZERO Exchange is a fully decentralised protocol for automated liquidity provision.
 > 
 > The ZERO Exchange Protocol realigns incentives for network participants by introducing revenue sharing and community driven network effects to the popular AMM model.
 
-## Chains currently connected
+### Chains currently connected
 
 * Ethereum
 * Avalanche
@@ -52,7 +52,7 @@ The Zero Exchange is at its core a multi and cross chain decentralized exchange.
 :::
 
 
-## References
+### References
 
 1. Website: https://www.0.exchange/
 1. Ticker: $ZERO
@@ -63,7 +63,7 @@ The Zero Exchange is at its core a multi and cross chain decentralized exchange.
 1. Price on Dextools: https://www.dextools.io/app/uniswap/pair-explorer/0x40f0e70a7d565985b967bcdb0ba5801994fc2e80
 	 
 
-## Utility of the ZERO token
+### Utility of the ZERO token
 
 * Liquidity Mining rewards (= "farming" ZERO tokens) 
 	+ And earning a percentage of the trading fees
@@ -74,11 +74,11 @@ The Zero Exchange is at its core a multi and cross chain decentralized exchange.
 
 
 
-## When did the exchange go live
+### Go live
 
-At the end of January 2021.
+Exchange was launched at the end of January 2021.
 
-### Some achievements of the project so far
+#### Some achievements of the project so far
 Being the first project to:
 * Build a bridge between the Ethereum and Avalanche chains
 * Build a bridge between the Avalanche and BSC chains
@@ -87,27 +87,27 @@ Being the first project to:
 * Integrate ChartEx
 
 
-## Tokenomics
+### Tokenomics
 
 1. Token emission: [Initial white paper](https://0exchangestatic.blob.core.windows.net/whitepaper/0Whitepaper.pdf)
 1. Token burn: [The Zero team has burned 50 millions tokens](https://0exchangestatic.blob.core.windows.net/whitepaper/0Whitepaper.pdf)
 
-## Current circulation supply
+### Current circulation supply
 
 Calculated on [this link](https://zeromktcapcalc.azurewebsites.net/api/GetSupply)
 
-## Fees and is it really zero fee?
+### Fees and is it really zero fee?
 
-### Trading fees
+#### Trading fees
 
 [Please check this FAQ](faq/faq008.md) for more information.
 
-### Cross chain/bridging fees
+#### Cross chain/bridging fees
 
 [Please check this page](zerobridge.md) for more information.
 
 
-## Who is the team?
+### Who is the team?
       
 [Check this FAQ](faq/faq012.md)
  
