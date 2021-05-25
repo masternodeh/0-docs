@@ -132,6 +132,8 @@ TBA
 
 [Polygon Block-explorer - Option 2](https://explorer-mainnet.maticvigil.com/)
 
+[Polygon Dapps Ecosystem](https://awesomepolygon.com/dapps/)
+
 [Buying Matic on a CEX](https://ascendex.com/en/basic/cashtrade-spottrading/usdt/matic)
 
 :::tip
