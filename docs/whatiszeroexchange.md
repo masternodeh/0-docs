@@ -82,7 +82,6 @@ At the end of January 2021.
 Being the first project to:
 * Build a bridge between the Ethereum and Avalanche chains
 * Build a bridge between the Avalanche and BSC chains
-* Build a bridge between the Polygon and BSC chains
 * Build a bridge to Kusama/DOT parachains in partnership with Moonbeam
 	* The Zero Exchange will likely the first DEX to be ready and operational on these parachains
 * Integrate ChartEx
