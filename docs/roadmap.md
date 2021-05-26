@@ -27,14 +27,11 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 ### Others
 * ZERO single staking
 
-* Multi and cross chain NFT marketplace/farming
-
 * Build bridges to more chains, like Solana
 
 * Limit orders
 
 * Using ZERO as gas fee for the bridge operations  
-The team will also look into decoupling the bridge fees in function of the chains involved in the operation
 
 * Using ZERO as collateral for lending
 
@@ -44,3 +41,4 @@ The team will also look into decoupling the bridge fees in function of the chain
 
 * Setup a foundation for a public figure representing the project
 
+* Multi and cross chain NFT marketplace/farming
