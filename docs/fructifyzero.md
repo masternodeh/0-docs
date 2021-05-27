@@ -1,10 +1,10 @@
 ---
 id: fructifyzero
-title: How to fructify your ZERO investment
-sidebar_label: Fructify your ZERO
+title: Community content - How to fructify your ZERO investment
+sidebar_label: Community content - Fructify your ZERO
 hide_title: true
 hide_table_of_contents: true
-description: How to fructify your ZERO investment
+description: Community content - How to fructify your ZERO investment
 keywords:
  - "ZERO Exchange"
  - "$ZERO"
