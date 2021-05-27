@@ -21,11 +21,12 @@ Below is a list of links we have compiled into a FAQ covering things that consta
 
 # Links
 
-[Which wallet to use?] (/faq/faq001.md)
+[Which wallet to use?] (https://0.masternode.io/docs/faq/faq001/)
 
-[Which browser to use?] (/faq/faq002.md)
 
-[What are the Zero contract addresses?] (https://0.masternode.io/faq/faq003/)
+[Which browser to use?] (https://0.masternode.io/docs/faq/faq002/)
+
+[What are the Zero contract addresses?] (https://0.masternode.io/docs/faq/faq003/)
 
 [Can I buy Zero on Pancakeswap?] (/faq004/)
 
