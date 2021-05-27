@@ -1,30 +1,47 @@
+---
+id: roadmap
+title: Community content - Zero FAQs
+sidebar_label: Zero FAQs
+hide_title: true
+hide_table_of_contents: true
+description: Community content - Zero FAQs
+keywords:
+ - "ZERO Exchange"
+ - "$ZERO"
+ - "@OfficialZeroDEX"
+image:  /static/avax-logo.svg
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 
 
+## FAQs
 
-##faq  
-Which wallet to use: https://0.masternode.io/docs/faq/faq001  
-Which browser to use: https://0.masternode.io/docs/faq/faq002  
-ZERO contract addresses: https://0.masternode.io/docs/faq/faq003  
-Buying ZERO on Pancakeswap: https://0.masternode.io/docs/faq/faq004  
-What are wrapped "zXXX" tokens: https://0.masternode.io/docs/faq/faq005  
-Trading tokens with other DEXes: https://0.masternode.io/docs/faq/faq006  
-IDO Allocation Questions: https://0.masternode.io/docs/faq/faq007  
-How much are the fees: https://0.masternode.io/docs/faq/faq008  
-Managing liquidity pools: https://0.masternode.io/docs/faq/faq009  
-When to claim rewards of a LP: https://0.masternode.io/docs/faq/faq010  
-What is impermanent loss: https://0.masternode.io/docs/faq/faq011  
-Why is the team anonymous: https://0.masternode.io/docs/faq/faq012  
-Where to buy AVAX: https://0.masternode.io/docs/faq/faq013  
-Where to buy BNB: https://0.masternode.io/docs/faq/faq014  
-Sending BNB from Binance to Metamask: https://0.masternode.io/docs/faq/faq015  
-Sending AVAX from Binance/OKex to MetaMask: https://0.masternode.io/docs/faq/faq016  
-Pending/failed transactions: https://0.masternode.io/docs/faq/faq017  
-Buying Zero with a Credit Card: https://0.masternode.io/docs/faq/faq018  
-Entering a liquidity pool: https://0.masternode.io/docs/faq/faq019  
-Withdrawinging LP tokens from a LP: https://0.masternode.io/docs/faq/faq020  
-Retrieving paired tokens from LP tokens: https://0.masternode.io/docs/faq/faq021  
-Claiming rewards of a LP: https://0.masternode.io/docs/faq/faq022  
-How to cross chain: https://0.masternode.io/docs/faq/faq023  
-Sending MATIC to MetaMask: https://0.masternode.io/docs/faq/faq024  
-Adding a new chain in MetaMask: https://0.masternode.io/docs/faq/faq025 
+* [Which wallet to use](faq/faq001.md)  
+* [Which browser to use](faq/faq002.md)  
+* [ZERO contract addresses](faq/faq003.md)  
+* [Buying ZERO on Pancakeswap](faq/faq004.md)  
+* [What are wrapped "zXXX" tokens](faq/faq005.md)  
+* [Trading tokens with other DEXes](faq/faq006.md)  
+* [IDO Allocation Questions](faq/faq007.md)  
+* [How much are the fees](faq/faq008.md)  
+* [Managing liquidity pools](faq/faq009.md)  
+* [When to claim rewards of a LP](faq/faq010.md)  
+* [What is impermanent loss](faq/faq011.md)  
+* [Why is the team anonymous](faq/faq012.md)  
+* [Where to buy AVAX](faq/faq013.md)  
+* [Where to buy BNB](faq/faq014.md)  
+* [Sending BNB from Binance to Metamask](faq/faq015.md)  
+* [Sending AVAX from Binance/OKex to MetaMask](faq/faq016.md)  
+* [Pending/failed transactions](faq/faq017.md)  
+* [Buying Zero with a Credit Card](faq/faq018.md)  
+* [Entering a liquidity pool](faq/faq019.md)  
+* [Withdrawing LP tokens from a LP](faq/faq020.md)  
+* [Retrieving paired tokens from LP tokens](faq/faq021.md)  
+* [Claiming rewards of a LP](faq/faq022.md)  
+* [How to cross chain](faq/faq023.md)  
+* [Sending MATIC to MetaMask](faq/faq024.md)  
+* [Adding a new chain in MetaMask](faq/faq025.md) 
