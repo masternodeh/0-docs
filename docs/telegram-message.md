@@ -36,7 +36,7 @@ Sending AVAX from Binance/OKex to MetaMask: https://0.masternode.io/docs/faq/faq
 Pending/failed transactions: https://0.masternode.io/docs/faq/faq017  
 Buying Zero with a Credit Card: https://0.masternode.io/docs/faq/faq018  
 Entering a liquidity pool: https://0.masternode.io/docs/faq/faq019  
-Withdrawinging LP tokens from a LP: https://0.masternode.io/docs/faq/faq020  
+Withdrawing LP tokens from a LP: https://0.masternode.io/docs/faq/faq020  
 Retrieving paired tokens from LP tokens: https://0.masternode.io/docs/faq/faq021  
 Claiming rewards of a LP: https://0.masternode.io/docs/faq/faq022  
 How to cross chain: https://0.masternode.io/docs/faq/faq023  
