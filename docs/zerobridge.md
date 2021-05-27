@@ -1,10 +1,10 @@
 ---
 id: zerobridge
-title: ZeroBridge
+title: Community content - ZeroBridge
 sidebar_label: ZeroBridge
 hide_title: true
 hide_table_of_contents: true
-description: ZeroBridge
+description: Community content - ZeroBridge
 keywords:
  - "ZERO Exchange"
  - "$ZERO"
