@@ -45,4 +45,4 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 * [How to cross chain](faq/faq023.md)  
 * [Sending MATIC to MetaMask](faq/faq024.md)  
 * [Adding a new chain in MetaMask](faq/faq025.md) 
-* [No liquidity to swap "zXXX" tokens after a cross chain] (faq/faq026.md) 
+* [No liquidity to swap "zXXX" tokens after a cross chain](faq/faq026.md) 
