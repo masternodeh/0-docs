@@ -1,10 +1,10 @@
 ---
 id: howtobuyzero
-title: How to buy ZERO
+title: Community content - How to buy ZERO
 sidebar_label: How to buy ZERO
 hide_title: true
 hide_table_of_contents: true
-description: How to buy ZERO
+description: Community content - How to buy ZERO
 keywords:
  - "ZERO Exchange"
  - "$ZERO"
