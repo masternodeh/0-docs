@@ -1,10 +1,10 @@
 ---
 id: whatiszeroexchange
-title: What is the Zero Exchange
+title: Community content - What is the Zero Exchange
 sidebar_label: What is the Zero Exchange
 hide_title: true
 hide_table_of_contents: true
-description: What is the Zero Exchange
+description: Community content - What is the Zero Exchange
 keywords:
  - "ZERO Exchange"
  - "$ZERO"
