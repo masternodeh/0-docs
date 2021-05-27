@@ -21,9 +21,9 @@ Below is a list of links we have compiled into a FAQ covering things that consta
 
 # Links
 
-|       What    				|       			How                        							|       Decimals        |
-| ------------- 				|       :--------------------:                           				|       -----:          |
-| Which wallet to use?         	| https://0.masternode.io/docs/faq/faq001/  							|              			|
+|       What    				|       			FAQ Numbers                      						|    
+| ------------- 				|       :--------------------:                           					|  
+| Which wallet to use?         	| <a href="https://0.masternode.io/docs/faq/faq001/" alt="FAQ1">FAQ1</a>	|  
 
 [Which wallet to use?] (https://0.masternode.io/docs/faq/faq001/)
 
