@@ -1,10 +1,10 @@
 ---
 id: zerogravity
-title: Zero Gravity launchpad
+title: Community content - Zero Gravity launchpad
 sidebar_label: ZeroGravity Launchpad
 hide_title: true
 hide_table_of_contents: true
-description: Zero Gravity launchpad
+description: Community content - Zero Gravity launchpad
 keywords:
  - "ZERO Exchange"
  - "$ZERO"
