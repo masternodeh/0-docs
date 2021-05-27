@@ -28,11 +28,9 @@ Below is a list of links we have compiled into a FAQ covering things that consta
 [Which wallet to use?] (https://0.masternode.io/docs/faq/faq001/)
 
 
-[Which browser to use?] (/docs/faq/faq002/)
-
-[What are the Zero contract addresses?] (https://0.masternode.io/docs/faq/faq003/)
-
-[Can I buy Zero on Pancakeswap?] (/faq004/)
+<a href="/docs/faq/faq002/" alt="FAQ2">Which browser to use?</a><br/>
+<a href="https://0.masternode.io/docs/faq/faq003/" alt="FAQ3">What are the Zero contract addresses?</a><br/>
+<a href="https://0.masternode.io/docs/faq/faq004/" alt="FAQ4">Can I buy Zero on Pancakeswap?</a><br/>
 
 [Why are some of the tokens on BSC and Avax named "z-XXX"?] (/faq005/)
 
