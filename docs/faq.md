@@ -19,7 +19,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 # Intro
 Below is a list of links we have compiled into a FAQ covering things that constantly get asked in Telegram and on our socials. Please enjoy!
 
-# Table of Linktents
+# Link of Links
 
 <a href="/docs/faq/faq001/" alt="FAQ1">Which wallet to use?</a><br/>
 <a href="/docs/faq/faq002/" alt="FAQ2">Which browser to use?</a><br/>
