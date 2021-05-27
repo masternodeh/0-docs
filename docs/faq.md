@@ -21,10 +21,14 @@ Below is a list of links we have compiled into a FAQ covering things that consta
 
 # Links
 
+|       What    				|       			How                        							|       Decimals        |
+| ------------- 				|       :--------------------:                           				|       -----:          |
+| Which wallet to use?         	| https://0.masternode.io/docs/faq/faq001/  							|              			|
+
 [Which wallet to use?] (https://0.masternode.io/docs/faq/faq001/)
 
 
-[Which browser to use?] (https://0.masternode.io/docs/faq/faq002/)
+[Which browser to use?] (/docs/faq/faq002/)
 
 [What are the Zero contract addresses?] (https://0.masternode.io/docs/faq/faq003/)
 
