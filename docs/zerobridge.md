@@ -51,7 +51,8 @@ Fees depends on which chain tokens are bridged from:
 * From Ethereum to another chain: 0.056 ETH
 
 Fees are paid in the token you bridge from.  If for example, you bridge tokens from the Avalanche to the Polygon chain, the transaction will be paid in AVAX.  
-When a cross chain is done to a chain and you don't have tokens on that chain to do some transactions, the bridge will drop some for a few trades: [Check this official Medium article for the exact rules](https://medium.com/@OfficialZeroDex/improving-the-user-experience-sending-cross-chain-made-easier-f3b4aaf2a0b6) _(Note: Polygon is not mentionned in the article, works the same.)_
+The Zero Exchange has foreseen a goodie for the bridge users: When you do a cross chain for the first time to a chain, you will receive a portion of BNB/AVAX/MATIC (depending on which chain you cross to) for a few trades on the crossed chain.  To be safe, convert then a part of your crossed chain tokens to BNB/AVAX/MATIC as to have a reserve to pay for more transaction fees.  
+[Check this official Medium article for the exact rules](https://medium.com/@OfficialZeroDex/improving-the-user-experience-sending-cross-chain-made-easier-f3b4aaf2a0b6) _(Note: Polygon is not mentionned in the article, works the same.)_
 
 #### MetaMask gas settings
 When cross chaining, it's important to set the correct gas settings (especially when crossing from the Ethereum chain): Check the settings in this [gas settings guide](https://0-exchange.gitbook.io/0-exchange-docs/pinned/transaction-fails) 
