@@ -26,6 +26,7 @@ The Zero Exchange has its own launchpad [ZeroGravity](https://medium.com/@Offici
 	* Either to make it to the whitelist to be able to participate in an IDO (=> being allowed or not to participate in the lottery system)
 	* Either for an allocation winner to be able to claim the allocation
 * The Zero exchange has found a way for citizens from barred countries to still benefit these IDOs ((typically, US or Canadian citizens for example). An [automated market maker](https://medium.com/@OfficialZeroDex/0-exchange-finds-its-preferred-market-maker-fac7b6a9d1be) sells during a period of the time the allocation of the winners who didn't pass the KYC, after which, they receive their share of the benefits in a stable coin without ever having received the IDO tokens.
+	* Note: A project may decide to not allow this mecanism and force the Zero team to not apply it, so check for each IDO
  
   
 ## IDOs on ZeroGravity
