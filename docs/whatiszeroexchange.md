@@ -1,10 +1,10 @@
 ---
 id: whatiszeroexchange
-title: What is the Zero Exchange
+title: Community content - What is the Zero Exchange
 sidebar_label: What is the Zero Exchange
 hide_title: true
 hide_table_of_contents: true
-description: What is the Zero Exchange
+description: Community content - What is the Zero Exchange
 keywords:
  - "ZERO Exchange"
  - "$ZERO"
@@ -65,12 +65,13 @@ The Zero Exchange is at its core a multi and cross chain decentralized exchange.
 
 ### Utility of the ZERO token
 
-* Liquidity Mining rewards (= "farming" ZERO tokens) 
-	+ And earning a percentage of the trading fees
+* Liquidity Mining rewards (= "farming" ZERO tokens + earning a percentage of the trading fees)
+	* FAQ: [Managing liquidity pools](faq/faq009.md)	
 * Initial Farming Offerings (= "farming" other tokens than ZERO)
-* Initial DEX Offerings: Winning allocations in IDO's on the Zero Gravity launchpad
+* Initial DEX Offerings: Winning allocations in IDO's on the [Zero Gravity](zerogravity.md) launchpad
 * Soon: Access to multi chain charting (partnership with ChartEx)
-* Offers a possibility to transfer tokens from one chain to another even if the Zero Exchange wouldn't support these or there is no liquidity on the Zero Exchange: [Check this FAQ](faq/faq006.md)
+* Offers a possibility to transfer tokens from one chain to another even if the Zero Exchange wouldn't support these or there is no liquidity on the Zero Exchange
+	* FAQ: [Trading tokens with other DEXes](faq/faq006.md)
 
 
 
@@ -100,14 +101,14 @@ Calculated on [this link](https://zeromktcapcalc.azurewebsites.net/api/GetSupply
 
 #### Trading fees
 
-[Please check this FAQ](faq/faq008.md) for more information.
+Check this [FAQ over fees](faq/faq008.md) for more information.
 
 #### Cross chain/bridging fees
 
-[Please check this page](zerobridge.md) for more information.
+Check the [Zerobridge](zerobridge.md) for more information.
 
 
 ### Who is the team?
       
-[Check this FAQ](faq/faq012.md)
+Check this [FAQ about the team](faq/faq012.md)
  

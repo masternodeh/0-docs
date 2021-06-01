@@ -1,10 +1,10 @@
 ---
 id: defiacademy
-title: Zero DeFi Academy
+title: Community content - Zero DeFi Academy
 sidebar_label: Zero DeFi Academy
 hide_title: true
 hide_table_of_contents: true
-description: Zero DeFi Academy
+description: Community content - Zero DeFi Academy
 keywords:
  - "ZERO Exchange"
  - "$ZERO"

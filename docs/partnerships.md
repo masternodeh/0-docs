@@ -1,10 +1,10 @@
 ---
 id: partnerships
-title: Zero partnerships
+title: Community content - Zero partnerships
 sidebar_label: Zero partnerships
 hide_title: true
 hide_table_of_contents: true
-description: Zero partnerships
+description: Community content - Zero partnerships
 keywords:
  - "ZERO Exchange"
  - "$ZERO"

@@ -1,10 +1,10 @@
 ---
 id: roadmap
-title: Zero roadmap
+title: Community content - Zero roadmap
 sidebar_label: Zero roadmap
 hide_title: true
 hide_table_of_contents: true
-description: Zero roadmap
+description: Community content - Zero roadmap
 keywords:
  - "ZERO Exchange"
  - "$ZERO"
