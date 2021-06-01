@@ -1,10 +1,10 @@
 ---
 id: faq
-title: FAQ
-sidebar_label: Table of Contents
+title: Community content - Zero FAQ
+sidebar_label: Zero FAQ
 hide_title: true
 hide_table_of_contents: true
-description: FAQ
+description: Community content - Zero FAQ
 keywords:
  - "ZERO Exchange"
  - "$ZERO"
