@@ -106,4 +106,6 @@ You can also try to arb by trading on other exchanges than Zero, by using the cr
 
 **Some FAQ**  
 * [How to cross chain](faq/faq023.md)
-* [
+* [Trading tokens with other DEXes / sending stable coins from one chain to another](faq/faq006.md)
+* [Wrapped "zXXX" tokens](faq/faq005.md)
+* [No liquidity to swap "zXXX" tokens after a cross chain](faq/faq026.md)
