@@ -1,7 +1,7 @@
 ---
 id: fructifyzero
 title: Community content - How to fructify your ZERO investment
-sidebar_label: Community content - Fructify your ZERO
+sidebar_label: Fructify your ZERO
 hide_title: true
 hide_table_of_contents: true
 description: Community content - How to fructify your ZERO investment
@@ -100,4 +100,10 @@ High level steps:
 
 To make it worth: You have to do it with rather big volumes to offset the bridge costs when some chains are involved like Ethereum (and in a much lesser way, Avalanche)
 
+You can also try to arb by trading on other exchanges than Zero, by using the cross chain feature (see the FAQ related to that).
+
 **Risks:** That the cheaper price on the chain you targeted changes during the arbing action and is not low enough to make it a profitable trade anymore
+
+**Some FAQ**  
+* [How to cross chain](faq/faq023.md)
+* [
