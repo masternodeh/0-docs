@@ -22,7 +22,7 @@ Buying Zero has never been so easy! Just pick your chain and we can help you out
 These docs are provided by the community please use at your own risk
 :::
 
-## How and where to buy the ZERO token?
+## How to buy the ZERO token
 
 1. On the Zero Exchange itself on different chains:
 	* On Ethereum
@@ -40,12 +40,12 @@ These docs are provided by the community please use at your own risk
 :::
 
       
-## How to buy ZERO on the Zero Exchange?
+## Buying ZERO on the Zero Exchange
 
 Assumptions:
 * Most of the options described are based on using the MetaMask wallet: Check this [Zero DeFi Academy youtube tutorial](https://youtu.be/UABV0xzYAEg)
 * Some of the options may work with other wallets as well, like Trust Wallet
-* You know how to send tokens from a centralised exchange to MetaMask or use the Web Avalanche Wallet (some tutorials are available, please check the FAQs)
+* You know how to send tokens from a centralised exchange to MetaMask or use the Web Avalanche Wallet (explained in [this FAQ](faq/faq016.md))
 * You know how to add a new token in the token lists of your wallet
 
 
@@ -56,7 +56,7 @@ Buy options from the cheapest to the more expensive chain/method:
 1. Buy on the Ethereum chain
 1. Buy with a credit card
 
-### Buy on the Polygon chain
+### On the Polygon chain
 
 1. Buy MATIC on a centralised exchange, like Binance or Ascendex
 1. Send MATIC to MetaMask
@@ -64,7 +64,7 @@ Buy options from the cheapest to the more expensive chain/method:
 1. On the swap page, trade MATIC for ZERO
 
 
-### Buy on the Avalanche chain
+### On the Avalanche chain
 
 Check this [Zero DeFi Academy youtube tutorial](https://www.youtube.com/watch?v=FNGqS-X4ruM)
 
@@ -73,7 +73,7 @@ Check this [Zero DeFi Academy youtube tutorial](https://www.youtube.com/watch?v=
 3. On the Zero Exchange, connect your wallet and switch to the Avalanche chain
 4. On the swap page, trade AVAX for ZERO
 
-### Buy on the BSC chain
+### On the BSC chain
 
 Check this [Zero DeFi Academy youtube tutorial](https://www.youtube.com/watch?v=77B7vfFtxq4)
 
@@ -89,14 +89,14 @@ Check this [Zero DeFi Academy youtube tutorial](https://www.youtube.com/watch?v=
 Note: Don't confuse the BSC network with the Binance website which is the trading centralized platform running on its own and is not connected to the BSC network.  
 Binance created the BSC network as a separate decentralized network, although they are still in full control of it.
 	  
-### Buy on the Ethereum chain
+### On the Ethereum chain
 	  
 1. Buy ETH on a centralised exchange
 1. Send ETH to MetaMask on the ERC20 network
 1. In MetaMask, switch manually to the Ethereum network.  On the Zero Exchange, we can't switch automatically to Ethereum network in Metamask like for the other chains
 1. On the swap page, trade ETH for ZERO
 	  
-### Buy with a Credit Card
+### With a Credit Card
 
 Check this [Zero DeFi Academy youtube tutorial](https://www.youtube.com/watch?v=iRbc36Q_rRk&list=PLUrP9cz-3kCehfLJRhulrizJQ_4cOcpy4&index=2)  
 

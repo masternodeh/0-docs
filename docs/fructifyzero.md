@@ -1,7 +1,7 @@
 ---
 id: fructifyzero
 title: Community content - How to fructify your ZERO investment
-sidebar_label: Community content - Fructify your ZERO
+sidebar_label: Fructify your ZERO
 hide_title: true
 hide_table_of_contents: true
 description: Community content - How to fructify your ZERO investment
@@ -65,18 +65,16 @@ What to do with the rewards:
 * Compound back in the same pool: Claim them, swap half of them to the other paired token, and add more liquidity (> to raise your share of the pool to earn more rewards)
 * Sell your rewards to another token/stable coin like USDT for profits
 
-**Some FAQs**  
+**Risks:** Please learn about Impermanent Loss
+* [Impermanent Loss Explanation](il.md)
+* [https://academy.binance.com/en/articles/impermanent-loss-explained](https://academy.binance.com/en/articles/impermanent-loss-explained)
+
+**Some FAQs:**  
 * [How to manage liquidity pools](faq/faq009.md)
 * [Entering a liquidity pool](faq/faq019.md)
 * [Withdrawing LP tokens from a liquidity pool](faq/faq020.md)
 * [Retrieve tokens from LP tokens](faq/faq021.md)
 * [Claim rewards from a liquidity pool](faq/faq022.md)
-
-
-**Risks:** Please learn about Impermanent Loss
-* [Impermanent Loss Explanation](il.md)
-* [https://academy.binance.com/en/articles/impermanent-loss-explained](https://academy.binance.com/en/articles/impermanent-loss-explained)
-
 
 
 ## "Arbing" between chains
@@ -100,4 +98,12 @@ High level steps:
 
 To make it worth: You have to do it with rather big volumes to offset the bridge costs when some chains are involved like Ethereum (and in a much lesser way, Avalanche)
 
+You can also try to arb by trading on other exchanges than Zero, by using the cross chain feature (see the FAQ related to that).
+
 **Risks:** That the cheaper price on the chain you targeted changes during the arbing action and is not low enough to make it a profitable trade anymore
+
+**Some FAQs:**  
+* [How to cross chain](faq/faq023.md)
+* [Trading tokens with other DEXes / sending stable coins from one chain to another](faq/faq006.md)
+* [Wrapped "zXXX" tokens](faq/faq005.md)
+* [No liquidity to swap "zXXX" tokens after a cross chain](faq/faq026.md)
