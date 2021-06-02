@@ -65,7 +65,7 @@ What to do with the rewards:
 * Compound back in the same pool: Claim them, swap half of them to the other paired token, and add more liquidity (> to raise your share of the pool to earn more rewards)
 * Sell your rewards to another token/stable coin like USDT for profits
 
-**Some FAQs**  
+**Some FAQs:**  
 * [How to manage liquidity pools](faq/faq009.md)
 * [Entering a liquidity pool](faq/faq019.md)
 * [Withdrawing LP tokens from a liquidity pool](faq/faq020.md)
@@ -104,7 +104,7 @@ You can also try to arb by trading on other exchanges than Zero, by using the cr
 
 **Risks:** That the cheaper price on the chain you targeted changes during the arbing action and is not low enough to make it a profitable trade anymore
 
-**Some FAQ**  
+**Some FAQs:**  
 * [How to cross chain](faq/faq023.md)
 * [Trading tokens with other DEXes / sending stable coins from one chain to another](faq/faq006.md)
 * [Wrapped "zXXX" tokens](faq/faq005.md)
