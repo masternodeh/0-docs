@@ -45,7 +45,7 @@ These docs are provided by the community please use at your own risk
 Assumptions:
 * Most of the options described are based on using the MetaMask wallet: Check this [Zero DeFi Academy youtube tutorial](https://youtu.be/UABV0xzYAEg)
 * Some of the options may work with other wallets as well, like Trust Wallet
-* You know how to send tokens from a centralised exchange to MetaMask or use the Web Avalanche Wallet (explained in [this FAQ](faq/faq016.md)
+* You know how to send tokens from a centralised exchange to MetaMask or use the Web Avalanche Wallet (explained in [this FAQ](faq/faq016.md))
 * You know how to add a new token in the token lists of your wallet
 
 
