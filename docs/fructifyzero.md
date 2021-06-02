@@ -65,18 +65,16 @@ What to do with the rewards:
 * Compound back in the same pool: Claim them, swap half of them to the other paired token, and add more liquidity (> to raise your share of the pool to earn more rewards)
 * Sell your rewards to another token/stable coin like USDT for profits
 
+**Risks:** Please learn about Impermanent Loss
+* [Impermanent Loss Explanation](il.md)
+* [https://academy.binance.com/en/articles/impermanent-loss-explained](https://academy.binance.com/en/articles/impermanent-loss-explained)
+
 **Some FAQs:**  
 * [How to manage liquidity pools](faq/faq009.md)
 * [Entering a liquidity pool](faq/faq019.md)
 * [Withdrawing LP tokens from a liquidity pool](faq/faq020.md)
 * [Retrieve tokens from LP tokens](faq/faq021.md)
 * [Claim rewards from a liquidity pool](faq/faq022.md)
-
-
-**Risks:** Please learn about Impermanent Loss
-* [Impermanent Loss Explanation](il.md)
-* [https://academy.binance.com/en/articles/impermanent-loss-explained](https://academy.binance.com/en/articles/impermanent-loss-explained)
-
 
 
 ## "Arbing" between chains
