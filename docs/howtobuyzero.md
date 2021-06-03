@@ -102,6 +102,8 @@ Check this [Zero DeFi Academy youtube tutorial](https://www.youtube.com/watch?v=
 
 Go to the [Zero Exchange website](https://buy.0.exchange/) and follow the instructions!
 
+The ZERO tokens bought with a credit card are on the Ethereum chain.
+
 :::note
 Not all countries are yet allowed to buy via a credit card.
 :::
