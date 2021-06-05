@@ -70,8 +70,8 @@ The Zero Exchange is at its core a multi and cross chain decentralized exchange.
 * Initial Farming Offerings (= "farming" other tokens than ZERO)
 * Initial DEX Offerings: Winning allocations in IDO's on the [Zero Gravity](zerogravity.md) launchpad
 * Soon: Access to multi chain charting (partnership with ChartEx) integrated in the Zero interface
-	* If you hold enough ZERO or CHARTEX, you can already use the [charts on ChartEX](https://metamorphosis.chartex.pro)
-	* Check in the [Zero partnerships page]() the requirements to be able to use ChartEx
+	* If you hold enough ZERO or CHART tokens in your wallet, you can already use the [charts on ChartEX website](https://metamorphosis.chartex.pro)
+	* Check in the [Zero partnerships page](partnerships.md) ("ChartEx2") the requirements to be able to use ChartEx
 * Offers a possibility to transfer tokens from one chain to another even if the Zero Exchange wouldn't support these or there is no liquidity on the Zero Exchange
 	* FAQ: [Trading tokens with other DEXes](faq/faq006.md)
 
