@@ -31,10 +31,11 @@ The Zero Exchange has its own launchpad [ZeroGravity](https://medium.com/@Offici
   
 ## IDOs on ZeroGravity
 
-1. Date TBC, 2021: SENT (not started)
-1. June 1st, 2021: GROW (done)
-1. May 10th, 2021: WISB (done)
-1. May 07th, 2021: Wasder (done)
+1. Date TBC, 2021: [NFTrade](ido/ido005.md) (not started)
+1. Date TBC, 2021: [SENT](ido/ido004.md) (not started)
+1. June 1st, 2021: [GROW](ido/ido003.md) (done)
+1. May 10th, 2021: [WISB](ido/ido002.md) (done)
+1. May 07th, 2021: [Wasder](ido/ido001.md) (done)
 
 
 ## IDO participation and allocations

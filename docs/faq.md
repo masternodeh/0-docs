@@ -46,4 +46,5 @@ Below is a list of links we have compiled into a FAQ covering things that consta
 [How to cross chain](faq/faq023.md)  
 [Sending MATIC to MetaMask](faq/faq024.md)  
 [Adding a new chain in MetaMask](faq/faq025.md)  
-[No liquidity to swap "zXXX" tokens after a cross chain](faq/faq026.md) 
+[No liquidity to swap "zXXX" tokens after a cross chain](faq/faq026.md)  
+[Listing the tokens from CoinGecko to find a token](faq/faq027.md)  
