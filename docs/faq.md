@@ -47,3 +47,4 @@ Below is a list of links we have compiled into a FAQ covering things that consta
 [Sending MATIC to MetaMask](faq/faq024.md)  
 [Adding a new chain in MetaMask](faq/faq025.md)  
 [No liquidity to swap "zXXX" tokens after a cross chain](faq/faq026.md) 
+[Finding a token from CoinGecko](faq/faq027.md) 
