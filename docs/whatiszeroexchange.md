@@ -114,3 +114,7 @@ Check the [Zerobridge](zerobridge.md) for more information.
       
 Check this [FAQ about the team](faq/faq012.md)
  
+### Smart contract audit
+
+[Smart contract audit by Zokyo on January 15th, 2021](https://www.docdroid.net/uNdeEZ9/zokyo-zero-exchange-securityaudit-10-pdf#page=2)
+
