@@ -22,6 +22,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 * Imminent: Integration of ChartEx, see [Medium article](https://medium.com/@OfficialZeroDex/chartex-brings-omnichain-charting-to-0-exchange-9ca040298029)
 
 * [ChartEx Subscription model](https://chartexpro.medium.com/new-economic-model-subscription-updates-1a9c34b731be)
+* Bridge to the HECO chain from Huobi
 
 
 ### Others
@@ -31,7 +32,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 * Limit orders
 
-* Using ZERO as gas fee for the bridge operations  
+* ZERO holders benefitting from the bridge 
 
 * Using ZERO as collateral for lending
 
