@@ -26,7 +26,7 @@ Below is a list of links we have compiled into a FAQ covering things that consta
 [ZERO contract addresses](faq/faq003.md)  
 [Buying ZERO on Pancakeswap](faq/faq004.md)  
 [What are wrapped "zXXX" tokens](faq/faq005.md)  
-[Trading tokens with other DEXes](faq/faq006.md)  
+[Trading tokens with other DEXes - sending stable coins from one chain to another](faq/faq006.md)  
 [IDO Allocation Questions](faq/faq007.md)  
 [How much are the fees](faq/faq008.md)  
 [Managing liquidity pools](faq/faq009.md)  
