@@ -31,12 +31,13 @@ The bridge enables to cross tokens from one chain to the other, bridge is connec
 ### Which tokens can be cross chained?
 
 * ZERO, as it is native and connected to all chains
-* For the tokens, it will depends on their availabilities on both pair of chains selected to cross chain
+* For the other tokens, it will depends on their availabilities on the chains selected to cross chain
 
 **Some FAQs:**
 * [Trading tokens with other DEXes / sending stable coins from one chain to another](faq/faq006.md)
 * [How to cross chain](faq/faq023.md)
   * And Digital Asset News did a [live Youtube session on Zero Exchange](https://youtu.be/lGVNDuotddM?t=1164) and the team showed how to cross chain
+* [No liquidity to swap "zXXX" tokens after a cross chain](faq/faq026.md)
 * [Why are some of the tokens named "zXXX"](faq/faq005.md)
   
 
