@@ -81,7 +81,7 @@ The Zero Exchange is at its core a multi and cross chain decentralized exchange.
 
 Exchange was launched at the end of January 2021.
 
-### Token presale or investors
+#### Token presale or investors
 No presale, no investors. The team invested 60 ETH of their own to bootstrap the project.
 
 #### Some achievements of the project since going live
