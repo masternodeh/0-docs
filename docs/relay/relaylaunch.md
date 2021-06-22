@@ -34,7 +34,7 @@ The information described below is both on basis of the official info and info g
 
 ## The relay chain ecosystem
 
-In light of the project evolution between its launch at the end of January 2021 and during the course of the first half of 2021, and in order to counter some issues which were affecting the ZERO token monetary value and to widen the adoption of the cross chain operations, the Zero team has decided to capitalize on their main asset: The ZeroBridge, together with a new form of tokenomics centered around the bridge fees. 
+In light of the project evolution from its launch at the end of January 2021 and during the course of the first half of 2021, and in order to counter some issues which were affecting the ZERO token monetary value and to widen the adoption of the cross chain operations, the Zero team has decided to capitalize on their main asset: The ZeroBridge, together with a new form of tokenomics centered around the bridge fees. 
 
 Other parts of the existing Zero exchange features, like being a multi chain DEX, launchpad, liquidity mining will remain, but the main focus since the team's decision to pivot the project has been and will be on the bridge:
 -	Continuing to add more chains : HECO, Cosmos, Fantom, Solona, and Near (Aurora)
