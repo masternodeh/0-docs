@@ -26,7 +26,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 ## Official information
 Articles published by the team on Medium: 
 -	Part 1: [Zero Reborn Pt. 1](https://medium.com/@OfficialZeroDex/zero-reborn-pt-1-afe615080360)
--	Part 2: To be announced
+-	Part 2: [Zero Reborn Pt. 2](https://medium.com/@OfficialZeroDex/zero-reborn-pt-2-ea018623285)
 -	Part 3: To be announced
 -	Part 3: To be announced
 
