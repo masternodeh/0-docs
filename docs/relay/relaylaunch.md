@@ -1,5 +1,5 @@
 ---
-id: whatiszeroexchange
+id: relaylaunch
 title: Community content - What is the Zero Exchange
 sidebar_label: What is the Zero Exchange
 hide_title: true
