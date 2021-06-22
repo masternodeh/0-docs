@@ -1,4 +1,27 @@
+---
+id: whatiszeroexchange
+title: Community content - What is the Zero Exchange
+sidebar_label: What is the Zero Exchange
+hide_title: true
+hide_table_of_contents: true
+description: Community content - What is the Zero Exchange
+keywords:
+ - "ZERO Exchange"
+ - "$ZERO"
+ - "@OfficialZeroDEX"
+ - "Avalanche"
+ - "AVAX"
+ - "DOT"
+ - "KUSAMA"
+ - "MATIC"
+ - "ETHEREUM"
+ - "DEX"
+image:  /static/avax-logo.svg
+---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 Official information
 Articles published by the team on Medium: 
