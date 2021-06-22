@@ -28,6 +28,10 @@ The information and documentation are provided by the community, please use at y
 :::
 
 
+:::note
+The project is currently pivotting to a new model (the current one is still live, the new model not yet), please check [this page for more information](relay/relaylaunch.md)
+:::
+
 ## What is the Zero Exchange
 
 The Zero Exchange is at its core a multi and cross chain decentralized exchange.  Its ethos is to fully embrace the decentralized aspects of crypto and to grow a thriving and engaged community, backed by a dedicated project team identifying the opportunities (features, technical, partnerships, etc) to build as a 1st mover a model for the future of crypto trading on multiple chains in a one stop shop, except that the future is now.
@@ -86,6 +90,7 @@ No presale, no investors. The team invested 60 ETH of their own to bootstrap the
 
 #### Some achievements of the project since going live
 First project to:
+* Build a DEX on the Avalanche chain
 * Build a bridge between the Ethereum and Avalanche chains
 * Build a bridge between the Avalanche and BSC chains
 * Build a bridge between Avalanche and Polygon chains
