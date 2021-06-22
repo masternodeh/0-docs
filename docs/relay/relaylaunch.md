@@ -1,0 +1,46 @@
+
+
+Official information
+Articles published by the team on Medium: 
+-	Part 1: Zero Reborn Pt. 1
+-	Part 2: To be announced
+-	Part 3: To be announced
+-	Part 3: To be announced
+
+The information described below is both on basis of the official info and info given by the team on the Telegram channels.
+
+The relay chain ecosystem
+
+In light of the project evolution between its launch at the end of January 2021 and first half of 2021 and to counter some issues which were affecting the ZERO token monetary value, the Zero team has decided to capitalize on their main asset: The ZeroBridge by adding a new revolutionary form of tokenomics.  
+
+Other parts of the existing features, like being a DEX, a launchpad, liquidity mining will remain, but the main focus since the team's decision to pivot the project has been and will be on the bridge:
+-	Adding more chains : HECO, Cosmos, Fantom, Solona, and Near (Aurora)
+-	Create earning opportunities for investors based on the bridge transactions, and not just purely on traditional DEX or liquidity mining operations
+-	Broker partnerships with major partners (parent chains and liquidity providers)
+-	Made it basically bulletproof and much more resilient to occasional chain/network issues like congestion (typically affecting BSC and Polygon at times)
+-	Fast transfer
+-	Continue with the Gas Token Airdrop for being able to do a few trades on the destination chain
+
+The $RELAY token
+
+Claiming the $RELAY token
+In order to realise the new direction, a new token will be minted, $RELAY, which will replace the $ZERO token with a different tokenomic.  $ZERO token holders will be able to claim $RELAY tokens in exchange for their $ZERO tokens on a 100:1 $ZERO:$RELAY ratio, regardless of the price of $ZERO or $RELAY at the time of the claim.
+
+How and when still to be announced.
+
+Long term holders of the $ZERO token will be also rewarded for their loyality: The how and when, still to be announced
+
+
+Tokenomics
+
+Please note that this is based on informal information given by the team in Telegram channels, official news will be .
+
+Supply: 10 millions tokens
+Initial price: $ZERO price multiplied by 100
+Initial marketcap: Same as $ZERO
+
+How the bridge fees will be used:
+
+
+* $RELAY holders will get a share of the bridge volume transactions paid in the native gas token of the chains (ETH, BNB, AVAX, MATIC, HT, etc).  So this allows a passive income based on your share of the $RELAY tokens.
+![image](https://user-images.githubusercontent.com/84021567/122978430-cc3c6f80-d396-11eb-96ea-3d5b8084d9ee.png)
