@@ -86,6 +86,7 @@ No presale, no investors. The team invested 60 ETH of their own to bootstrap the
 
 #### Some achievements of the project since going live
 First project to:
+* Build a DEX on the Avalanche chain
 * Build a bridge between the Ethereum and Avalanche chains
 * Build a bridge between the Avalanche and BSC chains
 * Build a bridge between Avalanche and Polygon chains
