@@ -29,7 +29,7 @@ The information and documentation are provided by the community, please use at y
 
 
 :::note
-The project is currently pivotting to a new model (the current one is still live, the new model not yet), please check [this page for more information]((relay/relay.md))
+The project is currently pivotting to a new model (the current one is still live, the new model not yet), please check [this page for more information]((relay/relaylaunch.md))
 :::
 
 ## What is the Zero Exchange
