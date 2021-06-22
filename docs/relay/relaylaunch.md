@@ -44,7 +44,7 @@ Other parts of the existing Zero exchange features, like being a multi chain DEX
 -	Fast transfer
 -	Continue with the Gas Token Airdrop for being able to do a few trades on the destination chain
 
-The $RELAY token
+### The $RELAY token
 
 In order to realise the new direction, a new token will be minted, $RELAY, which will replace the $ZERO token with a different tokenomic.  $ZERO token holders will be able to claim $RELAY tokens in exchange for their $ZERO tokens on a 100:1 $ZERO:$RELAY ratio, regardless of the price of $ZERO or $RELAY at the time of the claim.
 
@@ -53,7 +53,7 @@ How and when still to be announced.
 Long term holders of the $ZERO token will be also rewarded for their loyality: The how and when, still to be announced
 
 
-Tokenomics
+### Tokenomics
 
 Please note that this is based on informal information given by the team in Telegram channels, official news and explanations not yet out .
 
@@ -61,9 +61,10 @@ Supply: 10 millions tokens
 Initial price: $ZERO price multiplied by 100
 Initial marketcap: Same as $ZERO
 
-How the bridge fees will be used:
+__How the bridge fees will be used:__
 
-
+<img alt="Picture" src={useBaseUrl('/img/relay-tokenomics-piechart.png')} />
 
 * $RELAY holders will get a share of the bridge volume transactions paid in the native gas token of the chains (ETH, BNB, AVAX, MATIC, HT, etc).  So this allows a passive income based on your share of the $RELAY tokens.
-![image](https://user-images.githubusercontent.com/84021567/122978430-cc3c6f80-d396-11eb-96ea-3d5b8084d9ee.png)
+
+Which proportions of the bridge fees will be allocated to which part, still to be disclosed by the team.
