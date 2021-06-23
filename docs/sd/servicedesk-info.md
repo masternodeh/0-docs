@@ -36,6 +36,12 @@ This page groups all the information about the service desk:
 
 If users need additional information, they continue to go on the Telegram/Discord channels
 
+<img alt="Select liquidity pool" src={useBaseUrl('/img/SD-process-Slide1.png')} />  
+<img alt="Select liquidity pool" src={useBaseUrl('/img/SD-process-Slide2.png')} />  
+<img alt="Select liquidity pool" src={useBaseUrl('/img/SD-process-Slide3.png')} />  
+<img alt="Select liquidity pool" src={useBaseUrl('/img/SD-process-Slide4.png')} />  
+
+
 ### Summary of links
 
 * Link for the user to register a stuck TX: https://0.masternode.io/docs/sd/sd001
