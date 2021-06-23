@@ -30,7 +30,7 @@ This page groups all the information about the service desk:
 
 ### Scope of the ticketing system
 
-* User registers themselves their stuck issue in the ticketing system
+* Users register themselves their stuck issue in the ticketing system
 * Community mods checks the data of new tickets and validate that they can be communicated to the dev team (= ticket escalation)
 * Automatic notifications
   * Mods: New tickets created are notified in a specific TG channel 
@@ -57,7 +57,7 @@ _Overview of the definitive and general process:_
 
 ### Credentials to open/edit a ticket
 
-::: Warning
+:::warning
 Don't communicate this to people outside of the community mods or core team!
 :::
 
