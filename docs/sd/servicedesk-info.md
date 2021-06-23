@@ -71,7 +71,7 @@ How to manage:
 * A ticket
 * Queues of the ticketing system
 
-View the file at https://0.masternode.io/pdf/Service-desk-agent-guide2021-06-18-v3.pdf for the complete guide.
+View the file at https://0.masternode.io/pdf/Service_desk_agent_guide_2021-06-18_v3.pdf for the complete guide.
 
 ### Phasing of the go live
 
