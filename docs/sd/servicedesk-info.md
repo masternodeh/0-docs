@@ -1,10 +1,10 @@
 ---
 id: helpdesk-info
-title: Mod community - Helpdesk information
-sidebar_label: Mod community - Helpdesk information
+title: Mod community - Service desk information
+sidebar_label: Mod community - Service desk information
 hide_title: true
 hide_table_of_contents: true
-description: Mod community - Helpdesk information
+description: Mod community - Service desk information
 keywords:
  - "ZERO Exchange"
  - "$ZERO"
@@ -73,7 +73,7 @@ Regardless of the phases:
   * Troubleshooting to make sure they are dealing with a stuck TX
   * Explanation on how to find their cross-chain transaction ID
 * System closes automatically all tickets after 7 days of their creation date (regardless in the state they are)
-* Users: Confirmation by mail of the ticket creation and ticket closure  
+* Users: Automatic confirmation by mail of the ticket creation and ticket closure  
 
 #### Phases
 
@@ -83,8 +83,8 @@ _Phase 1:_
   * Mod checks in the new Google sheet the details of the newly registered stuck TX
   * If data validated, then mod copies the data from the new Google sheet to the old Google sheet
 * Option of Flow B - Mod can still continue to choose to not ask users to register the issue in the ticketing system 
-  * Mod adds the new stuck TX in the old Google sheet based on the DM with the user on TG
-* Flows A & B - Mod notifies as usual the dev team via the Discord stucktx channel of a new entry in the old Google sheet 
+  * Mod adds the new stuck TX in the old Google sheet based on the DM with the user on Telegram
+* Flows A & B - Mod notifies as usual the dev team via the Discord #stuck-tx channel of a new entry in the old Google sheet 
 
 _Phase 2:_
 * A notification of a new ticket will be sent to the TG channel: https://t.me/joinchat/Ts7NBUAKK_JiZDQ0 
