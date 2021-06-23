@@ -17,7 +17,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-:::
+:::info
 We are currently in phase 1 of the go live (see dedicated section about the phases)
 :::
 
