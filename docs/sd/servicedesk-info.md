@@ -1,5 +1,5 @@
 ---
-id: helpdesk-info
+id: servicedesk-info
 title: Mod community - Service desk information
 sidebar_label: Mod community - Service desk information
 hide_title: true
