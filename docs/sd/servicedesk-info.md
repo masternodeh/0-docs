@@ -37,8 +37,9 @@ This page groups all the information about the service desk:
   * Dev team: Receives an automatic notification by mail that a ticket has been escalated to them
   * Users: Confirmation by mail of the ticket creation and ticket closure  
 
-If users need additional information, they continue to go on the Telegram/Discord channels
+If users need additional information, they continue to go on the Telegram/Discord channels.
 
+_Overview of the definitive and general process:_  
 <img alt="Select liquidity pool" src={useBaseUrl('/img/SD-process-Slide1.png')} />  
 <img alt="Select liquidity pool" src={useBaseUrl('/img/SD-process-Slide2.png')} />  
 <img alt="Select liquidity pool" src={useBaseUrl('/img/SD-process-Slide3.png')} />  
