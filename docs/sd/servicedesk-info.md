@@ -88,7 +88,7 @@ _Phase 1:_
 
 _Phase 2:_
 * A notification of a new ticket will be sent to the TG channel: https://t.me/joinchat/Ts7NBUAKK_JiZDQ0 
-* From the URL ticket in the TG channel, mod opens it with the credentials communicated on a previous section
+* From the URL ticket in the TG channel, mod opens it with the credentials to open/edit a ticket (see above)
 * Mod checks the stuck TX details and changes the state of the ticket to "Escalated to Discord" when data validated
 * System sends an email to the dev team with the details of the escalated ticket
 * Mod notifies as usual the dev team via the Discord #stuck-tx channel 
@@ -98,5 +98,5 @@ _Phase 3:_
 * From the URL ticket in the TG channel, mod opens it with the credentials communicated on a previous section
 * Mod checks the stuck TX details and changes the state of the ticket to "Escalated to Discord" when data validated
 * System sends an email to the dev team with the details of the escalated ticket
-* If mod gets the confirmation by users that the issue is solved, (s)he can close manually some tickets quicker before the system does it automatically
+* If mod gets the confirmation by users that the issue is solved, (s)he can close manually some tickets quicker than when the system does it automatically after 7 days 
 * Active monitoring by some mods of the ticketing queues at https://0exchange.atlassian.net/jira/servicedesk/projects/ZEH/section/incidents/custom/51
