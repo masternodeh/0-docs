@@ -84,14 +84,14 @@ _Phase 1:_
   * If data validated, then mod copies the data from the new Google sheet to the old Google sheet
 * Option of Flow B - Mod can still continue to choose to not ask users to register the issue in the ticketing system 
   * Mod adds the new stuck TX in the old Google sheet based on the DM with the user on Telegram
-* Flows A & B - Mod notifies as usual the dev team via the Discord #stuck-tx channel of a new entry in the old Google sheet 
+* Flows A & B - Mod notifies as usual the dev team via the Discord #stuck-txs channel of a new entry in the old Google sheet 
 
 _Phase 2:_
 * A notification of a new ticket will be sent to the TG channel: https://t.me/joinchat/Ts7NBUAKK_JiZDQ0 
 * From the URL ticket in the TG channel, mod opens it with the credentials to open/edit a ticket (see above)
 * Mod checks the stuck TX details and changes the state of the ticket to "Escalated to Discord" when data validated
 * System sends an email to the dev team with the details of the escalated ticket
-* Mod notifies as usual the dev team via the Discord #stuck-tx channel 
+* Mod notifies as usual the dev team via the Discord #stuck-txs channel 
 
 _Phase 3:_
 * A notification of a new ticket will be sent to the TG channel: https://t.me/joinchat/Ts7NBUAKK_JiZDQ0 
