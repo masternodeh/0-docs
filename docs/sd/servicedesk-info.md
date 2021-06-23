@@ -57,7 +57,7 @@ _Overview of the definitive and general process:_
 
 ### Credentials to open/edit a ticket
 
-::: Warning
+:::warning
 Don't communicate this to people outside of the community mods or core team!
 :::
 
