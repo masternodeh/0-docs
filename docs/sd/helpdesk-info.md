@@ -25,8 +25,18 @@ This page groups all the information about the service desk:
 * Service desk process 
 * Phasing from initial soft launch up to complete use of the system
 
+### Scope of the ticketing system
 
-### Summary of the links
+* User registers themselves their stuck issue in the ticketing system
+* Community mods checks the data of new tickets and validate that they can be communicated to the dev team (= ticket escalation)
+* Automatic notifications
+  * Mods: New tickets created are notified in a specific TG channel 
+  * Dev team: Receives an automatic notification by mail that a ticket has been escalated to them
+  * Users: Confirmation by mail of the ticket creation and ticket closure  
+
+If users need additional information, they continue to go on the Telegram/Discord channels
+
+### Summary of links
 
 * Link for the user to register a stuck TX: https://0.masternode.io/docs/sd/sd001
 * Link to the new Google sheet: https://docs.google.com/spreadsheets/d/1CBBT1K1sLu6oy3MDCfxbOGH53X812_xpJqfBj8NAyH0/edit#gid=968062942
@@ -53,49 +63,40 @@ How to manage:
 
 [Download this file]() for the complete guide.
 
-### Scope of the ticketing system
-
-User registers themselves their stuck issue in the ticketing system
-Community mods checks the data of new tickets and validate that they can be communicated to the dev team (= ticket escalation)
-Automatic notifications
-Mods: New tickets created are notified in a specific TG channel 
-Dev team: Receives an automatic notification by mail that a ticket has been escalated to them
-Users: Confirmation by mail of the ticket creation and ticket closure  
-If users need additional information, they continue to go on the Telegram/Discord channels
-
-Phasing of the use of the ticketing system
+### Phasing of the go live
 
 Since the new system must be learned by the mods, it will go live in several phases.
 
 Regardless of the phases:
-Users register themselves their ticket at 
-Contains explanation about the resolution/time process
-Troubleshooting to make sure they are dealing with a stuck TX
-Explanation on how to find their cross-chain transaction ID
-System closes automatically all tickets after 7 days of their creation date (regardless in the state they are)
-Users: Confirmation by mail of the ticket creation and ticket closure  
+* Users register themselves their ticket at https://0.masternode.io/docs/sd/sd001 
+  * Contains explanation about the resolution/time process
+  * Troubleshooting to make sure they are dealing with a stuck TX
+  * Explanation on how to find their cross-chain transaction ID
+* System closes automatically all tickets after 7 days of their creation date (regardless in the state they are)
+* Users: Confirmation by mail of the ticket creation and ticket closure  
 
-Phases:
-Phase 1:
-Flow A - New tickets created by the users will be added automatically to a new Google sheet: 
-A notification of a new ticket creation will be sent to the TG channel: 
-Mod checks in the new Google sheet the details of the newly registered stuck TX
-If data validated, then mod copies the data from the new Google sheet to the old Google sheet
-Flow B - Mod can still continue to choose to not ask users to register the issue in the ticketing system 
-Mod adds the new stuck TX in the old Google sheet based on the DM with the user on TG
-Flows A & B - Mod notifies as usual the dev team via the Discord stucktx channel of a new entry in the old Google sheet 
+#### Phases
 
-Phase 2
-A notification of a new ticket will be sent to the TG channel: 
-From the URL ticket in the TG channel, mod opens it with the following credentials:
-Mod checks the stuck TX details and changes the state of the ticket to "Escalated to Discord" when data validated
-System sends an email to the dev team with the details of the escalated ticket
-Mod notifies as usual the dev team via the Discord stucktx channel 
+_Phase 1:_ 
+* Option of Flow A - New tickets created by the users will be added automatically to a new Google sheet: https://docs.google.com/spreadsheets/d/1CBBT1K1sLu6oy3MDCfxbOGH53X812_xpJqfBj8NAyH0/edit#gid=968062942
+  * A notification of a new ticket creation will be sent to the TG channel: https://t.me/joinchat/Ts7NBUAKK_JiZDQ0 
+  * Mod checks in the new Google sheet the details of the newly registered stuck TX
+  * If data validated, then mod copies the data from the new Google sheet to the old Google sheet
+* Option of Flow B - Mod can still continue to choose to not ask users to register the issue in the ticketing system 
+  * Mod adds the new stuck TX in the old Google sheet based on the DM with the user on TG
+* Flows A & B - Mod notifies as usual the dev team via the Discord stucktx channel of a new entry in the old Google sheet 
 
-Phase 3
-A notification of a new ticket will be sent to the TG channel: 
-From the URL ticket in the TG channel, mod opens it with the following credentials:
-Mod checks the stuck TX details and changes the state of the ticket to "Escalated to Discord" when data validated
-System sends an email to the dev team with the details of the escalated ticket
-If mod gets the confirmation by users that the issue is solved, (s)he can close manually some tickets quicker before the system does it automatically
-Active monitoring by some mods of the ticketing queues at 
+_Phase 2:_
+* A notification of a new ticket will be sent to the TG channel: https://t.me/joinchat/Ts7NBUAKK_JiZDQ0 
+* From the URL ticket in the TG channel, mod opens it with the credentials communicated on a previous section
+* Mod checks the stuck TX details and changes the state of the ticket to "Escalated to Discord" when data validated
+* System sends an email to the dev team with the details of the escalated ticket
+* Mod notifies as usual the dev team via the Discord #stuck-tx channel 
+
+_Phase 3:_
+* A notification of a new ticket will be sent to the TG channel: https://t.me/joinchat/Ts7NBUAKK_JiZDQ0 
+* From the URL ticket in the TG channel, mod opens it with the credentials communicated on a previous section
+* Mod checks the stuck TX details and changes the state of the ticket to "Escalated to Discord" when data validated
+* System sends an email to the dev team with the details of the escalated ticket
+* If mod gets the confirmation by users that the issue is solved, (s)he can close manually some tickets quicker before the system does it automatically
+* Active monitoring by some mods of the ticketing queues at https://0exchange.atlassian.net/jira/servicedesk/projects/ZEH/section/incidents/custom/51
