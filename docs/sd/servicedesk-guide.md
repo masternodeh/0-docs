@@ -103,7 +103,7 @@ The 2 ticket types (UI improvement, feature suggestion) are in the same queues, 
 
 1. Check the queue "New stuck transactions"  
 
-2. 2.	List of stuck transactions in status "New", not processed by anyone: Columns inform about type of incident (in this case, only stuck transactions, identified with its specific icon), creation date, cross-chain direction, reporter (= email entered by the customer), state, etc.
+2. List of stuck transactions in status "New", not processed by anyone: Columns inform about type of incident (in this case, only stuck transactions, identified with its specific icon), creation date, cross-chain direction, reporter (= email entered by the customer), state, etc.
 
 Clicking on the Key or Summary opens the ticket details:  
 
@@ -123,5 +123,11 @@ Same state and workflow as for stuck transactions, except:
 *	More relaxed follow-up: After you have decided what to do with the ticket (inform in Discord or not for example), change the state to "Done".  User will only see "New" and "Registered" as states of a bug report
 
 
+## 3. UI improvement or feature request ticket
 
+1. Click on "Back to project" to come back to the main page:  
+
+2. Go to "Changes":  
+
+3. 3 queues, -the working process is the same as for bug report tickets:  
 
