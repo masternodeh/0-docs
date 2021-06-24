@@ -24,10 +24,43 @@ This page describes how to use the ticketing system:
 * Manage ticket queues
 
 
-## Ticket types and workflow 
+## 1. Ticket types and workflow 
 
-### Ticket types and categories![image](https://user-images.githubusercontent.com/84021567/123236075-c2248900-d4dc-11eb-8cac-eccc1392e807.png)
+### 1.1 Ticket types and categories
+
+There are 4 types of tickets configured and grouped under two categories.  Each ticket has its specific fields (mandatory or optional) to be filled in by the user.  
+The user has to fill in an email address to be able to register the ticket: System doesn't check if it's a fake one or not, ticket will be registered anyway.  
+
+**Category "Incidents":**  
+* Stuck transaction
+* Bug report
+
+Grouped under "Incidents" for the service desk agent (customer sees "Issue or bug registration").
+ 
+**Category "Changes":**
+* UI improvement
+* Feature suggestion
+
+Grouped under "Changes" for the service desk agent (customer sees "Improvement or feature suggestion").
+
+*I'm using a free plan for this software, it seems I can't delete the other categories imposed on the interface, nor rename any of them to anything else.*
 
 
-There are 4 types of tickets grouped under two categories.  Each ticket has its specific fields (mandatory or optional) to be filled in by the user.
-The user has to fill in an email address to be able to register the ticket: System doesn't check if it's a fake one or not, ticket will be registered anyway.
+### 1.2 Tickets workflow
+
+
+### 1.3 Automation for stuck TX tickets not closed after 7 days
+
+
+## 2. Configured queues for the service desk agents
+
+### 2.1 Category Incident
+
+
+### 2.2 Category Changes
+
+
+### 2.3 Tickets workflow
+
+
+## 3. Work process for the service desk
