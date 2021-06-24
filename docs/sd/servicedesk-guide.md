@@ -85,13 +85,13 @@ _I'm using a free plan for this software, it seems I can't delete/rename "Team p
 <img alt="Picture" src={useBaseUrl('/img/servicedesk-guide-3.png')} />  
 
 **Queues:**
-1.	 "New stuck transactions": New tickets registered by the customer, in state "New"
+1.	"New stuck transactions": New tickets registered by the customer, in state "New"
 1.	"Community mods stuck transactions": New tickets acknowledged by the community mods and who changed the state to "Community mods" 
 1.	"Discord mods stuck transactions": Tickets escalated by the community mods to the dev team, state changed to "Escalated to discord".  
 1.	"Closed stuck transactions": Stuck transaction closed (changed to status "Done") manually or automatically by the system 7 days after ticket creation
 1.	"New reported bug": New bug registered by the customer, in state "New"
-1.	"Ongoing reported bugs: Bugs in state "Community mods" or "Escalated to Discord"
-1.	"Closed reported bugs: Bugs in state "Done"
+1.	"Ongoing reported bugs": Bugs in state "Community mods" or "Escalated to Discord"
+1.	"Closed reported bugs": Bugs in state "Done"
 
 
 ### 2.2 Category Changes
