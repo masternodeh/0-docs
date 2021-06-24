@@ -44,10 +44,10 @@ This page groups all the information about the service desk:
 If users need additional information, they continue to go on the Telegram/Discord channels.
 
 _Overview of the definitive and general process:_  
-<img alt="Select liquidity pool" src={useBaseUrl('/img/SD-process-Slide1.png')} />  
-<img alt="Select liquidity pool" src={useBaseUrl('/img/SD-process-Slide2.png')} />  
-<img alt="Select liquidity pool" src={useBaseUrl('/img/SD-process-Slide3.png')} />  
-<img alt="Select liquidity pool" src={useBaseUrl('/img/SD-process-Slide4.png')} />  
+<img alt="Picture" src={useBaseUrl('/img/SD-process-Slide1.png')} />  
+<img alt="Picture" src={useBaseUrl('/img/SD-process-Slide2.png')} />  
+<img alt="Picture" src={useBaseUrl('/img/SD-process-Slide3.png')} />  
+<img alt="Picture" src={useBaseUrl('/img/SD-process-Slide4.png')} />  
 
 
 ### Summary of links
