@@ -151,6 +151,6 @@ Same state and workflow as for stuck transactions, except:
 
 <img alt="Picture" src={useBaseUrl('/img/servicedesk-guide-1.png')} />  
 
-3. 3 queues, the working process is the same as for bug report tickets:  
+3. Three queues, the working process is the same as for bug report tickets:  
 
 <img alt="Picture" src={useBaseUrl('/img/servicedesk-guide-4.png')} />
