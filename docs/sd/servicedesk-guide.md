@@ -34,7 +34,7 @@ This page describes how to use the ticketing system:
 There are 4 types of tickets configured and grouped under two categories.  Each ticket has its specific fields (mandatory or optional) to be filled in by the user.  
 The user has to fill in an email address to be able to register the ticket: System doesn't check if it's a fake one or not, ticket will be registered anyway.  
 
-
+<img alt="Picture" src={useBaseUrl('/img/servicedesk-guide-1.png')} />  
 
 **Category "Incidents":**  
 * Stuck transaction
@@ -52,6 +52,8 @@ Grouped under "Changes" for the service desk agent (customer sees "Improvement o
 
 
 ### 1.2 Tickets workflow
+
+<img alt="Picture" src={useBaseUrl('/img/servicedesk-guide-2.png')} />  
 
 All the ticket types follow the same workflow, with the following states:
 * "New": Ticket created, and no one (community mod or dev team) has yet acknowledged/processed it
@@ -73,14 +75,14 @@ Tickets regarding stuck transactions will be automatically closed after 7 days r
 
 ## 2. Configured queues for the service desk agents
 
-Queues contains type of incidents or suggestions, filtered on their state for quick access and overview.
-
-
-### 2.1 Category Incident
+Queues contains type of incidents or suggestions, filtered on their state for quick access and overview.  
+There are separate queues for each type of ticket of this category (stuck transaction, bug report), filtered on their state.
 
 _I'm using a free plan for this software, it seems I can't delete/rename "Team priority" or disable the feature "Major Incidents", which we won't use for the moment._
 
-There are separate queues for each type of ticket of this category (stuck transaction, bug report), filtered on their state.
+### 2.1 Category Incident
+
+<img alt="Picture" src={useBaseUrl('/img/servicedesk-guide-3.png')} />  
 
 **Queues:**
 1.	 "New stuck transactions": New tickets registered by the customer, in state "New"
@@ -95,6 +97,9 @@ There are separate queues for each type of ticket of this category (stuck transa
 ### 2.2 Category Changes
 
 The 2 ticket types (UI improvement, feature suggestion) are in the same queues, only being filtered on their state.
+
+<img alt="Picture" src={useBaseUrl('/img/servicedesk-guide-4.png')} />  
+
 **Queues:**
 1. "New UI improvement/feature suggestions": Tickets in state "New"
 1. "Ongoing UI improvement/features suggestions": Tickets in state "Community mods" or "Escalated to "Discord"
@@ -106,23 +111,31 @@ The 2 ticket types (UI improvement, feature suggestion) are in the same queues, 
 
 ### 3.1 Stuck transaction ticket
 
-1. Check the queue "New stuck transactions"  
+1. Check the queue "New stuck transactions" (1)  
 
-2. List of stuck transactions in status "New", not processed by anyone: Columns inform about type of incident (in this case, only stuck transactions, identified with its specific icon), creation date, cross-chain direction, reporter (= email entered by the customer), state, etc.
+<img alt="Picture" src={useBaseUrl('/img/servicedesk-guide-3.png')} />  
 
-Clicking on the Key or Summary opens the ticket details:  
+2. List of stuck transactions in status "New", not processed by anyone: Columns inform about type of incident (in this case, only stuck transactions, identified with its specific icon), creation date, cross-chain direction, reporter (= email entered by the customer), state, etc.  
+  Clicking on the Key or Summary opens the ticket details:  
 
-3.	You can check the stuck TX ID, cross-chain direction, etc information as entered by the user.  Change the state to "Community mods" (top right)  so that another mod doesn't look at the same ticket at the same time thinking that no one else has/is looking at it.
+<img alt="Picture" src={useBaseUrl('/img/servicedesk-guide-5.png')} />  
 
-4.	When the state is changed to "Community mods", the ticket is moved automatically to the queue "Community mod stuck transactions"
+3.	You can check the stuck TX ID, cross-chain direction, etc information as entered by the user.  Change the state to "Community mods" (top right)  so that another mod doesn't look at the same ticket at the same time thinking that no one else has/is looking at it.  
 
-5.	Closing the ticket: In the queues "Community mods" change the state to "Done" manually if you had a contact with the user who confirmed that the issue was resolved.  Or wait for the system to close it automatically 7 days after ticket creation regardless of its state.
+<img alt="Picture" src={useBaseUrl('/img/servicedesk-guide-6.png')} />  
 
+4.	When the state is changed to "Community mods", the ticket is moved automatically to the queue "Community mod stuck transactions" (2)  
+
+<img alt="Picture" src={useBaseUrl('/img/servicedesk-guide-3.png')} />  
+
+5.	Closing the ticket: In the queues "Community mods" change the state to "Done" manually if you had a contact with the user who confirmed that the issue was resolved.  Or wait for the system to close it automatically 7 days after ticket creation regardless of its state.  
 
 
 ### 3.1 Bug report ticket
 
-Queues 5 > 7:  
+Queues (5) > (7):  
+
+<img alt="Picture" src={useBaseUrl('/img/servicedesk-guide-3.png')} /> 
 
 Same state and workflow as for stuck transactions, except:
 *	More relaxed follow-up: After you have decided what to do with the ticket (inform in Discord or not for example), change the state to "Done".  User will only see "New" and "Registered" as states of a bug report
@@ -132,7 +145,12 @@ Same state and workflow as for stuck transactions, except:
 
 1. Click on "Back to project" to come back to the main page:  
 
+<img alt="Picture" src={useBaseUrl('/img/servicedesk-guide-7.png')} />  
+
 2. Go to "Changes":  
 
-3. 3 queues, -the working process is the same as for bug report tickets:  
+<img alt="Picture" src={useBaseUrl('/img/servicedesk-guide-1.png')} />  
 
+3. 3 queues, the working process is the same as for bug report tickets:  
+
+<img alt="Picture" src={useBaseUrl('/img/servicedesk-guide-4.png')} />
