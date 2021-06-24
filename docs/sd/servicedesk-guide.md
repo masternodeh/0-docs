@@ -48,9 +48,23 @@ Grouped under "Changes" for the service desk agent (customer sees "Improvement o
 
 ### 1.2 Tickets workflow
 
+All the ticket types follow the same workflow, with the following states:
+* "New": Ticket created, and no one (community mod or dev team) has yet acknowledged/processed it
+* "Community mods": Ticket picked up by a community mod for 1st evaluation
+* "Escalated to Discord": To trigger sending a mail notification to the dev team with failed cross chain details
+* "Done": Ticket closed
+
+
+The customer receives a mail after some state changes, but they won't see the exact status name like the service desk agent:
+* For all ticket types except stuck transactions, customer will only see "New" and "Registered" as state
+* For a stuck transaction, customer will see "New", "Registered" and "Closed"
+
 
 ### 1.3 Automation for stuck TX tickets not closed after 7 days
 
+Idea is not to exchange/communicate information at the moment with the users through the ticketing system: They register their tickets and they have to go to the Telegram main chat if they want additional information.
+
+Tickets regarding stuck transactions will be automatically closed after 7 days regardless of their state.  Assumption is by then, the issue has been resolved.
 
 ## 2. Configured queues for the service desk agents
 
