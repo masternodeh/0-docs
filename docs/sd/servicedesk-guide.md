@@ -26,6 +26,7 @@ This page describes how to use the ticketing system:
 * Edition of ticket states
 * Manage ticket queues
 
+[Check this page](servicedesk-info.md) for the description of the ticketing process.
 
 ## 1. Ticket types and workflow 
 
