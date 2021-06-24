@@ -21,6 +21,10 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 We are currently in phase 1 of the go live (see dedicated section about the phases)
 :::
 
+:::warning
+Don't communicate this URL to people outside of the community mods or core team!
+:::
+
 ## Introduction
 
 This page groups all the information about the service desk:
@@ -58,7 +62,7 @@ _Overview of the definitive and general process:_
 ### Credentials to open/edit a ticket
 
 :::warning
-Don't communicate this to people outside of the community mods or core team!
+Don't communicate these credentials to people outside of the community mods or core team!
 :::
 
 Email: exchange_help@protonmail.com  
@@ -71,7 +75,7 @@ How to manage:
 * A ticket
 * Queues of the ticketing system
 
-View the file at https://0.masternode.io/pdf/Service_desk_agent_guide_2021-06-18_v3.pdf for the complete guide.
+View the file at https://0.masternode.io/pdf/Service-desk-agent-guide-2021-06-18-v3.pdf for the complete guide.
 
 ### Phasing of the go live
 
