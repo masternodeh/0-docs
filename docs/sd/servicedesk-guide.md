@@ -97,7 +97,7 @@ _I'm using a free plan for this software, it seems I can't delete/rename "Team p
 
 ### 2.2 Category Changes
 
-The 2 ticket types (UI improvement, feature suggestion) are in the same queues, only being filtered on their state.
+The 2 ticket types (UI improvement, feature suggestion) are in the same queues, only being filtered on their state.  
 
 <img alt="Picture" src={useBaseUrl('/img/servicedesk-guide-4.png')} />  
 
