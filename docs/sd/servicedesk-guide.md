@@ -15,6 +15,9 @@ image:  /static/avax-logo.svg
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} />;
 
 ## Introduction
 
@@ -30,6 +33,8 @@ This page describes how to use the ticketing system:
 
 There are 4 types of tickets configured and grouped under two categories.  Each ticket has its specific fields (mandatory or optional) to be filled in by the user.  
 The user has to fill in an email address to be able to register the ticket: System doesn't check if it's a fake one or not, ticket will be registered anyway.  
+
+
 
 **Category "Incidents":**  
 * Stuck transaction
