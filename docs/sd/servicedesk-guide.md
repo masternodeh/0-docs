@@ -51,7 +51,7 @@ Grouped under "Changes" for the service desk agent (customer sees "Improvement o
 
 ### 1.2 Tickets workflow
 
-<img alt="Picture" src={useBaseUrl('/img/servicedesk-guide-2.png')} />  
+<img alt="Picture" src={useBaseUrl('/img/servicedesk-guide-2.jpg')} />  
 
 All the ticket types follow the same workflow, with the following states:
 * "New": Ticket created, and no one (community mod or dev team) has yet acknowledged/processed it
@@ -139,7 +139,7 @@ Same state and workflow as for stuck transactions, except:
 *	More relaxed follow-up: After you have decided what to do with the ticket (inform in Discord or not for example), change the state to "Done".  User will only see "New" and "Registered" as states of a bug report
 
 
-## 3. UI improvement or feature request ticket
+## 4. UI improvement or feature request ticket
 
 1. Click on "Back to project" to come back to the main page:  
 
