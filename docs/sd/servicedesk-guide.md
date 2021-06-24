@@ -17,7 +17,7 @@ import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import TOCInline from '@theme/TOCInline';
 
-<TOCInline toc={toc} />;
+<TOCInline toc={toc} />
 
 ## Introduction
 
