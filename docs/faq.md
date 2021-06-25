@@ -48,3 +48,4 @@ Below is a list of links we have compiled into a FAQ covering things that consta
 [Adding a new chain in MetaMask](faq/faq025.md)  
 [No liquidity to swap "zXXX" tokens after a cross chain](faq/faq026.md)  
 [Listing the tokens from CoinGecko to find a token](faq/faq027.md)  
+[Role of relayers in the bridge operation](faq/faq028.md)
