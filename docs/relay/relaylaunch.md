@@ -44,6 +44,11 @@ Other parts of the existing Zero exchange features, like being a multi chain DEX
 -	Fast transfer
 -	Continue with the Gas Token Airdrop for being able to do a few trades on the destination chain
 
+## Website/url
+
+A new website and a new URL will be created
+
+
 ### The $RELAY token
 
 In order to realise the new direction, a new token will be minted, $RELAY, which will replace the $ZERO token with a different tokenomic.  $ZERO token holders will be able to claim $RELAY tokens in exchange for their $ZERO tokens on a 100:1 $ZERO:$RELAY ratio, regardless of the price of $ZERO or $RELAY at the time of the claim.
