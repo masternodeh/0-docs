@@ -63,7 +63,7 @@ Supply: 10 millions tokens
 Initial price: $ZERO price multiplied by 100  
 Initial marketcap: Same as $ZERO  
 
-All the information regarding tokenomics is on https://medium.com/@OfficialZeroDex/fdcc1924eae9
+All the information regarding tokenomics is on [Zero Reborn Pt. 3](https://medium.com/@OfficialZeroDex/fdcc1924eae9)
 
 __How the bridge fees will be used:__
 
