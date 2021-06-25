@@ -39,6 +39,7 @@ The bridge enables to cross tokens from one chain to the other, bridge is connec
   * And Digital Asset News did a [live Youtube session on Zero Exchange](https://youtu.be/lGVNDuotddM?t=1164) and the team showed how to cross chain
 * [No liquidity to swap "zXXX" tokens after a cross chain](faq/faq026.md)
 * [Why are some of the tokens named "zXXX"](faq/faq005.md)
+* [Role of relayers in the bridge operation](faq/faq028.md)
   
 
 ### Cross chain/bridging fees
