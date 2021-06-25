@@ -37,3 +37,8 @@ The Zero exchange is an open platform, meaning that they won't always develop ev
 1. [Gondola Finance](https://medium.com/@OfficialZeroDex/gondola-finance-new-asset-listing-26aa3a30a2ba)
 
 1. [Bithumb Global](https://medium.com/@OfficialZeroDex/zero-exchange-x-bithumb-global-f1319c511ac9)
+
+
+For the bridge relayers:
+* See Medium article https://medium.com/@OfficialZeroDex/fdcc1924eae9
+* Bitcoin.com, Zokyo, Bridge Mutual, ChartEx
