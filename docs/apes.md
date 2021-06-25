@@ -36,7 +36,7 @@ To get started with nonfungible apes you will need a few tools and links.
 
 ## Screen Shots
 
-**APES Examples** - notice the attributes
+**APES Examples** - pay attention to te attributes they matter
 
 <img alt="Nonfungibleapes-staking1" src={useBaseUrl('/img/nonfungibleapes-apes1.png')} />
 
