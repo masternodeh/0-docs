@@ -27,9 +27,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 The information and documentation are provided by the community, please use at your own risk
 :::
 
-
 :::note
-The project is currently pivotting to a new model (the current one is still live, the new model not yet), please check [this page for more information](relay/relaylaunch.md)
+The project is currently pivotting to a new model (the current one is still live, the new model not yet), with a new token $RELAY, please check [this page for more information](relay/relaylaunch.md)
 :::
 
 ## What is the Zero Exchange
