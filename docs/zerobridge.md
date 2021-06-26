@@ -39,7 +39,7 @@ The bridge enables to cross tokens from one chain to the other, bridge is connec
   * And Digital Asset News did a [live Youtube session on Zero Exchange](https://youtu.be/lGVNDuotddM?t=1164) and the team showed how to cross chain
 * [No liquidity to swap "zXXX" tokens after a cross chain](faq/faq026.md)
 * [Why are some of the tokens named "zXXX"](faq/faq005.md)
-* [Role of relayers in the bridge operation](faq/faq028.md)
+* [Role of relayers in the bridge operation + partners](faq/faq028.md)
   
 
 ### Cross chain/bridging fees
@@ -56,5 +56,6 @@ The Zero Exchange has foreseen a goodie for the bridge users: When you do a cros
 
 #### MetaMask gas settings
 When cross chaining, it's important to set the correct gas settings (especially when crossing from the Ethereum chain): Check the settings in this [gas settings guide](https://0-exchange.gitbook.io/0-exchange-docs/pinned/transaction-fails) 
+
 
 
