@@ -79,4 +79,4 @@ __How the bridge fees will be used:__
 Which proportions of the bridge fees will be allocated to which part, still to be disclosed by the team.
 
 ### Doxxing of the bridge relayers
-[Check this faq](../faq0028.md)
+[Check this faq](../faq028.md)
