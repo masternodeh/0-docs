@@ -44,7 +44,7 @@ Other parts of the existing Zero exchange features, like being a multi chain DEX
 -	Fast transfer
 -	Continue with the Gas Token Airdrop for being able to do a few trades on the destination chain
 
-## Website/url
+### Website/url
 
 A new website and a new URL will be created
 
@@ -62,11 +62,13 @@ Long term holders of the $ZERO token will be also rewarded for their loyality: T
 
 ### Tokenomics
 
-Please note that this is based on informal information given by the team in Telegram channels, official news and explanations not yet out .
+Please note that this is based on informal information given by the team in Telegram channels and official news.
 
 Supply: 10 millions tokens  
 Initial price: $ZERO price multiplied by 100  
 Initial marketcap: Same as $ZERO  
+
+<img alt="Picture" src={useBaseUrl('/img/relay-chart.jpeg')} />  
 
 All the information regarding tokenomics is on [Zero Reborn Pt. 3](https://medium.com/@OfficialZeroDex/fdcc1924eae9)
 
@@ -77,3 +79,6 @@ __How the bridge fees will be used:__
 \(*) $RELAY liquidity providers will get a share of the bridge volume transactions paid in the native gas token of the chains (ETH, BNB, AVAX, MATIC, HT, etc).  This allows a passive income based on your share of the $RELAY tokens.
 
 Which proportions of the bridge fees will be allocated to which part, still to be disclosed by the team.
+
+### Doxxing of the bridge relayers
+[Check this faq](../faq/faq028.md)
