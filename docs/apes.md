@@ -19,7 +19,6 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 These docs are provided by the community please use at your own risk
 :::
 
-
 ## Getting started
 
 Nonfungible apes is an NFT project with a twist. Your apes can be paired together into APE families and staked to make APE babies and earn rewards. Sounds interesting and like no other NFT's you own doesn't it?
@@ -30,7 +29,6 @@ To get started with nonfungible apes you will need a few tools and links.
 1. Now head over to [opensea to buy your first APE.](https://opensea.io/collection/nonfungibleapes)
 1. Make sure you purchase a male and a female APE so you will be able to stake
 1. More to come as details are released in the next few weeks.
-
 
 ## Screen Shots
 
