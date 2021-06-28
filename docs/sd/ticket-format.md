@@ -26,6 +26,27 @@ Mail is sent:
 
 ### Mail format
 
+|       Name    |       Value           |  Description  | 
+| ------------- |       :-----------:   |               |           
+| "message"     |   Always "ticket"     | 
+| "issueRef"     |   Always "ticket"    | | 
+|   |     | | 
+
+
+{  
+"message": "ticket" >> Always "ticket"  
+"issueRef": "ZEH-105",  >> Unique identifier of the ticket  
+"creationDate": "28/06/2021 10:28:19",  >> Date and time of creation (Western Europe)  
+"dateFormat": "dd/MM/yyyy hh:mm:ss",  >> Format of the date  
+"issueType": "StuckTX",  >> Type of ticket (other types don't generate yet a ticket, like a bug report, UI improvment, etc)  
+"issueStatusID": "10020",  >> ID of the status 10020 = "New", 10022 = "Escalated to Discord"  
+"issueStatusLabel": "New",  >> Label of the status corresponding to the ID  
+"originChain": "Polygon",  >> Origin chain of the transfer  
+"destinationChain": "Avalanche",  >> Destination chain of the transfer  
+"token": "zero",  >> Token transferred  
+"txID": "https://polygonscan.com/tx/0x2858ef7bc5d2425ba51502e8524b018136c51a59c0f9857caefac884f102026d"  >> URL of the TX ID  
+}   
+
 _Example of a mail sent in case of a new ticket:_  
 {  
 "message": "ticket",  
@@ -57,18 +78,4 @@ _Example of a mail sent in case of an escalated ticket:_
 "txID": "https://bscscan.com/tx/0x448a01841d04cbaebeb9ea2bbb032092c25b79789c47d5491cb43bc18e78d5de"  
 }  
 
-### format description
-{  
-"message": "ticket" >> Always "ticket"  
-"issueRef": "ZEH-105",  >> Unique identifier of the ticket  
-"creationDate": "28/06/2021 10:28:19",  >> Date and time of creation (Western Europe)  
-"dateFormat": "dd/MM/yyyy hh:mm:ss",  >> Format of the date  
-"issueType": "StuckTX",  >> Type of ticket (other types don't generate yet a ticket, like a bug report, UI improvment, etc)  
-"issueStatusID": "10020",  >> ID of the status 10020 = "New", 10022 = "Escalated to Discord"  
-"issueStatusLabel": "New",  >> Label of the status corresponding to the ID  
-"originChain": "Polygon",  >> Origin chain of the transfer  
-"destinationChain": "Avalanche",  >> Destination chain of the transfer  
-"token": "zero",  >> Token transferred  
-"txID": "https://polygonscan.com/tx/0x2858ef7bc5d2425ba51502e8524b018136c51a59c0f9857caefac884f102026d"  >> URL of the TX ID  
-}   
 
