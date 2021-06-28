@@ -26,20 +26,19 @@ Mail is sent:
 
 ### Mail format
 
-|Field				|	Example of value										|	Description	 |
-| ------------- 			| 	:-----------: 								| 	-----: 		 |
-| "message"			| ticket	|	 Always "ticket"	| Constant value	(string) |
-| "issueRef"	| ZEH-105	|	 Unique identifier of the ticket	 |	ID (String)	|
-| "creationDate"			| 28/06/2021 10:28:19	|	 Date and time of creation (Western Europe)	 |	String/date	|
-| "dateFormat"	| dd/MM/yyyy hh:mm:ss	|	 (for info) Format of the date	 |	String	|
-| "issueType"			| StuckTX	|	 ID of ticket type (other types don't generate yet a ticket, like a bug report, UI improvment, etc)	 | ID (string)	|
-| "issueStatusID"			| 10020	|	 ID of the status 10020 = "New", 10022 = "Escalated to Discord"	 | ID (number)	|
-| "issueStatusLabel"			| New	|	 (for info) Label of the status corresponding to the ID	 | String	|
-| "originChain"			| Polygon	|	 Origin chain of the transfer	 | ID (string)	|
-| "destinationChain"			| Avalanche	|	 Destination chain of the transfer	 | ID (string)	|
-| "token"			| ZERO	|	 Token transferred	 | Free text (string)	|
-| "txID"			| https://polygonscan.com/tx/0xxxxxxxxxx	|	 URL of the TX ID	 | URL	|
-
+|Field				|	Example of value										|	Description	 |	Format	 |
+| ------------- 			| 	:----------- 								| 	:----- 		 | 	:----- 		 |
+| "message"			| ticket	|	 Always "ticket"	|	 String	|
+| "issueRef"	| ZEH-105	|	 Unique identifier of the ticket	 |	 ID (String)	 |
+| "creationDate"			| 28/06/2021 10:28:19	|	 Date and time of creation (Western Europe)	 |	 String/date	 |
+| "dateFormat"	| dd/MM/yyyy hh:mm:ss	|	 (for info) Format of the date	 |	 String	 |
+| "issueType"			| StuckTX	|	 ID of ticket type (other types don't generate yet a ticket, like a bug report, UI improvment, etc)	 |	 ID (string)	 |
+| "issueStatusID"			| 10020	|	 ID of the status 10020 = "New", 10022 = "Escalated to Discord"	 |	  ID (number)	 |
+| "issueStatusLabel"			| New	|	 (for info) Label of the status corresponding to the ID	 |	 String	 |
+| "originChain"			| Polygon	|	 Origin chain of the transfer	 |	 ID (string)	 |
+| "destinationChain"			| Avalanche	|	 Destination chain of the transfer	 |	 ID (string)	 |
+| "token"			| ZERO	|	 Token transferred	 |	  Free text (string)	 |
+| "txID"			| https://polygonscan.com/tx/0xxxxxxxxxx	|	 URL of the TX ID	 |	 URL	 |
 
 _Example of a mail sent in case of a new ticket:_  
 {  
