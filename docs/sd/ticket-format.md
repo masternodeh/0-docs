@@ -22,7 +22,7 @@ Mail is sent:
 * when new ticket is created
 * when a new ticket has been reviewed by a mod and escalated to the dev team
 
-[Check this page](sd/servicedesk-info.md) for an overview of the flow.
+[Check this page](servicedesk-info.md) for an overview of the flow.
 
 ### Mail format
 
