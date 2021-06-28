@@ -52,12 +52,12 @@ _Overview of the definitive and general process:_
 
 ### Summary of links
 
-* Link for the user to register a stuck TX: https://0.masternode.io/docs/sd/sd001
-* Link to the new Google sheet: https://docs.google.com/spreadsheets/d/1CBBT1K1sLu6oy3MDCfxbOGH53X812_xpJqfBj8NAyH0/edit#gid=968062942
-    * You will have to send a share request before being able to see the content   
+* Link for the user to register a stuck TX: https://0.masternode.io/docs/sd/sd001 
 * For reference (still the same URL), link to the old Google sheet: https://docs.google.com/spreadsheets/d/16a9HouWH3TKj_9BL16fM8FBylSiv1mVTQt5M_DRF2gA/edit#gid=1310571463
 * Link to the TG channel for notifications of new created tickets: https://t.me/joinchat/Ts7NBUAKK_JiZDQ0 
 * Link to the ticketing queues with all the tickets: https://0exchange.atlassian.net/jira/servicedesk/projects/ZEH/section/incidents/custom/51
+* Link to the new Google sheet: https://docs.google.com/spreadsheets/d/1CBBT1K1sLu6oy3MDCfxbOGH53X812_xpJqfBj8NAyH0/edit#gid=968062942
+    * You will have to send a share request before being able to see the content  
 
 ### Credentials to open/edit a ticket
 
@@ -92,10 +92,10 @@ Regardless of the phases:
 #### Phases
 
 _Phase 1:_ 
-* Option of Flow A - New tickets created by the users will be added automatically to a new Google sheet: https://docs.google.com/spreadsheets/d/1CBBT1K1sLu6oy3MDCfxbOGH53X812_xpJqfBj8NAyH0/edit#gid=968062942
-  * A notification of a new ticket creation will be sent to the TG channel: https://t.me/joinchat/Ts7NBUAKK_JiZDQ0 
-  * Mod checks in the new Google sheet the details of the newly registered stuck TX
-  * If data validated, then mod copies the data from the new Google sheet to the old Google sheet
+* Option of Flow A - New tickets created by the users will be automatically notified in the notification TG channel: https://t.me/joinchat/Ts7NBUAKK_JiZDQ0 
+  * Entry will be automatically created in a new Google sheet : https://docs.google.com/spreadsheets/d/1CBBT1K1sLu6oy3MDCfxbOGH53X812_xpJqfBj8NAyH0/edit#gid=968062942  
+  * Mod checks in the notification TG channel/new Google sheet the details of the newly registered stuck TX
+  * If data validated, then mod copies the data to the old Google sheet
 * Option of Flow B - Mod can still continue to choose to not ask users to register the issue in the ticketing system 
   * Mod adds the new stuck TX in the old Google sheet based on the DM with the user on Telegram
 * Flows A & B - Mod notifies as usual the dev team via the Discord #stuck-txs channel of a new entry in the old Google sheet 
