@@ -62,11 +62,13 @@ Long term holders of the $ZERO token will be also rewarded for their loyality: T
 
 ### Tokenomics
 
-Please note that this is based on informal information given by the team in Telegram channels, official news and explanations not yet out .
+Please note that this is based on informal information given by the team in Telegram channels and official news.
 
 Supply: 10 millions tokens  
 Initial price: $ZERO price multiplied by 100  
 Initial marketcap: Same as $ZERO  
+
+<img alt="Picture" src={useBaseUrl('/img/relay-chart.jpeg')} />  
 
 All the information regarding tokenomics is on [Zero Reborn Pt. 3](https://medium.com/@OfficialZeroDex/fdcc1924eae9)
 
