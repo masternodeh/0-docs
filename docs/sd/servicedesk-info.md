@@ -49,6 +49,7 @@ _Overview of the definitive and general process:_
 <img alt="Picture" src={useBaseUrl('/img/SD-process-Slide3.png')} />  
 <img alt="Picture" src={useBaseUrl('/img/SD-process-Slide4.png')} />  
 
+[Technical info about the mail](ticket-format.md) sent to the dev team (formatting of the content).
 
 ### Summary of links
 
@@ -94,7 +95,7 @@ Regardless of the phases:
 _Phase 1:_ 
 * Option of Flow A - New tickets created by the users will be automatically notified in the notification TG channel: https://t.me/joinchat/Ts7NBUAKK_JiZDQ0 
   * Entry will be automatically created in a new Google sheet : https://docs.google.com/spreadsheets/d/1CBBT1K1sLu6oy3MDCfxbOGH53X812_xpJqfBj8NAyH0/edit#gid=968062942  
-  * Mod checks in the notification TG channel/new Google sheet the details of the newly registered stuck TX
+  * Mod checks in the notification TG channel or new Google sheet the details of the newly registered stuck TX
   * If data validated, then mod copies the data to the old Google sheet
 * Option of Flow B - Mod can still continue to choose to not ask users to register the issue in the ticketing system 
   * Mod adds the new stuck TX in the old Google sheet based on the DM with the user on Telegram
