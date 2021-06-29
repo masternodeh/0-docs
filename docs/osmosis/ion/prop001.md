@@ -9,7 +9,7 @@ keywords:
  - "Osmosis"
  - "Ion"
  
-image:  /static/avax-logo.svg
+image:  /static/eth-logo.svg
 ---
 
 import Tabs from '@theme/Tabs';
