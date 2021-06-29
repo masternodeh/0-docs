@@ -6,7 +6,7 @@ module.exports = {
 	HELPDESK: ['sd/sd001'], 
 	RELAY: ['relay/relaylaunch'],
     BLOCKCHAINS: ['eth','avax','bsc','polygon','osmosis'],
-	PROPOSALS: ['osmosis/ion/prop001'],
+	PROPOSALS: ['osmosis/ion/ion','osmosis/ion/prop001','osmosis/ion/prop002'],
 	EXPLAINERS: ['il','nft','rugpull'],
 	FUTURE: ['sol','grow','apes'],
   },

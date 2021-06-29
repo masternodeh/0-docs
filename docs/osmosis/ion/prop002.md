@@ -16,6 +16,17 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
+## ION's Danger to Osmosis 
+ 
+The purpose of this proposal is to add utility to ION in a manner that does not threaten the sovereignty of the Osmosis project and OSMOS holders. 
+The governance coin of Osmosis is and always will be OSMOS. 
+Thus, any envisioned use case for ION must not enable it to become a usurper coin, allowing its holders and bonders to accumulate rewards at a faster rate than non-holders. 
+An enhanced reward structure exclusive to ION holders constitutes a threat to the network by which ION holders are able to accrue more OSMOS, viz. voting power at a rate disproportionate to that of non-ION holders. 
+ION’s scarcity — 21,294 tokens with no known inflationary mechanism — will always put an upward pressure on its price. Bad actors who hold ION can then exchange them for OSMOS, and thus, acquire greater voting power. 
+By consolidating their voting power, self-interested ION holders can collude to pass proposals and capture the network, presenting the community with a fait accompli through their overwhelming voting strength. 
+It is, therefore, in the OSMOS community’s interest to reject any proposal that privileges ION holders and bonders with an enhanced reward structure over non-ION holders. 
+Permitting ION holders to capture the network will be a betrayal of OSMOS’ vision and its holders and a kiss of death to the network itself. 
+
 ## Utility for ION - By DK
  
 Nothing is more important to an AMM protocol than its network security and the stability of its liquidity pools. ION’s scarcity and speculative use cases has currently made the coin soar around 200 ATOMS per token. 
