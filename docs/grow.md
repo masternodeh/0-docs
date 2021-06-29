@@ -29,7 +29,7 @@ To get started with GROW you are going to understand how the game works.
 1. You can see flowers you have purchased [here](https://flowerpatch.app/account/) just need to add your address at the end of the link
 1. Once you purchase a flower you need to find a tile that has the same land type (soil,stone,sand,lava,water,ice) as the flower needs inside the game.
 1. Then you inspect your tile, till your tile, then you can plant your seed on your tile. Don't forget to water it when you are done.
-1. Seeds take about 40-90 mins to grow depending on the strain.
+1. Seeds take about 20-90 mins to grow depending on the strain.
 1. Once you seed has grown you can either havest it or you can breed it with your neighbours.
 
 ## Marketplaces
