@@ -17,8 +17,10 @@ import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## What is ION?
- 
-ION is the secondary asset of the Osmosis Zone & AMM. 
+
+Sunny recently posted [The Memecoin Thesis](https://www.sunnya97.com/blog/the-memecoin-thesis) which he mentioned came out of a [twitter thread](https://twitter.com/sunnya97/status/1104189251221184513?s=21)
+
+How does it relate to ION? ION is the secondary asset of the Osmosis Zone & AMM. 
 There are 21,294 ION tokens, and they were airdropped to 16,462 addresses. 
 One prerequisite to receive IONs appears to be high rates of governance participation. 
 A lottery element is suspected due to its random quantity distribution and the arbitrariness of who ultimately became recipients. 

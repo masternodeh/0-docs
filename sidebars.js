@@ -5,9 +5,9 @@ module.exports = {
 	IDO: ['ido/ido001','ido/ido002','ido/ido003','ido/ido004','ido/ido005'],
 	HELPDESK: ['sd/sd001'], 
 	RELAY: ['relay/relaylaunch'],
-    BLOCKCHAINS: ['eth','avax','bsc','polygon','osmosis'],
+    BLOCKCHAINS: ['eth','avax','bsc','polygon','sol','osmosis'],
 	PROPOSALS: ['osmosis/ion/whatision','osmosis/ion/prop001','osmosis/ion/prop002'],
 	EXPLAINERS: ['il','nft','rugpull'],
-	FUTURE: ['sol','grow','apes'],
+	NFTS: ['grow','nonfungibleapes'],
   },
 };

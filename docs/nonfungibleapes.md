@@ -1,13 +1,14 @@
 ---
-id: apes
+id: nonfungibleapes
 title: Powered by Apes
-sidebar_label: APES
+sidebar_label: Nonfungibleapes
 hide_title: false
 hide_table_of_contents: false
 description: NONFUNGIBLEAPES Staking Guide 
 keywords: 
  - apes
  - docs
+ - nfts
 image:  /static/logo.svg
 ---
 
