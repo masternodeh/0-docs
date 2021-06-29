@@ -33,9 +33,9 @@ THE APR boost applies to the whole pool, so other OSMOS users are free to provid
 1. IONs bonded to pools will drain within (x) days. Depleted or depleting IONs can be recharged by exchanging OSMOS that will be burned from the supply. 
 IONs bonded to smaller pools will deplete slower/have a greater number of transactions with the boost in rewards to incentivize liquidity in newer pools. 
 Moreover, the fewer bonded IONs in a pool, the greater the boosted reward effects will be, further incentivizing ION bonders to boost newer and smaller pools. 
-1. Option 1 - All IONs bonded to a pool will deplete and recharge at the same rate and anyone can exchange OSMOS to recharge the pool. 
+1. **Option 1** - All IONs bonded to a pool will deplete and recharge at the same rate and anyone can exchange OSMOS to recharge the pool. 
 Depleted IONs will recharge over a period of time, but users can donate OSMOS to recharge the bonded IONs and enable boosted rewards for everyone in the pool.
-Option 2 - All IONs bonded to a pool will deplete and recharge at the same rate and anyone can exchange OSMOS to recharge the pool. 
+**Option 2** - All IONs bonded to a pool will deplete and recharge at the same rate and anyone can exchange OSMOS to recharge the pool. 
 In order to discourage freeriding, the cost of recharging IONs will be spread across all users in the LP. 
 It is possible to remain in the pool without paying for the boost, but that user will not receive the enhanced rewards. 
 Those who want to enjoy the rewards from the boosted pool must pay the Osmos burn fee in order to receive the IONIZED boost. 
