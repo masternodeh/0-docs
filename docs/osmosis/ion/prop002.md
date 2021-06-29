@@ -61,7 +61,21 @@ This value sharing model has several advantages:
 1. ION attached to a pool recharges faster/deplete slower on smaller pools. This will incentivize smaller pools, which will help attract liquidity with its boosted APR rates. 
 1. Using an OSMOS burn mechanism to replenish the ION-charge helps to counter the ever-growing release of new OSMOS after Epoch and decrease the FUD surrounding OSMOS’s supply.
 
+## Shout-outs
 
+Just wanted to give a shoutout to the following people for helping with my proposal:
+
+1. Block
+1. Immasssi
+1. GP
+1. Jesus
+1. Jae Sami
+1. Chet C
+1. Jay
+1. Mike Barb
+1. Kyle Murphy
+1. Hassan
+1. Chad Capitalist
 
 
 
