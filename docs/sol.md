@@ -19,10 +19,21 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 These docs are provided by the community please use at your own risk
 :::
 
-## Getting started
+## Tokenomics
+
+Circulating Supply	272,637,428 SOL
+Total Supply	494,519,162 SOL
+
+The SOL token distribution is as follows: 16.23% went towards an initial seed sale, 12.92% of tokens were dedicated to a founding sale, 
+12.79% of SOL coins were distributed among team members and 10.46% of tokens were given to the Solana Foundation. 
+The remaining tokens were already released for public and private sales or are still to be released to the market.
+
+Solana relies on a unique combination of proof-of-history (PoH) and proof-of-stake (PoS) consensus mechanisms.
+Proof-of-history is the main component of the Solana protocol, as it is responsible for the bulk of transaction processing. 
+PoH records successful operations and the time that has passed between them, thus ensuring the trustless nature of the blockchain
 
 Before you YETH all your coins at the market we are going to take you through a few steps so that your attempt to make your wife's boyfriend jealous is successful and you can enjoy copious amounts of coins of your own.
-As with all these new chains that are still in heavy development it's important you proceed at your own risk.
+Always remember that with all these new chains that are still in heavy development it's important you proceed at *your own risk*.
 
 To get started on SOLANA you are going to need a few tools and links. 
 
