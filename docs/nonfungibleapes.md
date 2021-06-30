@@ -1,13 +1,14 @@
 ---
-id: apes
+id: nonfungibleapes
 title: Powered by Apes
-sidebar_label: APES
+sidebar_label: Nonfungibleapes
 hide_title: false
 hide_table_of_contents: false
 description: NONFUNGIBLEAPES Staking Guide 
 keywords: 
  - apes
  - docs
+ - nfts
 image:  /static/logo.svg
 ---
 
@@ -37,15 +38,15 @@ To get started with nonfungible apes you will need a few tools and links.
 
 **APES Examples** - pay attention to te attributes they matter
 
-<img alt="Nonfungibleapes-staking1" src={useBaseUrl('/img/nonfungibleapes-apes1.png')} />
+<img alt="Nonfungibleapes-apes1" src={useBaseUrl('/img/nonfungibleapes-apes1.png')} />
 
-<img alt="Nonfungibleapes-staking1" src={useBaseUrl('/img/nonfungibleapes-apes2.png')} />
+<img alt="Nonfungibleapes-apes2" src={useBaseUrl('/img/nonfungibleapes-apes2.png')} />
 
-<img alt="Nonfungibleapes-staking1" src={useBaseUrl('/img/nonfungibleapes-apes3.png')} />
+<img alt="Nonfungibleapes-apes3" src={useBaseUrl('/img/nonfungibleapes-apes3.png')} />
 
 ** STAKING ** 
 
-<img alt="Nonfungibleapes-staking1" src={useBaseUrl('/img/nonfungibleapes-staking.png')} />
+<img alt="Nonfungibleapes-staking" src={useBaseUrl('/img/nonfungibleapes-staking.png')} />
 
 <img alt="Nonfungibleapes-staking1" src={useBaseUrl('/img/nonfungibleapes-staking1.png')} />
 
@@ -53,18 +54,18 @@ To get started with nonfungible apes you will need a few tools and links.
 
 <img alt="Nonfungibleapes-staking3" src={useBaseUrl('/img/nonfungibleapes-staking3.png')} />
 
-<img alt="Nonfungibleapes-staking3" src={useBaseUrl('/img/nonfungibleapes-staking4.png')} />
+<img alt="Nonfungibleapes-staking4" src={useBaseUrl('/img/nonfungibleapes-staking4.png')} />
 
-<img alt="Nonfungibleapes-staking3" src={useBaseUrl('/img/nonfungibleapes-staking5.png')} />
+<img alt="Nonfungibleapes-staking5" src={useBaseUrl('/img/nonfungibleapes-staking5.png')} />
 
-<img alt="Nonfungibleapes-staking3" src={useBaseUrl('/img/nonfungibleapes-staking6.png')} />
+<img alt="Nonfungibleapes-staking6" src={useBaseUrl('/img/nonfungibleapes-staking6.png')} />
 
-<img alt="Nonfungibleapes-staking3" src={useBaseUrl('/img/nonfungibleapes-staking7.png')} />
+<img alt="Nonfungibleapes-staking7" src={useBaseUrl('/img/nonfungibleapes-staking7.png')} />
 
-<img alt="Nonfungibleapes-staking3" src={useBaseUrl('/img/nonfungibleapes-staking8.png')} />
+<img alt="Nonfungibleapes-staking8" src={useBaseUrl('/img/nonfungibleapes-staking8.png')} />
 
-<img alt="Nonfungibleapes-staking3" src={useBaseUrl('/img/nonfungibleapes-staking9.png')} />
+<img alt="Nonfungibleapes-staking9" src={useBaseUrl('/img/nonfungibleapes-staking9.png')} />
 
-<img alt="Nonfungibleapes-staking3" src={useBaseUrl('/img/nonfungibleapes-staking10.png')} />
+<img alt="Nonfungibleapes-staking10" src={useBaseUrl('/img/nonfungibleapes-staking10.png')} />
 
 

@@ -1,7 +1,7 @@
 ---
 id: grow
 title: GROW Players Guide
-sidebar_label: GROW
+sidebar_label: Grow
 hide_title: false
 hide_table_of_contents: false
 description: GROW Players Guide 

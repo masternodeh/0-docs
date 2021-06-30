@@ -1,7 +1,7 @@
 ---
 id: il
 title: Impermanent Loss Explanation
-sidebar_label: IL
+sidebar_label: Impermanent Loss
 hide_title: false
 hide_table_of_contents: false
 description: Impermanent Loss Explanation
