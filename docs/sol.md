@@ -1,7 +1,7 @@
 ---
 id: sol
 title: SOLANA Reference Guide
-sidebar_label: SOL
+sidebar_label: Solana
 hide_title: false
 hide_table_of_contents: false
 description: SOLANA DeFi instructions for Degens
