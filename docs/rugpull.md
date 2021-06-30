@@ -1,7 +1,7 @@
 ---
 id: rugpull
 title: Rugpull Gotcha Guide
-sidebar_label: RUGPULL
+sidebar_label: Rugpull
 hide_title: false
 hide_table_of_contents: false
 description: How to spot a Rugpull
