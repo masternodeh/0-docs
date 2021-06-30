@@ -16,6 +16,8 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
+ 
+
 ## What is ION?
 
 Sunny recently posted [The Memecoin Thesis](https://www.sunnya97.com/blog/the-memecoin-thesis) which he mentioned came out of a [twitter thread](https://twitter.com/sunnya97/status/1104189251221184513?s=21)
@@ -33,3 +35,7 @@ It was presented as a social experiment to the Osmosis Lab community: a blank-sl
 ## What are we trying to do?
 
 As a community we are trying to get organized so that we can decide the future of ION.
+
+## Useful Tools
+
+[List of Token Holders](https://github.com/osmosis-labs/networks/blob/main/osmosis-1/ions.json)
