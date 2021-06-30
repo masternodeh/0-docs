@@ -39,11 +39,11 @@ Calculations were made on the following website: https://safe.defiyield.app/adva
 #### ZERO-ETH pool
 Figures/values of tokens are not real: Rounded and easy numbers were used (which are close to the real values) in order to make the explanation as simple as possible.
 
-<img alt="Picture" src={useBaseUrl('/relay-zero-pool-1.png')} />  
+<img alt="Picture" src={useBaseUrl('/img/relay-zero-pool-1.png')} />  
 
 Result of the different simulations with the ZERO token:  
 
-<img alt="Picture" src={useBaseUrl('/relay-zero-pool-2.png')} />  
+<img alt="Picture" src={useBaseUrl('/img/relay-zero-pool-2.png')} />  
 
 If you had $10,000 value LP and you entered with ZERO at 20c and ETH at $2000, you would have started with 25,000 ZERO and 2.5 ETH (we’re not going to take rewards into consideration for this example). If the value of ZERO dropped 90% to 2c but ETH stayed at $2000, then you would experience 22.67% IL. Your unrealized loss would be as follows:
 * If you exited the LP with Zero at 2c and ETH at $2,000 – then you would get __80,822.4 ZERO__ (a gain of 55,822.4 ZERO), and you would lose 1.69 ETH to leave a balance of __0.81 ETH__
@@ -62,7 +62,7 @@ You can immediately enter the RELAY/ETH pool. The USD value of your tokens won�
 
 With the locking of value at 1:100 ratio in mind, for RELAY to recover its value to the same as when you entered the LP with ZERO at 20c, it would need to pump approx. 900% (pumping from 2c to 20c = 900%). 
 
-<img alt="Picture" src={useBaseUrl('/relay-zero-pool-3.png')} />  
+<img alt="Picture" src={useBaseUrl('/img/relay-zero-pool-3.png')} />  
 
 A 900% pump on RELAY to get to $20 (same as if ZERO went back 20c) and 0% pump on ETH = You lose some RELAY to IL, but you gain ETH. According to this chart, 826% pump actually gets back to the values of where you started, so at 826% you have a $10,050 total pool value, a gain of 1.7ETH and a loss of 536.9 RELAY. 
 
@@ -71,7 +71,7 @@ The IL doesn’t affect you, unless you stay out of the RELAY/ETH pool and just 
 
 Result of the different simulations with the RELAY token:  
 
-<img alt="Picture" src={useBaseUrl('/relay-zero-pool-4.png')} />  
+<img alt="Picture" src={useBaseUrl('/img/relay-zero-pool-4.png')} />  
 
 
 
