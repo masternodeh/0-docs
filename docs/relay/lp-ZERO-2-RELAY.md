@@ -27,9 +27,9 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ### Introduction
 
-This page will explain the impact of impermanent loss, the dollar value of the assets locked in the liquidity pools based on the price fluctuations, impact of going from a ZERO to RELAY pool.
+This page will explain the impact of impact of going from a ZERO to RELAY pool, based on impermanent loss (price fluctuations), dollar value of the assets locked in the liquidity.
 
-In summary: If you go out of the ZERO pool, exchange ZERO to RELAY, and jump in quickly again in a RELAY pool, you shouldn't notice any difference compared to the ZERO pool.  Then you are subjected on the Relay price fluctuation and normal IL calculations apply.
+In summary: If you go out of the ZERO pool, exchange ZERO to RELAY quickly, and jump without waiting in a RELAY pool, you shouldn't notice any difference compared to the ZERO pool.  Then you are subjected on the RELAY price fluctuation like you are today with ZERO, and normal impermanet loss applies.
 
 
 ### Simulation
