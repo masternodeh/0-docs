@@ -32,10 +32,11 @@ This page will explain the impact of impact of going from a ZERO to a RELAY liqu
 In summary: If you go out of the ZERO pool, exchange ZERO to RELAY quickly, and jump without waiting in a RELAY pool, you shouldn't notice any difference compared to the current situation of the ZERO pool (don't forget that all active ZERO pools will end).  Then you are subjected on the RELAY price fluctuation (+ the paired token price action), same as today with ZERO.
 
 
-### Simulation
+### Simulations
 
 Calculations were made on the following website: https://safe.defiyield.app/advanced-impermanent-loss-calculator  
 
+#### ZERO-ETH pool
 Figures/values of tokens are not real: Rounded and easy numbers were used (which are close to the real values) in order to make the explanation as simple as possible.
 
 <img alt="Picture" src={useBaseUrl('/relay-zero-pool-1.jpg')} />  
@@ -49,7 +50,7 @@ If you had $10,000 value LP and you entered with ZERO at 20c and ETH at $2000, y
 * The total USD value of your LP would be $3,232.90 and you would have lost $6,767.10 in USD value or 68%. So, if ZERO dropped 90% and ETH stayed stable at $2,000, and you were in the LP, you would have a 68% USD value loss via IL when exiting which would leave you with an additional 55,822.4 ZERO which are now worth 90% less than when you entered, and 1.69 less ETH than what you entered with. The pool balanced by giving you more ZERO.
 
 
-#### Switching from the ZERO pool to the RELAY pool
+#### Switching from the ZERO-ETH pool to the RELAY-ETH pool
 RELAY is locked in value with ZERO at a ratio of 1:100, so for every 100 ZERO you get 1 RELAY token.
 
 If you exited the LP at the time of the claim with the intent of switching to RELAY, here is what would happen:
