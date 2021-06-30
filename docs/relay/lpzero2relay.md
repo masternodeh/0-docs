@@ -1,10 +1,10 @@
 ---
 id: lpzero2relay
-title: Community content - Liquidity pools: Transitioning from ZERO to RELAY
+title: Community content - Liquidity pools - Transitioning from ZERO to RELAY
 sidebar_label: LP - Transitioning from ZERO to RELAY
 hide_title: true
 hide_table_of_contents: true
-description: Community content - Liquidity pools: Transitioning from ZERO to RELAY
+description: Community content - Liquidity pools - Transitioning from ZERO to RELAY
 keywords:
  - "ZERO Exchange"
  - "$ZERO"
