@@ -28,7 +28,7 @@ Articles published by the team on Medium:
 -	Part 1: [Zero Reborn Pt. 1](https://medium.com/@OfficialZeroDex/zero-reborn-pt-1-afe615080360)
 -	Part 2: [Zero Reborn Pt. 2](https://medium.com/@OfficialZeroDex/zero-reborn-pt-2-ea018623285)
 -	Part 3: [Zero Reborn Pt. 3](https://medium.com/@OfficialZeroDex/fdcc1924eae9) + [live AMA with the team lead](https://t.me/ZeroExchangeAnn/368)
--	Part 3: To be announced
+-	Part 4: To be announced
 
 The information described below is both on basis of the official articles and info given by the team on the Telegram channels.
 
@@ -64,7 +64,7 @@ Long term holders of the $ZERO token will be also rewarded for their loyality: T
 
 Please note that this is based on informal information given by the team in Telegram channels and official news.
 
-Supply: 10 millions tokens  
+Supply: 10 Million tokens  
 Initial price: $ZERO price multiplied by 100  
 Initial marketcap: Same as $ZERO  
 
