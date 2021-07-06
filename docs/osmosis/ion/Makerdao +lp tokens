@@ -1,0 +1,13 @@
+A makerdao style loan protocol system where users can mint a stablecoin by depositing lp shares into our protocol. The protocol will use a burn mint feature to make sure the lp shares and minted coin stays in pair. Stability fees are charged when minted and added to a pcv(protocol controlled value)
+
+A protocol control value is a group of asset owned and controlled by a code
+
+As the pcv grows from fees collected, it can build upon the lp shares it owns by collecting swap fees. As the pcv collects and reinvest the rewards, it can begin to redistribute them in different ways like purchasing lp tokens for other pools and adding them to the pcv. The pcv can use these earnings in different ways like keeping a peg stable, building a treasury, creating a safu and insurance funds. As the pcv grows and with compound interest doing its thing, we can offer some different financial contracts like adding interesting synthetics/options to our platform 
+
+How do we initially fund this?
+Should we start by buying some lp shares?
+How to pay for dev? 
+How does the burn mint function work?
+Where does osmo fit in(oracle?)
+Where does ion fit in(control the treasury?)
+How does super fluid staking fit in?
