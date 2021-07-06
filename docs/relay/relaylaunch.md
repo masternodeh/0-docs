@@ -46,7 +46,7 @@ Other parts of the existing Zero exchange features, like being a multi chain DEX
 
 ### Website/url
 
-A new website and a new URL will be created
+A new website will be live soon: https://www.relaychain.com/
 
 
 ### The $RELAY token
