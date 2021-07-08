@@ -79,8 +79,6 @@ Long term holders of the $ZERO token will be also rewarded for their loyality: T
 
 ### Tokenomics
 
-Please note that this is based on informal information given by the team in Telegram channels and official news.
-
 Supply: 10 Million tokens  
 Initial price: $ZERO price multiplied by 100  
 Initial marketcap: Same as $ZERO  
@@ -88,6 +86,7 @@ Initial marketcap: Same as $ZERO
 <img alt="Picture" src={useBaseUrl('/img/relay-chart.jpeg')} />  
 
 All the information regarding tokenomics is on [Zero Reborn Pt. 3](https://medium.com/@OfficialZeroDex/fdcc1924eae9)
+
 
 __How the bridge fees will be used:__
 
@@ -97,5 +96,19 @@ __How the bridge fees will be used:__
 
 Which proportions of the bridge fees will be allocated to which part, still to be disclosed by the team.
 
+### Benefits of the RELAY token
+
+Being the main token pair on all chains, the RELAY token will be central to the model. RELAY token holders will own a token that solves all of the shortcomings of the former ZERO token. Sell pressure will be almost completely eliminated with no RELAY emissions after the first few weeks. In fact, constant buy pressure is created with ongoing buy back/burn, and the need to hold RELAY to earn LP rewards (from tthe bridge fees).
+
+In short, a non emitting/deflationary token, that also earns valuable gas tokens, and also comes with other added benefits. Not many other tokens come with this utility built in. More partnerships leads to more transaction leads to more token buyback/burn and more LP rewards. 
+
+* Partner DApps benefit 
+* Regular users benefit
+* Arbitrageurs benefit
+* Token holders benefit
+
+
 ### Doxxing of the bridge relayers
 [Check this faq](../faq/faq028.md)
+
+
