@@ -44,9 +44,21 @@ Other parts of the existing Zero exchange features, like being a multi chain DEX
 -	Fast transfer
 -	Continue with the Gas Token Airdrop for being able to do a few trades on the destination chain
 
+
+### Relay at the center of DeFi
+
+With many different live operational chains (+ new ones coming up, like DOT, ADA) where dApps are being developped (like DEXes for example), there is a need to move assets from chain to chain: Interoperability is paramount to solving the issue of fragmented liquidity accross chains.  Arbitrage opportunities as wekll will become seamless and price can be constantly balanced on all of the popular chains.   
+
+<img alt="Picture" src={useBaseUrl('/img/relaylaunch-interoperability.jpg')} />  
+
+RELAY can become a major hub:  
+* Users go the RELAY dApp and cross chain from there
+* BaaS ("bridge as a service"): The RELAY bridge is integrated in partners' dApps and when a user does a cross chain operation on the partners' dApps, (s)he doesn't even know that the tokens are transfered through the RELAY bridge.  
+
+
 ### Website/url
 
-A new website and a new URL will be created
+A new website will be live soon: https://www.relaychain.com/
 
 
 ### The $RELAY token
@@ -62,8 +74,6 @@ Long term holders of the $ZERO token will be also rewarded for their loyality: T
 
 ### Tokenomics
 
-Please note that this is based on informal information given by the team in Telegram channels and official news.
-
 Supply: 10 Million tokens  
 Initial price: $ZERO price multiplied by 100  
 Initial marketcap: Same as $ZERO  
@@ -71,6 +81,7 @@ Initial marketcap: Same as $ZERO
 <img alt="Picture" src={useBaseUrl('/img/relay-chart.jpeg')} />  
 
 All the information regarding tokenomics is on [Zero Reborn Pt. 3](https://medium.com/@OfficialZeroDex/fdcc1924eae9)
+
 
 __How the bridge fees will be used:__
 
@@ -80,5 +91,19 @@ __How the bridge fees will be used:__
 
 Which proportions of the bridge fees will be allocated to which part, still to be disclosed by the team.
 
+### Benefits of the RELAY token
+
+Being the main token pair on all chains, the RELAY token will be central to the model. RELAY token holders will own a token that solves all of the shortcomings of the former ZERO token. Sell pressure will be almost completely eliminated with no RELAY emissions after the first few weeks. In fact, constant buy pressure is created with ongoing buy back/burn, and the need to hold RELAY to earn LP rewards (from tthe bridge fees).
+
+In short, a non emitting/deflationary token, that also earns valuable gas tokens, and also comes with other added benefits. Not many other tokens come with this utility built in. More partnerships leads to more transaction leads to more token buyback/burn and more LP rewards. 
+
+* Partner DApps benefit 
+* Regular users benefit
+* Arbitrageurs benefit
+* Token holders benefit
+
+
 ### Doxxing of the bridge relayers
 [Check this faq](../faq/faq028.md)
+
+
