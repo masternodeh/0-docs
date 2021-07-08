@@ -47,7 +47,7 @@ Other parts of the existing Zero exchange features, like being a multi chain DEX
 
 ### Relay at the center of DeFi
 
-With many different live operational chains (+ new ones coming up, like DOT, ADA) where dApps are being developped (like DEXes for example), there is a need to move assets from chain to chain: Interoperability is paramount to solving the issue of fragmented liquidity accross chains.  Arbitrage opportunities as wekll will become seamless and price can be constantly balanced on all of the popular chains.   
+With many different live operational chains (+ new ones coming up, like DOT, ADA) where dApps are being developped (like DEXes for example), there is a need to move assets from chain to chain: Interoperability is paramount to solving the issue of fragmented liquidity accross chains.  Arbitrage opportunities as well will become seamless and price can be constantly balanced on all of the popular chains.   
 
 <img alt="Picture" src={useBaseUrl('/img/relaylaunch-interoperability.jpg')} />  
 
