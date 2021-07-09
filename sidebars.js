@@ -6,7 +6,7 @@ module.exports = {
     HELPDESK: ['sd/sd001'], 
     RELAY: ['relay/relaylaunch', 'relay/lpzero2relay', 'relay/relaymemegif'],
     BLOCKCHAINS: ['eth','avax','bsc','polygon','sol','osmosis'],
-    PROPOSALS: ['osmosis/ion/whatision','osmosis/ion/prop001','osmosis/ion/prop002','osmosis/ion/prop003'],
+    PROPOSALS: ['osmosis/ion/whatision','osmosis/ion/prop001','osmosis/ion/prop002','osmosis/ion/prop003','osmosis/ion/prop004','osmosis/ion/prop005'],
     EXPLAINERS: ['il','nft','rugpull'],
     NFTS: ['grow','nonfungibleapes'],
   },

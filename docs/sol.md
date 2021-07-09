@@ -21,8 +21,10 @@ These docs are provided by the community please use at your own risk
 
 ## Tokenomics
 
-Circulating Supply	272,637,428 SOL
-Total Supply	494,519,162 SOL
+*Circulating Supply*	272,637,428 SOL
+
+*Total Supply*	494,519,162 SOL
+
 
 The SOL token distribution is as follows: 16.23% went towards an initial seed sale, 12.92% of tokens were dedicated to a founding sale, 
 12.79% of SOL coins were distributed among team members and 10.46% of tokens were given to the Solana Foundation. 

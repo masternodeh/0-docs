@@ -9,7 +9,7 @@ keywords:
  - "Osmosis"
  - "Ion"
  
-image:  /static/eth-logo.svg
+image:  /static/img/ion.png
 ---
 
 import Tabs from '@theme/Tabs';
