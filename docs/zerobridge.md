@@ -87,4 +87,4 @@ A bridge transaction goes through 6 relayers and a vote happens: Threshold is fo
 
 <img alt="Picture" src={useBaseUrl('/img/zerobridge-4.jpg')} />
 
-A few extracts from posts by the project leader in [this FAQ about relayers](/faq/faq028.md)
+A few extracts from posts by the project leader in [this FAQ about relayers](faq/faq028.md)
