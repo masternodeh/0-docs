@@ -62,7 +62,7 @@ When cross chaining, it's important to set the correct gas settings (especially 
 
 #### Same wallet
 
-A cross chain always happen from the same origin and destination wallet address:  Tokens leave a chain and arrive on another chain, still inside the same wallet.  
+A cross chain always happens from the same origin and destination wallet address:  Tokens leave a chain and arrive on another chain, still inside the same wallet.  
 
 <img alt="Picture" src={useBaseUrl('/img/zerobridge-1.jpg')} />
 
@@ -71,11 +71,11 @@ A cross chain always happen from the same origin and destination wallet address:
 
 Fees are paid in the origin chain gas token.  
 
-Moving an asset from its native chain to another chain involves a locking and minting mecanism:  
+Moving an asset from its native chain to another chain involves a locking and minting mechanism:  
 
 <img alt="Picture" src={useBaseUrl('/img/zerobridge-2.jpg')} />
 
-Moving an asset back to its native chain from another chain involves a burning and unlocking mecanism:  
+Moving an asset back to its native chain from another chain involves a burning and unlocking mechanism:  
 
 <img alt="Picture" src={useBaseUrl('/img/zerobridge-3.jpg')} />
 
