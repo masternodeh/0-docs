@@ -86,3 +86,5 @@ Relayers are like the guardians of the bridge and make sure that the transaction
 A bridge transaction goes through 6 relayers and a vote happens: Threshold is for the moment 4 out of 6 relayers, they have to cast the same vote to approve the transaction going through.
 
 <img alt="Picture" src={useBaseUrl('/img/zerobridge-4.jpg')} />
+
+A few extracts from posts by the project leader in [this FAQ about relayers](/faq/faq028.md)
