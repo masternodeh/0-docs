@@ -47,13 +47,13 @@ Other parts of the existing Zero exchange features, like being a multi chain DEX
 
 ### Relay at the center of DeFi
 
-With many different live operational chains (+ new ones coming up, like DOT, ADA) where dApps are being developped (like DEXes for example), there is a need to move assets from chain to chain: Interoperability is paramount to solving the issue of fragmented liquidity accross chains.  Arbitrage opportunities as wekll will become seamless and price can be constantly balanced on all of the popular chains.   
+With many different live operational chains (+ new ones coming up, like DOT, ADA) where dApps are being developed (like DEXes for example), there is a need to move assets from chain to chain: Interoperability is paramount to solving the issue of fragmented liquidity across chains.  Arbitrage opportunities as well will become seamless and price can be constantly balanced on all of the popular chains.   
 
 <img alt="Picture" src={useBaseUrl('/img/relaylaunch-interoperability.jpg')} />  
 
 RELAY can become a major hub:  
 * Users go the RELAY dApp and cross chain from there
-* BaaS ("bridge as a service"): The RELAY bridge is integrated in partners' dApps and when a user does a cross chain operation on the partners' dApps, (s)he doesn't even know that the tokens are transfered through the RELAY bridge.  
+* BaaS ("bridge as a service"): The RELAY bridge is integrated in partners' dApps and when a user does a cross chain operation on the partners' dApps, (s)he doesn't even know that the tokens are transferred through the RELAY bridge.  
 
 
 ### Website/url
@@ -103,7 +103,11 @@ In short, a non emitting/deflationary token, that also earns valuable gas tokens
 * Token holders benefit
 
 
-### Doxxing of the bridge relayers
-[Check this faq](../faq/faq028.md)
+### Parnters for the bridge relayers
+* Bitcoin.com Exchange
+* Zokyo
+* Bridge Mutual
+* ChartEx
+
 
 
