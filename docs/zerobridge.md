@@ -58,4 +58,31 @@ The Zero Exchange has foreseen a goodie for the bridge users: When you do a cros
 When cross chaining, it's important to set the correct gas settings (especially when crossing from the Ethereum chain): Check the settings in this [gas settings guide](https://0-exchange.gitbook.io/0-exchange-docs/pinned/transaction-fails) 
 
 
+### Principles of cross chaining
 
+## Same wallet
+
+A cross chain always happen from the same origin and destination wallet address:  Tokens leave a chain and arrive on another chain, still inside the same wallet.  
+
+<img alt="Picture" src={useBaseUrl('/img/zerobridge-1.jpeg')} />
+
+
+## Locking, minting, burning
+
+Fees are paid in the origin chain gas token.  
+
+Moving an asset from its native chain to another chain involves a locking and minting mecanism:  
+
+<img alt="Picture" src={useBaseUrl('/img/zerobridge-2.jpeg')} />
+
+Moving an asset back to its native chain from another chain involves a burning and unlocking mecanism:  
+
+<img alt="Picture" src={useBaseUrl('/img/zerobridge-3.jpeg')} />
+
+## Relayers
+
+Relayers are like the guardians of the bridge and make sure that the transaction is processed exactly as stated (number of tokens minted/burned/locked/unlocked) and to the correct destination wallet.
+
+A bridge transaction goes through 6 relayers and a vote happens: Threshold is for the moment 4 out of 6 relayers have to cast the same vote to approve the transaction going through
+
+<img alt="Picture" src={useBaseUrl('/img/zerobridge-4.jpeg')} />
