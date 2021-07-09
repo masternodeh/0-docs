@@ -53,7 +53,7 @@ With many different live operational chains (+ new ones coming up, like DOT, ADA
 
 RELAY can become a major hub:  
 * Users go the RELAY dApp and cross chain from there
-* BaaS ("bridge as a service"): The RELAY bridge is integrated in partners' dApps and when a user does a cross chain operation on the partners' dApps, (s)he doesn't even know that the tokens are transfered through the RELAY bridge.  
+* BaaS ("bridge as a service"): The RELAY bridge is integrated in partners' dApps and when a user does a cross chain operation on the partners' dApps, (s)he doesn't even know that the tokens are transferred through the RELAY bridge.  
 
 
 ### Website/url
