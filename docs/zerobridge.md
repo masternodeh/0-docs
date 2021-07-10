@@ -40,6 +40,7 @@ The bridge enables to cross tokens from one chain to the other, bridge is connec
 * [No liquidity to swap "zXXX" tokens after a cross chain](faq/faq026.md)
 * [Why are some of the tokens named "zXXX"](faq/faq005.md)
 * [Role of relayers in the bridge operation + partners](faq/faq028.md)
+* [Register a ticket](sd/sd001.md) in case of a stuck transaction 
   
 
 ### Cross chain/bridging fees
