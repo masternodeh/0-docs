@@ -103,7 +103,7 @@ In short, a non emitting/deflationary token, that also earns valuable gas tokens
 * Token holders benefit
 
 
-### Parnters for the bridge relayers
+### Partners for the bridge relayers
 * Bitcoin.com Exchange
 * Zokyo
 * Bridge Mutual
