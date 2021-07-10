@@ -69,7 +69,7 @@ Initially, the only way to acquire $RELAY tokens is by exchanging from $ZERO tok
 
 How and when still to be announced.
 
-Long term holders of the $ZERO token will be also rewarded for their loyality: The how and when, still to be announced
+Long term holders of the $ZERO token will be also rewarded for their loyalty: The how and when, still to be announced
 
 
 ### Tokenomics
@@ -103,7 +103,7 @@ In short, a non emitting/deflationary token, that also earns valuable gas tokens
 * Token holders benefit
 
 
-### Parnters for the bridge relayers
+### Partners for the bridge relayers
 * Bitcoin.com Exchange
 * Zokyo
 * Bridge Mutual
