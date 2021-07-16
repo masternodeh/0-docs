@@ -65,7 +65,7 @@ When cross chaining, it's important to set the correct gas settings (especially 
 
 A cross chain always happens from the same origin and destination wallet address:  Tokens leave a chain and arrive on another chain, still inside the same wallet.  
 
-<img alt="Picture" src={useBaseUrl('/img/zerobridge-1.jpg')} />
+<img alt="Picture" src={useBaseUrl('/img/zerobridge-1-1.jpg')} />
 
 
 #### Locking, minting, burning
