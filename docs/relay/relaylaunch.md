@@ -39,7 +39,7 @@ Articles published by the team on Medium:
 The information described below is both on basis of the official articles and info given by the team on the Telegram channels.
 
 Other AMA to listen to:
-* [July 13th with Trade the Chain on Youtube](https://www.youtube.com/watch?v=_C3OQ11AgHc)
+* [July 13th, with Trade the Chain on Youtube](https://www.youtube.com/watch?v=_C3OQ11AgHc)
 * [July 14th, with the community on Telegram](https://soundcloud.com/officialzerodex/relay-ama-with-ed-and-gram)
 
 ## The relay chain ecosystem
