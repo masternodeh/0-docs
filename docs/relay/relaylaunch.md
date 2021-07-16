@@ -38,6 +38,10 @@ Articles published by the team on Medium:
 
 The information described below is both on basis of the official articles and info given by the team on the Telegram channels.
 
+Other AMA to listen to:
+* [July 13th with Trade the Chain on Youtube](https://www.youtube.com/watch?v=_C3OQ11AgHc)
+* [July 14th, with the community on Telegram](https://soundcloud.com/officialzerodex/relay-ama-with-ed-and-gram)
+
 ## The relay chain ecosystem
 
 In light of the project evolution from its launch at the end of January 2021 and during the course of the first half of 2021, and in order to counter some issues which were affecting the ZERO token monetary value, and to widen the adoption of its cross chain bridge, the Zero team has decided to capitalize on their main asset: The ZeroBridge, together with a new form of tokenomics centered around the bridge fees. 
