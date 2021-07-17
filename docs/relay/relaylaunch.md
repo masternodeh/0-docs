@@ -23,14 +23,24 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
+:::Note
+__When can ZERO tokens be swapped to RELAY? On August 2nd, 2021  
+How long can we swap after it has started? 30 days (but team will assess the end period and may change the end date)  
+When is part 4 released? On August 2nd, 2021__
+:::
+
 ## Official information
 Articles published by the team on Medium: 
 -	Part 1: [Zero Reborn Pt. 1](https://medium.com/@OfficialZeroDex/zero-reborn-pt-1-afe615080360)
 -	Part 2: [Zero Reborn Pt. 2](https://medium.com/@OfficialZeroDex/zero-reborn-pt-2-ea018623285)
 -	Part 3: [Zero Reborn Pt. 3](https://medium.com/@OfficialZeroDex/fdcc1924eae9) + [live AMA with the team lead](https://t.me/ZeroExchangeAnn/368)
--	Part 4: To be announced
+-	Part 4: Released on August 2nd, 2021
 
 The information described below is both on basis of the official articles and info given by the team on the Telegram channels.
+
+Other AMA to listen to:
+* [July 13th, with Trade the Chain on Youtube](https://www.youtube.com/watch?v=_C3OQ11AgHc)
+* [July 14th, with the community on Telegram](https://soundcloud.com/officialzerodex/relay-ama-with-ed-and-gram)
 
 ## The relay chain ecosystem
 
@@ -67,7 +77,7 @@ In order to realise the new direction, a new token will be minted, $RELAY, which
 
 Initially, the only way to acquire $RELAY tokens is by exchanging from $ZERO tokens.
 
-How and when still to be announced.
+How still to be announced.
 
 Long term holders of the $ZERO token will be also rewarded for their loyalty: The how and when, still to be announced
 
