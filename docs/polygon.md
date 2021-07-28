@@ -58,6 +58,8 @@ Scammers are out there minting tokens that have the same names and same supply b
 |       Name    |       Address                                 |       Decimals        |
 | ------------- |       :-----------:                           |       -----:          |
 | Zero          | `0xb67176655e7919a27aA34C279157124619aDFd4B`  |        ** 18 **       |
+| AVAX          | `0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b`  |        ** 18 **       |
+
 
 ## Using Official Matic Bridge
 Browse to [https://wallet.matic.network](https://wallet.matic.network/) and connect your MetaMask on the ETH Chain
