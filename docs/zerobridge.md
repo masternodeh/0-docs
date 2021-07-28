@@ -46,9 +46,9 @@ The bridge enables to cross tokens from one chain to the other, bridge is connec
 ### Cross chain/bridging fees
 
 Fees depends on which chain tokens are bridged from:
-* From Polygon to another chain: 25.00 MATIC
+* From Polygon to another chain: 10.00 MATIC
 * From BSC to another chain: 0.07 BNB
-* From Avax to another chain: 2.00 AVAX
+* From Avax to another chain: 1.00 AVAX
 * From Ethereum to another chain: 0.056 ETH
 
 Fees are paid in the token you bridge from.  If for example, you bridge tokens from the Avalanche to the Polygon chain, the transaction will be paid in AVAX.  
