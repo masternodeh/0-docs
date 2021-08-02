@@ -24,9 +24,9 @@ import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 :::note
-When can ZERO tokens be swapped to RELAY? On August 2nd, 2021  
-How long can we swap after it has started? 30 days (but team will assess the end period and may change the end date)  
-When is part 4 released? On August 2nd, 2021 
+When can ZERO tokens be swapped to RELAY? **On August 4nd, 2021** 
+ 
+How long can we swap after it has started? **Till September 12th, 2021**
 :::
 
 ## Official information
