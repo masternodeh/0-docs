@@ -34,7 +34,7 @@ Articles published by the team on Medium:
 -	Part 1: [Zero Reborn Pt. 1](https://medium.com/@OfficialZeroDex/zero-reborn-pt-1-afe615080360)
 -	Part 2: [Zero Reborn Pt. 2](https://medium.com/@OfficialZeroDex/zero-reborn-pt-2-ea018623285)
 -	Part 3: [Zero Reborn Pt. 3](https://medium.com/@OfficialZeroDex/fdcc1924eae9) + [live AMA with the team lead](https://t.me/ZeroExchangeAnn/368)
--	Part 4: Released on August 2nd, 2021
+-	Part 4: [Zero Reborn Pt. 4](https://medium.com/@Relay_Chain/zero-reborn-as-relay-pt-4-2e9c1175d662)
 
 The information described below is both on basis of the official articles and info given by the team on the Telegram channels.
 
