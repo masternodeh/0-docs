@@ -23,7 +23,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-:::note
+:::tip
 When can ZERO tokens be swapped to RELAY? **On August 4nd, 2021** 
  
 How long can we swap after it has started? **Till September 12th, 2021**
